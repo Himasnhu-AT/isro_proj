@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="is_preferred_phone_account_migration_pending" value="false" />
+    <string name="locale">[en_US]</string>
+    <boolean name="is_call_log_phone_account_migration_pending" value="false" />
+    <string name="LetterCountCache">content://com.android.contacts/contacts?android.provider.extra.ADDRESS_BOOK_INDEX=true&#1;display_name IS NOT NULL&#1;sort_key ASC&#1;&#2;F&#1;1</string>
+</map>

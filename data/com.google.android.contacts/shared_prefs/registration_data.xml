@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last_successful_registration_pseudonymous_cookie">516=HMzQePB6Fp4BhAPYwPYUeKxJjRR9c6X-Ll3iLS08nUVlVTha9S6ohrNDyyBgkl2NlxeYhJJV4GLCvpMCNdbttG0YP3IegINsEfheNOlCrEASSRKZVx4nWBcCTLgObHIApjlkEsPiobAEJcZA7Qb2gPjwy4LAZzFC8zoinU7Da2M</string>
+    <string name="last_successful_registration_environment_url">notifications-pa.googleapis.com</string>
+    <int name="last_successful_registration_request_hash_code" value="2133127699" />
+    <long name="last_successful_registration_time_ms" value="1723613074922" />
+    <string name="fetch_only_id">baf36cf4-2ce1-4b47-918b-bffec1d54fd2</string>
+    <string name="internal_target_id">Eh5nY21fZm86djE6MTA1NzUzMzU1Mzc0NTkxMDIyMTI</string>
+    <int name="last_successful_registration_account_type" value="2" />
+</map>

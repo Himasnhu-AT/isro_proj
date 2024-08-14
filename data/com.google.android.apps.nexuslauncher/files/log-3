@@ -1,0 +1,27 @@
+8/14/24 12:18 AM DisplayController Unexpected normalizedDisplayInfo found, invalidating cache: CachedDisplayInfo{size=Point(1440, 3120), cutout=Rect(0, 144 - 0, 0), rotation=0}
+8/14/24 12:18 AM DisplayController (Invalid Cache) perDisplayBounds - CachedDisplayInfo{size=Point(1440, 3120), cutout=Rect(0, 0 - 0, 0), rotation=0}: [WindowBounds{bounds=Rect(0, 0 - 1440, 3120), insets=Rect(0, 84 - 0, 84), availableSize=Point(1440, 2952), rotationHint=0}, WindowBounds{bounds=Rect(0, 0 - 3120, 1440), insets=Rect(0, 84 - 0, 84), availableSize=Point(3120, 1272), rotationHint=1}, WindowBounds{bounds=Rect(0, 0 - 1440, 3120), insets=Rect(0, 84 - 0, 84), availableSize=Point(1440, 2952), rotationHint=2}, WindowBounds{bounds=Rect(0, 0 - 3120, 1440), insets=Rect(0, 84 - 0, 84), availableSize=Point(3120, 1272), rotationHint=3}]
+8/14/24 12:18 AM b/283944974 possibleMaximumWindowMetrics: [WindowMetrics:{bounds=Rect(0, 0 - 1440, 3120), windowInsets=WindowInsets{
+    statusBars=Insets{left=0, top=84, right=0, bottom=0} max=Insets{left=0, top=84, right=0, bottom=0} vis=true
+    navigationBars=Insets{left=0, top=0, right=0, bottom=84} max=Insets{left=0, top=0, right=0, bottom=84} vis=true
+    captionBar=null max=null vis=false
+    ime=Insets{left=0, top=0, right=0, bottom=0} max=null vis=false
+    systemGestures=Insets{left=105, top=186, right=105, bottom=112} max=Insets{left=105, top=186, right=105, bottom=112} vis=true
+    mandatorySystemGestures=Insets{left=0, top=186, right=0, bottom=112} max=Insets{left=0, top=186, right=0, bottom=112} vis=true
+    tappableElement=Insets{left=0, top=84, right=0, bottom=0} max=Insets{left=0, top=84, right=0, bottom=0} vis=true
+    displayCutout=Insets{left=0, top=144, right=0, bottom=0} max=Insets{left=0, top=144, right=0, bottom=0} vis=true
+    windowDecor=null max=null vis=false
+    systemOverlays=null max=null vis=false
+    cutout=DisplayCutout{insets=Rect(0, 144 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(653, 0 - 798, 144), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.5} cutoutSpec={M 677,72 a 43,43 0 1 0 86,0 a 43,43 0 1 0 -86,0 Z @left} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}}}
+    roundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=50, center=Point(50, 50)}, RoundedCorner{position=TopRight, radius=50, center=Point(1390, 50)}, RoundedCorner{position=BottomRight, radius=49, center=Point(1391, 3071)}, RoundedCorner{position=BottomLeft, radius=49, center=Point(49, 3071)}]}
+    privacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1104, 0 - 1391, 98) rotation=0}
+    displayShape=DisplayShape{ spec=2091232517 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}
+    suppressScrimTypes=navigationBars
+    compatInsetsTypes=statusBars navigationBars captionBar systemOverlays
+    compatIgnoreVisibility=false
+    systemWindowInsetsConsumed=false
+    stableInsetsConsumed=false
+    displayCutoutConsumed=false
+    }, density=3.5}]
+8/14/24 12:18 AM DisplayController (CHANGE_SUPPORTED_BOUNDS) perDisplayBounds - CachedDisplayInfo{size=Point(1440, 3120), cutout=Rect(0, 144 - 0, 0), rotation=0}: [WindowBounds{bounds=Rect(0, 0 - 1440, 3120), insets=Rect(0, 144 - 0, 84), availableSize=Point(1440, 2892), rotationHint=0}, WindowBounds{bounds=Rect(0, 0 - 3120, 1440), insets=Rect(144, 98 - 0, 84), availableSize=Point(2976, 1258), rotationHint=1}, WindowBounds{bounds=Rect(0, 0 - 1440, 3120), insets=Rect(0, 144 - 0, 144), availableSize=Point(1440, 2832), rotationHint=2}, WindowBounds{bounds=Rect(0, 0 - 3120, 1440), insets=Rect(0, 98 - 144, 84), availableSize=Point(2976, 1258), rotationHint=3}]
+8/14/24 12:19 AM ModelWriter removing items from db . Reason: [removed because the corresponding package or component is removed. mOp=2 removedPackages=[com.android.nfc] removedComponents=[]]
+8/14/24 12:24 AM ModelWriter removing items from db . Reason: [removed because the corresponding package or component is removed. mOp=2 removedPackages=[com.google.android.gms.supervision] removedComponents=[]]

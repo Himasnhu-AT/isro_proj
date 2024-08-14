@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="rollback_boot.snapshotToken1"> com.google.android.platform.rollback_boot 332 1 0 com.google.android.platform.rollback_boot 0 0</string>
+    <string name="surface_flinger_native_boot.snapshotToken1"> com.google.android.platform.surface_flinger_native_boot 332 1 761988401 com.google.android.platform.surface_flinger_native_boot 761988401 0</string>
+    <string name="activity_manager_native_boot.snapshotToken1"> com.google.android.platform.activity_manager_native_boot 332 1 -773707215 com.google.android.platform.activity_manager_native_boot -773707215 0</string>
+    <string name="profcollect_native_boot.snapshotToken1"> com.google.android.platform.profcollect_native_boot 332 1 0 com.google.android.platform.profcollect_native_boot 0 0</string>
+    <string name="statsd_java_boot.snapshotToken1"> com.google.android.platform.statsd_java_boot 340818060 1 0 com.google.android.platform.statsd_java_boot 0 0</string>
+    <string name="snapshotToken1"> com.google.android.gms.settings.platform 332 5 1149110871 com.google.android.gms.settings.platform 1149110871 1</string>
+    <string name="_boot_snapshotToken1"> com.google.android.gms.settings.platform.boot 332 1 0 com.google.android.gms.settings.platform.boot 0 1</string>
+    <string name="storage_native_boot.snapshotToken1"> com.google.android.platform.storage_native_boot 332 1 282194290 com.google.android.platform.storage_native_boot 282194290 0</string>
+    <string name="window_manager_native_boot.snapshotToken1"> com.google.android.platform.window_manager_native_boot 332 1 0 com.google.android.platform.window_manager_native_boot 0 0</string>
+    <string name="input_native_boot.snapshotToken1"> com.google.android.platform.input_native_boot 332 1 0 com.google.android.platform.input_native_boot 0 0</string>
+    <string name="runtime_native_boot.snapshotToken1"> com.google.android.platform.runtime_native_boot 340818082 3 244887912 com.google.android.platform.runtime_native_boot 244887912 0</string>
+    <string name="shared_native_boot.snapshotToken1"> com.google.android.platform.shared_native_boot 332 1 0 com.google.android.platform.shared_native_boot 0 0</string>
+    <string name="_boot_hash">247715873</string>
+    <string name="statsd_native_boot.snapshotToken1"> com.google.android.platform.statsd_native_boot 340818060 1 0 com.google.android.platform.statsd_native_boot 0 0</string>
+    <string name="hash">-2126855357</string>
+    <string name="vendor_system_native_boot.snapshotToken1"> com.google.android.platform.vendor_system_native_boot 332 1 0 com.google.android.platform.vendor_system_native_boot 0 0</string>
+</map>

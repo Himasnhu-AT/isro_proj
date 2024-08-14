@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="themes_sanitized" value="true" />
+    <long name="last_daily_log_timestamp" value="1723575124265" />
+    <string name="default_recent_wallpapers">[{&quot;id&quot;:&quot;unknown_current_wallpaper_id&quot;,&quot;attributions&quot;:[&quot;Wallpaper&quot;,null,null],&quot;color&quot;:-13154959}]</string>
+    <int name="home_wallpaper_id" value="2" />
+</map>

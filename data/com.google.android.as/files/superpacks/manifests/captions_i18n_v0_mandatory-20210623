@@ -1,0 +1,21 @@
+{
+  "packs": [
+    {
+      "namespace": "captions_i18n_v0_mandatory",
+      "name": "sound_recognition_v1",
+      "compressed_size": 2565038,
+      "size": 3587621,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://storage.googleapis.com/captions/sound_recognition_v1.zip"
+      ],
+      "download_packing_scheme": "zip",
+      "validation_schemes": [
+        "md5"
+      ],
+      "md5_checksum": "8e48644f5299fcf58176da52ddaf9244",
+      "pack_type": "mandatory"
+    }
+  ]
+}

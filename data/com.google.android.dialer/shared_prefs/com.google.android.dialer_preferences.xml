@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="com.android.voicemail.impl.is_shutting_down" value="false" />
+    <int name="persistent_long_next_file_index_plain_text" value="1" />
+    <boolean name="pre_t_phone_account_migration_completed" value="true" />
+</map>

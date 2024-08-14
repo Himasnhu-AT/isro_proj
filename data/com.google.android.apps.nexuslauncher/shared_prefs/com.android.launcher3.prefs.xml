@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="launcher.home_bounce_count" value="3" />
+    <string name="migration_src_workspace_size">4,5</string>
+    <int name="migration_src_hotseat_count" value="4" />
+    <string name="migration_src_db_file">launcher_4_by_5.db</string>
+    <string name="idp_grid_name">practical</string>
+    <int name="ALL_APPS_SEARCH_CORPUS_PREFERENCE" value="141151" />
+    <int name="migration_src_device_type" value="0" />
+</map>

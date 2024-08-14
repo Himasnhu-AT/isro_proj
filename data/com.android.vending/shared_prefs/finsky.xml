@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="verify-installed-apps-last-success-ms" value="1723574976457" />
+    <long name="downloader_facade_last_interaction_with_download_manager_time_ms" value="1723574952164" />
+    <boolean name="no-conn-noti-req" value="false" />
+    <long name="dailyhygiene-lastsuccess" value="1723575136547" />
+    <int name="previous-notification-android-system-setting" value="1" />
+    <int name="play-protect-default-on-notification-status" value="17" />
+    <boolean name="has-cache-affecting-process-stable-experiment-flags-changed" value="false" />
+    <string name="safety-net-id-cached-value">663bffa2-d0f5-447a-b017-356fb953e01a</string>
+    <boolean name="pai-deferred-notification-supported" value="true" />
+    <long name="network-main-cache-cleared-timestamp-millis" value="1723575300318" />
+    <long name="last-notification-impression-timestamp-msNOTIFICATION_PLAY_PROTECT_DEFAULT_ON" value="1723575056247" />
+    <string name="gcm-registration-id-on-server">eCT6pOAwTFGKjHWMwZTjQd:APA91bFfdEelAEtsjPU6PGyR0MXwobnJYg8G5NYR2_ydRpzBDsgCCCKfiu5rlGTn6swL2R5dqjGClDTRYB_MtdGkrT0qOSN6025c9G6SvU1P0Xcvomu3hw0CjDTZFB-yUit5RyIjuyUu</string>
+    <string name="connectivity_profile_metrics">CAAQARj5nwEgwNmkPCoIVC1Nb2JpbGU=&#10;    </string>
+    <int name="dailyhygiene-failed" value="3" />
+    <long name="last-regular-flag-sync-time" value="1723613168215" />
+    <int name="stable_config_change_count" value="4" />
+    <string name="checkin-phenotype-experiment-ids">26025069,26025958,50632843</string>
+    <string name="dailyhygiene-last-android-version">google/sdk_gphone64_arm64/emu64a:14/UE1A.230829.036/11036701:user/release-keys</string>
+    <int name="dailyhygiene-last-version" value="84222730" />
+    <long name="adid-cached-timestamp-ms" value="1723613216682" />
+    <long name="last-notification-impression-timestamp-ms926" value="1723575128933" />
+    <int name="aot_profile_availability_version" value="84222730" />
+    <boolean name="aot_profile_compilation_triggered" value="true" />
+    <long name="logs-flush-schedule-expired-timestamp" value="0" />
+    <long name="last-time-offmarket-installed-ms" value="1723575138911" />
+    <string name="anti-malware-consent-model">DefaultOnDeviceWideSystemUserConsent</string>
+    <boolean name="is-notification-android-system-setting-disabled" value="false" />
+    <boolean name="has-stale-process-stable-experiment-flags" value="true" />
+    <long name="verify-installed-apps-lite-last-success-ms" value="1723575143807" />
+    <long name="play-protect-default-on-notification-first-shown-ms" value="1723574962173" />
+    <long name="network-stats-manager-last-query-ms" value="1723613216776" />
+    <boolean name="pai-required-installs-triggered" value="true" />
+    <long name="restore-complete-time-ms" value="1723574963457" />
+    <int name="aot_profile_availability" value="2" />
+    <long name="appFreshness-last-logging" value="1723577651649" />
+    <int name="last-shown-notification-type-before-disabled" value="926" />
+    <string name="target-listnull">739,744,12602040,12602049,12602373,12602377,12602392,12602623,12602748,12602795,12602981,12603067,12603068,12603101,12603111,12603146,12603159,12603193,12603248,12603380,12603394,12603406,12603514,12603602,12603791,12604059,12604079,12604155,12604244,12604245,12604266,12604357,12604382,12605120,12605124,12605398,12605458,12605742,12608143,12609441,12610177,12614241,12619745,12624985,12627688,12629867,12633045,12646833,12646902,12647983,98473766</string>
+    <long name="hygieneTask-window-initial-seed-ms" value="22296017086" />
+    <int name="verify-apps-consent-local-backup-for-default-on" value="1" />
+    <int name="play-protect-default-on-notification-restore-count" value="2" />
+    <string name="adid-cached-value">04eed266-993c-43e0-a783-91f6f0fa6285</string>
+    <long name="last-stable-flag-sync-time" value="1723613871255" />
+    <long name="flush-counters-timestamp-ms" value="1723581862422" />
+    <boolean name="adid-limit-tracking-cached-value" value="false" />
+    <long name="phonesky-data-usage-last-logging-ms" value="1723572000000" />
+</map>

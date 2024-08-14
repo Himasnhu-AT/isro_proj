@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="android.contacts.DISPLAY_ORDER" value="1" />
+    <boolean name="app-theme-synced" value="true" />
+    <int name="android.contacts.SORT_ORDER" value="1" />
+    <int name="Phonetic_name_display" value="1" />
+    <int name="assistant-job-ids" value="0" />
+    <boolean name="setApplicationNightModeCalled" value="true" />
+</map>

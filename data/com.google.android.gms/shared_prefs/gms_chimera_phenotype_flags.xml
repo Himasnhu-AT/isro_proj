@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="GmsCoreLoggerFeature__facet_usage">CAASDQkAAAAAAADwPygAMAEqBAiAowU</string>
+    <string name="Chimera__allowed_app_module_dep_features">photopicker_activity,games,vision.barcode,vision.face,vision.ica,vision.ocr,tflite_dynamite,home,</string>
+    <boolean name="PersonalsafetyFeature__enable_dult_for_ble_identification" value="true" />
+    <long name="westworld_phenotype_register_timeout_millis" value="3600000" />
+    <boolean name="PackageVerification__enable_fine_grained_third_party" value="true" />
+    <string name="GmsCoreLoggerFeature__qr_code_package_data_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <boolean name="PersonalsafetyFeature__enable_finder_tag_separated_state_check" value="true" />
+    <string name="GmsCoreLoggerFeature__data_collection_verification_data_config">CAISCQn8qfHSTWJQPyoECICjBQ</string>
+    <boolean name="45642399" value="false" />
+    <boolean name="PersonalsafetyFeature__enable_ringing_pending_card" value="true" />
+    <boolean name="Primes__enable_primes_dir_stats" value="true" />
+    <string name="ChimeraCriticalPath__blacklisted_modules_with_versions">,com.google.android.gms.enpromo,com.google.android.gms.nearby_en,com.google.android.gms.smart_profile,com.google.android.gms.rcs,com.google.android.gms.flags,com.google.android.gms.flags.pkg,com.google.android.gms.panorama,com.google.android.gms.herrevad,com.google.android.gms.netrec,com.google.android.gms.appintegrity,com.google.android.gms.core_download</string>
+    <long name="Tracing__random_initialization_modulus" value="100" />
+    <string name="FacetUsageLoggingFeature__facet_event_logger_facet_id_allow_list">CmGiAsoC7gWsB8oM2gXyEfMK8Qr0CvIK5gvcENwL5AoX0gueCpIJgA+wDrYRtAaYAqwCigr8B6QImAfAAvgPtgL6BpIOnA60AYgOygfOCcYP2g/kD84T4A3vCqABjgLGBcwX</string>
+    <string name="SchedulerHousekeepingTasks__weekly_no_network_constraint_relaxation_policy">Cg0NMzMzPxIGCAEQAhgBCg0NAACAPxIGCAEQAhgACg0NzcyMPxIGCAEQARgA</string>
+    <string name="FeatureStatusLogging__feature_opt_in_status_zwieback">CAISDQkAAAAAAADwPxAjIgA</string>
+    <boolean name="PersonalsafetyFeature__enable_reprocessing_ble_scans_with_new_location" value="true" />
+    <boolean name="LevelDb__disable_info_log" value="true" />
+    <boolean name="PersonalsafetyFeature__use_customized_notification_icon" value="true" />
+    <string name="GmsCoreLoggerFeature__static_def_allow_list">CgqwAbMBvQHrAasC</string>
+    <string name="Chimera__blocked_automotive_features">CgYKBGhvbWUKBwoFZ2FtZXM</string>
+    <string name="SchedulerHousekeepingTasks__once_two_days_no_network_constraint_relaxation_policy">Cg0NAAAAPxIGCAEQAhgBCg0NAACAPxIGCAEQAhgACg0NzcyMPxIGCAEQARgA</string>
+    <string name="GmsCoreLoggerFeature__safe_browsing">CAISCQl7FK5H4XqEPyoECICjBQ</string>
+    <boolean name="PersonalSafetyFeature__enable_ble_scanner" value="true" />
+    <string name="PipelineLogging__log_sources_of_interest">CghHTVNfQ09SRQoNQkFUVEVSWV9TVEFUUwoRRUFTVFdPUkxEX0JBVFRFUlkKCE5FVFNUQVRTCghEUk9QX0JPWA</string>
+    <string name="ChimeraCriticalPath__allowed_container_optional_features_when_unprovisioned">CgplbnRlcnByaXNl</string>
+    <string name="GmsCoreLoggerFeature__ghp_health">CAASGQl7FK5H4XqEPxAHGAEiCmdocF9oZWFsdGg</string>
+    <boolean name="45642049" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_chromesync" value="true" />
+    <boolean name="NotificationLoggingFeature__read_and_write_culprits_in_background" value="true" />
+    <boolean name="StrictModeFeature__enable_flogger" value="true" />
+    <boolean name="Tracing__infer_caller_from_calling_uid_in_transaction_interceptor" value="true" />
+    <string name="PersonalsafetySnd__logging_excluded_package_names">CiVjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5uZXh1c2xhdW5jaGVyCh5jb20uZ29vZ2xlLmFuZHJvaWQuaW5wdXRtZXRob2QKJ2NvbS5nb29nbGUuYW5kcm9pZC5wZXJtaXNzaW9uY29udHJvbGxlcgoPY29tLmFuZHJvaWQucW5z</string>
+    <string name="GmsCoreLoggerFeature__proc_stats_logging_config">CAASCQl7FK5H4XqEPw</string>
+    <boolean name="PolicyEvaluatorFeature__enable_signed_in_consent_cache" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_pay" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_notifications_prod" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_personal_safety" value="true" />
+    <boolean name="GmsCoreLoggerFeature__facet_usage_device_state_common_dimension" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__fix_non_persisted_task_filter" value="true" />
+    <boolean name="Chimera__enable_vision_feature_parser" value="true" />
+    <string name="Chimera__app_feature_dependencies">CkMKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5leHVzbGF1bmNoZXISGgoRcGxheV9jbG91ZF9zZWFyY2gQABgDIIsHCjMKE2NvbS5hbmRyb2lkLnZlbmRpbmcSHAoRcGxheV9jbG91ZF9zZWFyY2gQABgDILbA6Cc</string>
+    <string name="SchedulerHousekeepingTasks__daily_no_network_constraint_relaxation_policy">Cg0NAAAAPxIGCAEQAhgBCg0NAACAPxIGCAEQAhgACg0NzcyMPxIGCAEQARgA</string>
+    <boolean name="45637447" value="true" />
+    <boolean name="FacetUsageLoggingFeature__disable_background_init" value="true" />
+    <boolean name="PersonalsafetyFeature__use_empty_ring_key_for_finder_tags" value="true" />
+    <string name="MapsBoomerangLaunch__maps_dynamite_module_id_for_default">maps_core_dynamite</string>
+    <boolean name="Chimera__disable_container_optional_module_download" value="false" />
+    <boolean name="PersonalsafetyFeature__enable_ble_tag_entry_safety_emergency" value="true" />
+    <boolean name="TestcodeHashingFeature__enable_testcode_hashing" value="true" />
+    <boolean name="DmaLongTerm__enable_policy_evaluation_event_logging" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_daily_tasks_in_smartdevice" value="true" />
+    <boolean name="ChimeraCriticalPath__check_for_ongoing_suw_when_device_unprovisioned" value="true" />
+    <string name="GmsCoreLoggerFeature__example_sampling_rate_metric_configuration">CAIyCQl7FK5H4XqEPw</string>
+    <float name="WakelockMetrics__base_sample_rate" value="2.0E-6" />
+    <boolean name="GmsCoreLoggerFeature__metalog_received_bytes" value="true" />
+    <boolean name="NotificationLoggingFeature__retain_original_tag_and_id" value="true" />
+    <string name="ChimeraConfigMgr__block_rollout_for_automotive_modules">CgRob21lCglob21lZ3JhcGgKBnVzb25pYQoFZ2FtZXMKCmdhbWVzX2Z1bGwKBmFwcHNldAoLYXV0aF9mb2xzb20KEWF1dGhfZm9sc29tX19hdXRvCgR0aW1lCgRnYXNzCg10aHJlYWRuZXR3b3JrChN0aHJlYWRuZXR3b3JrX19hdXRvCg1yZWNhcHRjaGFiYXNl</string>
+    <boolean name="GmsCoreLoggerFeature__enable_computing_disk_space_used_in_mem" value="true" />
+    <boolean name="GmsCoreLoggerFeature__enable_async_common_dimension_building" value="true" />
+    <string name="SchedulerHousekeepingTasks__weekly_network_constraint_relaxation_policy">Cg0NhesRPxIGCAMQAhgBCg0NWmRbPxIGCAMQAhgAChUNAACAPxIGCAMQARgAEgYIAhACGAAKDQ3NzIw/EgYIAhABGAA</string>
+    <boolean name="Primes__enable_primes_package" value="true" />
+    <string name="FeatureStatusLogging__feature_opt_in_status">CAISDQkAAAAAAADwPxAjIgA</string>
+    <string name="stats_wakeLocks_timeout_overrides">ChoKCkNhclNlcnZpY2USB19fYW55X18YgLiZKQomChZub24tc3RyZWFtaW5nLWFiLWFwcGx5EgdfX2FueV9fGIC4mSkKHwoPc3RyZWFtaW5nLWFwcGx5EgdfX2FueV9fGIC4mSkKLAocVXBkYXRlRnJvbVNkQ2FyZFZlcmlmaWVyVGFzaxIHX19hbnlfXxiAuJkpClUKRWNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYmFja3VwLmNvbXBvbmVudC5EMmRTb3VyY2VTZXJ2aWNlLndha2Vsb2NrX3RhZxIHX19hbnlfXxiAuJkpCiIKElRhY2h5b25Qcm94aW1pdHlXTBIHX19hbnlfXxiAuJkpCi4KHm5lYXJieTpFeHBvc3VyZU1hdGNoaW5nU2VydmljZRIHX19hbnlfXxiAuJkpCi0KHUNBTExfQUNUSVZJVFlfU0NSRUVOX1dBS0VMT0NLEgdfX2FueV9fGIC4mSkKGAoJQ0FSLkZJUlNUEgdfX2FueV9fGKD+CgojChRObHBDb2xsZWN0b3JXYWtlTG9jaxIHX19hbnlfXxjA/BUKOgoUTmxwQ29sbGVjdG9yV2FrZUxvY2sSHk5ldHdvcmtMb2NhdGlvbkFjdGl2ZUNvbGxlY3Rvchjg1AMKGgoLTmxwV2FrZUxvY2sSB19fYW55X18YsOoBCjAKC05scFdha2VMb2NrEh1OZXR3b3JrTG9jYXRpb25TZW5zb3JVcGxvYWRlchjg1AMKLgofbWVzc2FnaW5nX3NlcnZpY2Vfd29ya193YWtlbG9jaxIHX19hbnlfXxjg1AMKLgofcmVnaXN0ZXJfc2VydmljZV9zdGFydF93YWtlbG9jaxIHX19hbnlfXxjAmgw</string>
+    <boolean name="Scheduler__show_scheduled_housekeeping_tasks_in_dumpsys" value="true" />
+    <string name="ChimeraConfigurationModes__deferred_configuration_mode_list">ChhvZmZsaW5lYmVhY29uLXBlcnNpc3RlbnQKF2ZpbmRteWRldmljZS1wZXJzaXN0ZW50</string>
+    <boolean name="PersonalsafetyFeature__enable_bugreport_dump" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_daily_tasks_in_pay" value="true" />
+    <string name="ChimeraCriticalPath__always_auto_enable_module_id_list">CgA</string>
+    <string name="GmsCoreLoggerFeature__chimera_debug">CAISDQmamZmZmZm5PxAHGAE</string>
+    <boolean name="45639202" value="true" />
+    <boolean name="CoreStats__disable_network_usage_content_provider" value="true" />
+    <string name="GmsCoreLoggerFeature__ncc_factory_allow_list_v2">Ci0GBxcgNgESCAkKCwwNDgUPEBEYHCIkJi8zNE8VFiEjNzg8PT41Njs/QUJDREU</string>
+    <string name="GmsCoreLoggerFeature__example_aggregated_metric_configuration">CAIqAwjAcDIJCXsUrkfheoQ/</string>
+    <boolean name="Lemon__enable_locale_changed_logger" value="true" />
+    <string name="Chimera__blocked_features">ChcKE3RmbGl0ZV9ncHVfZHluYW1pdGUQAQoYChR0ZmxpdGVfZGVsZWdhdGVfdGVzdBABChsKF3RmbGl0ZV9kZWxlZ2F0ZV9lZGdldHB1EAE</string>
+    <boolean name="PersonalsafetyFeature__updated_zoom_level" value="true" />
+    <boolean name="PersonalsafetyFeature__tracking_detector_location_update_bugfix" value="true" />
+    <string name="SchedulerHousekeepingTasks__daily_network_constraint_relaxation_policy">Cg0NAAAAPxIGCAMQAhgBCg0NAABAPxIGCAMQAhgAChUNAACAPxIGCAMQARgAEgYIAhACGAAKDQ3NzIw/EgYIAhABGAA</string>
+    <boolean name="SchedulerHousekeepingMigration__migrate_daily_tasks_in_mlbenchmark_installer" value="true" />
+    <string name="PipelineLogging__packages_of_interest">ChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21z</string>
+    <boolean name="PersonalsafetyFeature__enable_ble_scanner_for_finder" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__clean_unused_train_tasks" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_ble_scanner_on_location_callback" value="true" />
+    <string name="CpuProfiling__primes_profiling_default_process_config">CiZwcm9jZXNzX25hbWVfaWdub3JlZF9mb3JfZGVmYXVsdF92YWx1ZRCYdRjoByAFKICgHzC4Fw</string>
+    <string name="SchedulerGmsCoreLoggerFeature__scheduler_exec_finished_event_config">CAISCQl7FK5H4XqEPxoJCbgehetRuL4/</string>
+    <string name="GmsCoreLoggerFeature__aqr_open_event_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <float name="Scheduler__sample_rate_for_sending_crash_like_data_on_task_time_out" value="0.001" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_thunderbird" value="true" />
+    <boolean name="SchedulerDirectBoot__make_pending_intent_immutable" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_settings_handling" value="true" />
+    <long name="stats:wakeLocks:max_timeout_heldlock" value="600000" />
+    <boolean name="PersonalsafetyFeature__enable_tag_id_rotated_ui" value="true" />
+    <boolean name="PeriodicRestarts__do_not_persist_scheduled_task" value="false" />
+    <boolean name="PersonalsafetyFeature__enable_dult_for_manual_scan" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_notifications" value="true" />
+    <string name="Chimera__module_set_list">CsUDChcKBGtpZHMQ6+mTARiBAiDwgrW/qtmmBBLRAQoKS2lkcy5pbnRlZxoLCgRraWRzEMzXvnMaFQoOa2lkc19kYXNoYm9hcmQQzNe+cxonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBADGhsKF2tpZHNfcmVzb3VyY2VfZmlsdGVyaW5nEAQaKAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIaGAoRa2lkc190cmFuc3BhcmVuY3kQzNe+cyIPMjQyMTk5NTAwMTAwNDAwKAEwAkAAKhUKBGtpZHMQzNe+cxgBOgYKAgECEBUqHwoOa2lkc19kYXNoYm9hcmQQzNe+cxgBOgYKAgECEBUqKwoja2lkc19nZXRfcGFyZW50X3ZlcmlmaWNhdGlvbl9pbnRlbnQQAxgBKAEqHwoXa2lkc19yZXNvdXJjZV9maWx0ZXJpbmcQBBgBKAEqLAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIYASgBKiIKEWtpZHNfdHJhbnNwYXJlbmN5EMzXvnMYAToGCgIBAhAVCsUDChcKBGtpZHMQw6CUARiBAiDw9q2gi6WoBBLRAQoKS2lkcy5pbnRlZxoLCgRraWRzEJC16XMaFQoOa2lkc19kYXNoYm9hcmQQkLXpcxonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBADGhsKF2tpZHNfcmVzb3VyY2VfZmlsdGVyaW5nEAQaKAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIaGAoRa2lkc190cmFuc3BhcmVuY3kQkLXpcyIPMjQyODk5NjAwMTAwNDAwKAEwAkAAKhUKBGtpZHMQkLXpcxgBOgYKAgECEBUqHwoOa2lkc19kYXNoYm9hcmQQkLXpcxgBOgYKAgECEBUqKwoja2lkc19nZXRfcGFyZW50X3ZlcmlmaWNhdGlvbl9pbnRlbnQQAxgBKAEqHwoXa2lkc19yZXNvdXJjZV9maWx0ZXJpbmcQBBgBKAEqLAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIYASgBKiIKEWtpZHNfdHJhbnNwYXJlbmN5EJC16XMYAToGCgIBAhAVCsUDChcKBGtpZHMQk7CUARiBAiDwttbqpd+oBBLRAQoKS2lkcy5pbnRlZxoLCgRraWRzENDP9XMaFQoOa2lkc19kYXNoYm9hcmQQ0M/1cxonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBADGhsKF2tpZHNfcmVzb3VyY2VfZmlsdGVyaW5nEAQaKAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIaGAoRa2lkc190cmFuc3BhcmVuY3kQ0M/1cyIPMjQzMDk5NjAwMTAwNDAwKAEwAkAAKhUKBGtpZHMQ0M/1cxgBOgYKAgECEBUqHwoOa2lkc19kYXNoYm9hcmQQ0M/1cxgBOgYKAgECEBUqKwoja2lkc19nZXRfcGFyZW50X3ZlcmlmaWNhdGlvbl9pbnRlbnQQAxgBKAEqHwoXa2lkc19yZXNvdXJjZV9maWx0ZXJpbmcQBBgBKAEqLAoka2lkc19zY3JlZW50aW1lX3Jlc3RyaWN0aW9uX2NhbGxiYWNrEAIYASgBKiIKEWtpZHNfdHJhbnNwYXJlbmN5ENDP9XMYAToGCgIBAhAVCiUKIwoPdGZsaXRlX2R5bmFtaXRlEJf65/QHGIECIJDY4vCS+eIDCpcCCiIKD3RmbGl0ZV9keW5hbWl0ZRDr85MBGIECIPDyx5jW/qYEEk0KHFRmbGl0ZUR5bmFtaXRlRHluYW1pdGUuaW50ZWcaFgoPdGZsaXRlX2R5bmFtaXRlEPzBxnMiDzI0MjMyNzgwNDEwMDQwMCgBMAJAABJUCh9UZmxpdGVHcHVEeW5hbWl0ZUR5bmFtaXRlLmludGVnGhoKE3RmbGl0ZV9ncHVfZHluYW1pdGUQ/MHGcyIPMjQyMzI3ODA0MTAwNDAwKAEwAkAAKiAKD3RmbGl0ZV9keW5hbWl0ZRD8wcZzGAE6BgoEAQIGCCoqChN0ZmxpdGVfZ3B1X2R5bmFtaXRlEPzBxnMYAToFCgEBEBc6BQoBCBAfCo0BCh0KCnZpc2lvbl9vY3IQ+a2NARiBAiDg3brqlc2OBBJBChdWaXNpb25PY3JEeW5hbWl0ZS5pbnRlZxoRCgp2aXNpb24ub2NyEOLxt24iDzIzMTYwMjQwMjEwMDAwMCgBMAIqKQoKdmlzaW9uLm9jchDi8bduGAEyFAoQbWxraXQub2NyLmNvbW1vbhABCoYECicKFG5uYXBpZHJpdmVyX2R5bmFtaXRlEMXFiAEYgQIg8KblueHU/AMSVAogTm5hcGlkcml2ZXJBcm1NYWxpRHluYW1pdGUuaW50ZWcaGwoUbm5hcGlkcml2ZXJfYXJtX21hbGkQgKbWaiIPMjIzNzEyMDAwMTAwNDAwKAAwABJWCiFObmFwaWRyaXZlclFjU203MjUwRHluYW1pdGUuaW50ZWcaHAoVbm5hcGlkcml2ZXJfcWNfc203MjUwEICm1moiDzIyMzcxMjAwMDEwMDQwMCgAMAASVgohTm5hcGlkcml2ZXJRY1NtODI1MER5bmFtaXRlLmludGVnGhwKFW5uYXBpZHJpdmVyX3FjX3NtODI1MBCAptZqIg8yMjM3MTIwMDAxMDA0MDAoADAAElYKIU5uYXBpZHJpdmVyUWNTbTgzNTBEeW5hbWl0ZS5pbnRlZxocChVubmFwaWRyaXZlcl9xY19zbTgzNTAQgKbWaiIPMjIzNzEyMDAwMTAwNDAwKAAwACodChRubmFwaWRyaXZlcl9hcm1fbWFsaRCAptZqGAEqHgoVbm5hcGlkcml2ZXJfcWNfc203MjUwEICm1moYASoeChVubmFwaWRyaXZlcl9xY19zbTgyNTAQgKbWahgBKh4KFW5uYXBpZHJpdmVyX3FjX3NtODM1MBCAptZqGAEKhgQKJwoUbm5hcGlkcml2ZXJfZHluYW1pdGUQnciMARiBAiDwrrmDl9KLBBJUCiBObmFwaWRyaXZlckFybU1hbGlEeW5hbWl0ZS5pbnRlZxobChRubmFwaWRyaXZlcl9hcm1fbWFsaRCotOhtIg8yMzAzMDAyMDAxMDA0MDAoATACElYKIU5uYXBpZHJpdmVyUWNTbTcyNTBEeW5hbWl0ZS5pbnRlZxocChVubmFwaWRyaXZlcl9xY19zbTcyNTAQqLTobSIPMjMwMzAwMjAwMTAwNDAwKAEwAhJWCiFObmFwaWRyaXZlclFjU204MjUwRHluYW1pdGUuaW50ZWcaHAoVbm5hcGlkcml2ZXJfcWNfc204MjUwEKi06G0iDzIzMDMwMDIwMDEwMDQwMCgBMAISVgohTm5hcGlkcml2ZXJRY1NtODM1MER5bmFtaXRlLmludGVnGhwKFW5uYXBpZHJpdmVyX3FjX3NtODM1MBCotOhtIg8yMzAzMDAyMDAxMDA0MDAoATACKh0KFG5uYXBpZHJpdmVyX2FybV9tYWxpEKi06G0YASoeChVubmFwaWRyaXZlcl9xY19zbTcyNTAQqLTobRgBKh4KFW5uYXBpZHJpdmVyX3FjX3NtODI1MBCotOhtGAEqHgoVbm5hcGlkcml2ZXJfcWNfc204MzUwEKi06G0YAQqGBAonChRubmFwaWRyaXZlcl9keW5hbWl0ZRC954wBGIECIPCGtN7ExowEElQKIE5uYXBpZHJpdmVyQXJtTWFsaUR5bmFtaXRlLmludGVnGhsKFG5uYXBpZHJpdmVyX2FybV9tYWxpEODngG4iDzIzMDcwMDAwMDEwMDQwMCgBMAISVgohTm5hcGlkcml2ZXJRY1NtNzI1MER5bmFtaXRlLmludGVnGhwKFW5uYXBpZHJpdmVyX3FjX3NtNzI1MBDg54BuIg8yMzA3MDAwMDAxMDA0MDAoATACElYKIU5uYXBpZHJpdmVyUWNTbTgyNTBEeW5hbWl0ZS5pbnRlZxocChVubmFwaWRyaXZlcl9xY19zbTgyNTAQ4OeAbiIPMjMwNzAwMDAwMTAwNDAwKAEwAhJWCiFObmFwaWRyaXZlclFjU204MzUwRHluYW1pdGUuaW50ZWcaHAoVbm5hcGlkcml2ZXJfcWNfc204MzUwEODngG4iDzIzMDcwMDAwMDEwMDQwMCgBMAIqHQoUbm5hcGlkcml2ZXJfYXJtX21hbGkQ4OeAbhgBKh4KFW5uYXBpZHJpdmVyX3FjX3NtNzI1MBDg54BuGAEqHgoVbm5hcGlkcml2ZXJfcWNfc204MjUwEODngG4YASoeChVubmFwaWRyaXZlcl9xY19zbTgzNTAQ4OeAbhgBCiAKHgoQdmlzaW9uX2Jsb2NrbGlzdBC8jAYYACDAj67cAw</string>
+    <string name="KeyValuePreferencesFeature__dark_launch_allowlist">CAA</string>
+    <boolean name="ChimeraCriticalPath__enable_feature_dependency_gc" value="true" />
+    <string name="GmsCoreLoggerFeature__qr_image_from_gallery_usage_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <boolean name="45637482" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__core_module_task_migration" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_location_persistence" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_location" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_semanticlocation" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_accountsettings" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_safety_center_integration" value="true" />
+    <boolean name="Primes__register_primes_timer" value="true" />
+    <string name="GmsCoreLoggerFeature__facet_usage_gaia_unsampled">CAASCwkAAAAAAADwPygAKgQIgKMF</string>
+    <boolean name="Primes__enable_primes_network" value="true" />
+    <string name="PersonalsafetyFeature__rt_event_log_metric_configuration">CAISCQkAAAAAAADwPw</string>
+    <string name="GmsCoreLoggerFeature__qr_code_data_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <boolean name="Common__enable_tri_state_location_permission_monitor" value="true" />
+    <boolean name="Scheduler__explicitly_update_auth_droidguard_task" value="true" />
+    <float name="MemoryMetricLogging__log_fraction" value="0.001" />
+    <string name="GmsCoreLoggerFeature__play_integrity_autoprotect_config">CAISCQl7FK5H4XqEPxoJCXsUrkfheoQ/</string>
+    <boolean name="45638281" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_daily_tasks_in_auth_blockstore" value="true" />
+    <string name="ChimeraCriticalPath__blocked_modules_with_versions_for_atv">,com.google.android.gms.kids</string>
+    <boolean name="GmsCoreLoggerFeature__enable_logging_total_number_of_slices_in_mem" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__allow_parallel_execution" value="true" />
+    <boolean name="ChimeraCheckin__enable_system_component_update_opt_out" value="true" />
+    <string name="GmsCoreLoggerFeature__permission_usage">CAASEQl7FK5H4XqEPxAjGAEiACgBKgMIwHA</string>
+    <string name="FacetUsageLoggingFeature__facet_event_selective_unsampling_allow_list">Che2AtP3B/KTCZCzCdX2EsDtGoD5K4DqMA</string>
+    <boolean name="PersonalsafetyFeature__use_tag_info_handler" value="true" />
+    <string name="MapsBoomerangLaunch__auto_migration_exclusion_list">Chxjb20uYW5kcm9pZC52aXZvLnR3cy52aXZvdHdzChBjb20uYXBwOTkuZHJpdmVyChVjb20uZGlkaWdsb2JhbC5kcml2ZXIKGGNvbS5kaWRpZ2xvYmFsLmRyaXZlci5hdQoRY29tLmdvamVrLnBhcnRuZXIKHmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBob3RvcwoNY29tLmppby5teWppbwoPY29tLmxnZS5teXBsYWNlChJjb20ubW90b3JvbGEuZ2VuaWUKHGNvbS5zYW1zdW5nLmFuZHJvaWQuY2FsZW5kYXIKG2NvbS5zZWMuYW5kcm9pZC5hcHAuc2hlYWx0aAoZY29tLnNlYy5hbmRyb2lkLmdhbGxlcnkzZAoXa3IuY28uc2FmZXQuc2suZ3VhcmRpYW4</string>
+    <float name="Primes__tracing_sampling_probability" value="0.005" />
+    <string name="Primes__primes_profiling_default_process_config">CiZwcm9jZXNzX25hbWVfaWdub3JlZF9mb3JfZGVmYXVsdF92YWx1ZRCYdRjoByAFKICgHzC4Fw</string>
+    <boolean name="MapsBoomerangLaunch__remapper_enabled" value="true" />
+    <boolean name="GmsCoreLoggerFeature__enable_logging_cumulative_metalogs" value="true" />
+    <boolean name="45642792" value="true" />
+    <string name="GmsCoreLoggerFeature__metalogging">CAASDwn8qfHSTWJQPxAjGAEiACoECICjBQ</string>
+    <string name="SchedulerHousekeepingTasks__once_two_days_network_constraint_relaxation_policy">Cg0NAAAAPxIGCAMQAhgBCg0N4XpUPxIGCAMQAhgAChUNAACAPxIGCAMQARgAEgYIAhACGAAKDQ3NzIw/EgYIAhABGAA</string>
+    <string name="Primes__primes_profiling_process_configs">CjIKIWNvbS5nb29nbGUuYW5kcm9pZC5nbXMucGVyc2lzdGVudBCYdRjoByABKICgHzC4Fw</string>
+    <string name="GmsCoreLoggerFeature__aqr_scan_success_event_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <boolean name="DeviceDoctor__enable_process_stable_feature_flag_read" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__constraint_adaptation_enabled" value="true" />
+    <long name="PersonalsafetyFeature__ble_scan_on_millis" value="10000" />
+    <boolean name="PipelineLogging__exclude_startup_event" value="true" />
+    <long name="PeriodicRestarts__scheduled_restart_task_start_delay_in_seconds" value="43200" />
+    <long name="Primes__tracing_sample_rate_per_second" value="1000" />
+    <boolean name="SchedulerHousekeepingTasks__use_correct_execution_window_for_last_stage" value="true" />
+    <boolean name="Primes__enable_url_auto_sanitization" value="true" />
+    <float name="SchedulerClearcutLogging__exec_finished_sample_rate" value="0.12" />
+    <string name="GmsCoreLoggerFeature__weather_data_upload_logging_config">CAASJQmamZmZmZmpPxAHGAEiFndlYXRoZXJfZGF0YV9jb2xsZWN0b3IqBwiAowUokE4</string>
+    <float name="ServiceVisibility__sample_rate" value="0.01" />
+    <long name="Primes__package_stats_collection_interval_hours" value="168" />
+    <boolean name="Tracing__monitor_device_state_idempotent_init" value="true" />
+    <boolean name="SchedulerHousekeepingTasks__fix_train_execution_logic" value="true" />
+    <boolean name="FacetUsageLoggingFeature__early_consent_true" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_finder_tag_info_fetching" value="true" />
+    <boolean name="GmsCoreLoggerFeature__enable_experience_logger_meta_logging" value="true" />
+    <string name="client_telemetry_config">CAEQiCcqCGNsZWFyY3V0KglwaGVub3R5cGUqDHBzZXVkb255bW91czJxCOgHEgYIAThkQA4SMDhkQDdYAWABaAFyDG1sa2l0OnZpc2lvbnIWbWxraXQ6bmF0dXJhbF9sYW5ndWFnZRIGOGRADmABEgY4ZEAOaAESGDhkQA5YAWABaAFyDHRydXN0ZWRfdGltZSBkMIDd2wE4gAg</string>
+    <boolean name="Ui__enable_system_component_update_google_settings" value="true" />
+    <boolean name="Grpc__disable_url_rewrites" value="true" />
+    <string name="GmsCoreLoggerFeature__loaded_modules_usage_logging_config">CAASDQl7FK5H4XqEPxAHGAEqBAiAowU</string>
+    <boolean name="MemoryMetricLogging__use_gms_core_logger" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_no_alert_zones" value="true" />
+    <float name="SchedulerClearcutLogging__wakeup_sample_rate" value="0.018" />
+    <boolean name="PersonalsafetyFeature__enable_single_alerted_tag_to_map_transition" value="true" />
+    <boolean name="PhenotypeSyncHelper__has_phenotype_synced" value="true" />
+    <boolean name="PipelineLogging__enabled" value="true" />
+    <boolean name="PersonalSafetyFeature__enable_personal_safety_module_init" value="true" />
+    <long name="ProtoDataStoreFeature__api_metrics_sampling_interval" value="200000" />
+    <float name="ClientLogging__sampling_rate_severe" value="0.01" />
+    <string name="GmsCoreLoggerFeature__usonia_health">CAISEQl7FK5H4XqEPxAjGAEiACgB</string>
+    <float name="ClientLogging__sampling_rate_warning" value="0.001" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_daily_tasks_in_statementservice" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_algorithm_persistence" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_detection" value="true" />
+    <boolean name="Common__fallback_all_alarms" value="true" />
+    <string name="GmsCoreLoggerFeature__facet_usage_gaia">CAASEQkAAAAAAADQPxDtAhjtAigAKgQIgKMF</string>
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_auth_magictether" value="true" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_adsidentity" value="true" />
+    <boolean name="Provisioning__enable_record_provisioning_info" value="true" />
+    <string name="45630360">CICjBQ</string>
+    <boolean name="Primes__enable_primes_latency_metric_upload" value="true" />
+    <boolean name="45639976" value="true" />
+    <string name="FacetUsageLoggingFeature__entry_point_selective_unsampling_allow_list">Cip3YWxsZXQtUGF5bWVudENoaW1lcmFTZXJ2aWNlLUlPd1NlcnZpY2VfMTUKN3Blcm1pc3Npb25zLVZpZXdQZXJtaXNzaW9uVXNhZ2VDaGltZXJhQWN0aXZpdHlfb25DcmVhdGUKMGNhc3QtQ2FzdENoaW1lcmFTZXJ2aWNlLUlDYXN0RGV2aWNlQ29udHJvbGxlcl8xNg</string>
+    <boolean name="45634045" value="true" />
+    <string name="CpuProfiling__primes_profiling_process_configs">CjIKIWNvbS5nb29nbGUuYW5kcm9pZC5nbXMucGVyc2lzdGVudBCYdRjoByABKICgHzC4Fw</string>
+    <boolean name="CommonAnalytics__system_health_log_post_gservice_update_enabled" value="false" />
+    <string name="GcmIntentOperation__allowed_components">Chd0YXBhbmRwYXkubm90aWZpY2F0aW9ucw</string>
+    <boolean name="NotificationLoggingFeature__change_culprit_retrieval_cond_to_channel_id_null" value="true" />
+    <string name="ChimeraCriticalPath__blocked_installed_apk_version_checker_rules">Ch9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5maXRuZXNzCh9jb20uZ29vZ2xlLmFuZHJvaWQud2VhcmFibGUuYXBwCiNjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLnBvbGljeV9pY2luZwonY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMua2lkcy5mYW1pbHlsaW5rCihjb20uZ29vZ2xlLmFuZHJvaWQucGxheS5nYW1lczo8MjkyNTEwMDQw</string>
+    <string name="GmsCoreLoggerFeature__notifications">CAASEQkAAAAAAADwPxAjGAEiACgBKgQIgKMF</string>
+    <boolean name="SchedulerHousekeepingTasks__housekeeping_task_enabled" value="true" />
+    <string name="TestcodeToggleLogSourcesFeature__active_log_sources">CghHTVNfQ09SRQoWR01TQ09SRV9BTkRST0lEX1BSSU1FUwoTQ0xJRU5UX0xPR0dJTkdfUFJPRAoCTEU</string>
+    <float name="UnexpectedBatteryDrain__threshold_drain_rate_when_power_disconnected_screen_off" value="100.0" />
+    <boolean name="45639964" value="true" />
+    <boolean name="FacetUsageLoggingFeature__force_phenotype_account_future" value="true" />
+    <string name="DeviceDoctor__shush_crash_whitelist">bb18793c8d10a6404b8edd4a3211a799c1a1f37b,517082d932dec0be8224096dc752b7d45a80595d</string>
+    <boolean name="NotificationLoggingFeature__all_channels_are_disabled_on_apk_level_opt_out" value="true" />
+    <string name="MemoryMetricLogging__metric_configuration">CAAaCQn8qfHSTWJQPzIJCQAAAAAAAPA/</string>
+    <boolean name="FacetUsageLoggingFeature__check_unsampling_for_account_name_logging" value="true" />
+    <string name="PersonalsafetyFeature__alert_delay_bypass_hours">CgUXAAECAw</string>
+    <boolean name="PersonalsafetyFeature__improve_ringing_retry_connectivity" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_identify_tag_ui" value="true" />
+    <boolean name="PersonalsafetyFeature__enable_clearcut_logging" value="true" />
+    <long name="__phenotype_configuration_version" value="1723610400" />
+    <boolean name="45638185" value="true" />
+    <string name="GmsCoreLoggerFeature__weather_data_collection_logging_config">CAASJQmamZmZmZmpPxAHGAEiFndlYXRoZXJfZGF0YV9jb2xsZWN0b3IqBwiAowUokE4</string>
+    <float name="Primes__timer_sample_probability" value="0.01" />
+    <boolean name="DmaLongTerm__run_checks_even_when_no_gaia_or_zwieback_available" value="false" />
+    <string name="__phenotype_server_token">CAMSvgENvAa9lO4PrzEEwD4Erw8EaNIK8hQEKwahBQSODASFAucGZpwXhgYE6QgEWASMAgT2EgQfBOQFBN4EBNkXBKILBOoGBKkFBDYEqwQEtQUEiQYELwRLBLoGBLEGBLAFDQS9BL0AA7sEAKIEiAIDrQQDOAOIBQMzA8UGA4wGALcFAE0DLgUhA3EA2AQD4wUDhQYA_gYDYQAGAAYOOA4FDgoOHw6UBgUPBcMFBH4HFAWHBgWJBhkPA04DJQ7yqc4E</string>
+    <boolean name="SchedulerHousekeepingTasks__prevent_train_task_timeout" value="true" />
+    <boolean name="CommonAnalytics__system_health_log_post_gms_core_update_enabled" value="false" />
+    <boolean name="PersonalsafetyFeature__enable_dult_for_auto_detection" value="true" />
+    <boolean name="PersonalsafetyFeature__fix_duplicate_ringing_error_w40" value="true" />
+    <long name="Primes__random_latency_tracking_modulus" value="100" />
+    <float name="SchedulerClearcutLogging__schedule_request_sample_rate" value="0.12" />
+    <string name="GmsCoreLoggerFeature__physical_memory_logging_config">CAASCQl7FK5H4XqEPyoECICjBQ</string>
+    <float name="SchedulerClearcutLogging__sample_rate" value="0.01" />
+    <boolean name="PersonalsafetyFeature__enable_ble_tag_ui_master" value="true" />
+    <string name="__phenotype_snapshot_token"> com.google.android.gms 212 10 651915109 com.google.android.gms 651915109 1</string>
+    <boolean name="GmsCoreLoggerFeature__additional_metalogging" value="true" />
+    <boolean name="GmsCoreLoggerFeature__log_batch_use_extension_registry" value="true" />
+    <string name="GmsCoreLoggerFeature__permission_state_data_config">CAISCQn8qfHSTWJgPw</string>
+    <string name="Chimera__module_set_install_allowlist_for_optout_devices">CgRraWRzCgtzaWRlY2FyX2Fwcw</string>
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_security" value="true" />
+    <string name="Chimera__required_features">ChYKEmFudGlmaW5nZXJwcmludGluZxAB</string>
+    <string name="MapsBoomerangLaunch__maps_dynamite_module_id_for_opt_in">maps_core_dynamite</string>
+    <string name="PersonalsafetyFeature__rt_testing_group_log_metric_configuration">CAISCQkAAAAAAADwPw</string>
+    <boolean name="PersonalsafetyFeature__enable_finder_in_manual_scan" value="true" />
+    <boolean name="Chimera__config_checkin_enabled" value="true" />
+    <string name="GmsCoreLoggerFeature__play_integrity_api_config">CAIqAwjAcDIJCXsUrkfheoQ/</string>
+    <long name="ProtoDataStoreFeature__dasu_sampling_interval" value="100" />
+    <boolean name="SchedulerHousekeepingMigration__migrate_tasks_in_auth_folsom" value="true" />
+    <long name="Primes__trace_sampling_log2_histogram_buckets" value="11" />
+    <string name="GmsCoreLoggerFeature__aqr_parse_event_config">CAASCQkAAAAAAADwPw</string>
+    <string name="GmsCoreLoggerFeature__aqr_close_event_config">CAASCQkAAAAAAADwPyoECICjBQ</string>
+    <string name="WakelockMetrics__gms_core_logger_metric_configuration">CAISCQkAAAAAAADwPw</string>
+</map>

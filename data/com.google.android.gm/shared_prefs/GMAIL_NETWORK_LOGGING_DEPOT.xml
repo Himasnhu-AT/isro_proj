@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="TOTAL_BW_LAST_TX_BYTES" value="0" />
+    <long name="TOTAL_BW_LAST_TX_PACKETS" value="0" />
+    <long name="TOTAL_BW_LAST_RX_PACKETS" value="0" />
+    <string name="TOTAL_BW_LAST_VERSION">63844677</string>
+    <long name="TOTAL_BW_LAST_RX_BYTES" value="0" />
+    <long name="TOTAL_BW_LAST_STARTING_TIMESTAMP" value="0" />
+    <long name="TOTAL_BW_LAST_ENDING_TIMESTAMP" value="39446" />
+</map>

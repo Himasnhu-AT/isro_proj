@@ -1,0 +1,34 @@
+{
+  "base_download_url": "https://www.gstatic.com/android/keyboard/dynamic_art/20220108002302/",
+  "download_packing_scheme": "zip",
+  "packs": [
+    {
+      "compressed_size": 557904,
+      "download_urls": [
+        "animation.zip"
+      ],
+      "label": "animation",
+      "md5_checksum": "b1f6f47a53f7820be91b9fe247728980",
+      "name": "b1f6f47a53f7820be91b9fe247728980",
+      "size": 1916762,
+      "validation_schemes": [
+        "md5"
+      ],
+      "verify_sizes": true
+    },
+    {
+      "compressed_size": 30514,
+      "download_urls": [
+        "fonts.zip"
+      ],
+      "label": "fonts",
+      "md5_checksum": "305f81355a729e382ea9f374dd286d9f",
+      "name": "305f81355a729e382ea9f374dd286d9f",
+      "size": 59688,
+      "validation_schemes": [
+        "md5"
+      ],
+      "verify_sizes": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "packs": [
+    {
+      "compressed_size": 603419,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/expressive_concepts_triggering/2022062323/es.zip"
+      ],
+      "md5_hash": "1bf57ec1e09c20f0d82a128d1027234d",
+      "name": "2022062323_es",
+      "label": "expressive_concepts_triggering",
+      "locale": "es",
+      "size": 1519371,
+      "concept_prediction_triggering_threshold": "0.57",
+      "concept_prediction_neutral_triggering_weight": "1",
+      "concept_prediction_incomplete_sentence_score_weight": "1"
+    },
+    {
+      "compressed_size": 478623,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/expressive_concepts_triggering/2022062400/pt.zip"
+      ],
+      "md5_hash": "bf4ada2ed5a80836ff82fc075ea62174",
+      "name": "2022062400_pt",
+      "label": "expressive_concepts_triggering",
+      "locale": "pt",
+      "size": 1519280,
+      "concept_prediction_triggering_threshold": "0.57",
+      "concept_prediction_neutral_triggering_weight": "1",
+      "concept_prediction_incomplete_sentence_score_weight": "1"
+    },
+    {
+      "compressed_size": 1097741,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/expressive_concepts_triggering/2022011819/en.zip"
+      ],
+      "md5_hash": "136395b43d04d9b585687a44887482ad",
+      "name": "2022011819_en",
+      "label": "expressive_concepts_triggering",
+      "locale": "en",
+      "size": 1557125,
+      "concept_prediction_triggering_threshold": "0.57",
+      "concept_prediction_neutral_triggering_weight": "1",
+      "concept_prediction_incomplete_sentence_score_weight": "1"
+    }
+  ]
+}

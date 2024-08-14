@@ -1,0 +1,22 @@
+{
+  "packs": [
+    {
+      "namespace": "captions_i18n_v0_en-US",
+      "name": "asr_en-US_v3003",
+      "compressed_size": 38498810,
+      "size": 63523005,
+      "verify_sizes": false,
+      "download_priority": 0,
+      "download_urls": [
+        "https://storage.googleapis.com/captions/aiai-en-US-v3003.zip"
+      ],
+      "download_packing_scheme": "zip",
+      "validation_schemes": [
+        "md5"
+      ],
+      "md5_checksum": "df7ebebee485c73d344abcf00b35d446",
+      "pack_type": "asr",
+      "locale": "en-US"
+    }
+  ]
+}

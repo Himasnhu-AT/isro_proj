@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="key_last_contacts_delta_update_timestamp" value="1723613259673" />
+    <boolean name="key_person_indexer_enabled" value="true" />
+    <long name="KEY_LAST_CONTACTS_UPDATE" value="1723575325271" />
+    <long name="key_last_contacts_delta_delete_timestamp" value="0" />
+    <long name="contacts_db_creation_time_ms" value="1723574928752" />
+</map>

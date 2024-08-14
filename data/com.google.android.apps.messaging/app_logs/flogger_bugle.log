@@ -1,0 +1,151 @@
+08-14 00:20:42.475 1512 1681 I BugleTransport: onSystemBound: kicking off updateActiveTransport
+08-14 00:20:42.489 1512 1681 I BugleRcsProvisioning: RcsProvisioningTrigger: System bound to :rcs process. Schedule provisioning.
+08-14 00:20:43.190 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.197 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.201 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.217 1512 1681 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:20:43.221 1512 1681 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:20:43.364 1512 1681 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled due to SIM absent, lastAvailability is null, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:20:43.370 1512 1681 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : isPreviousDisabled = true, isCurrentDisabled = true, config[simId:redacted-pii:sim_id[chars:20,last3:897]] = [Type: 0, Version: 0, Validity: 0, Last updated: 0, Remaining validity: 0, Reconfiguration requested: false, Messaging technology: SIMPLE_IM, rcsVolteSingleRegistration: false], hasToken: false, isValidAndUpdated: false
+08-14 00:20:43.374 1512 1700 I BugleTransport: onRcsAvailabilityUpdate: kicking off updateActiveTransport for simId:redacted-pii:sim_id[chars:20,last3:897]
+08-14 00:20:43.465 1512 1725 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled due to SIM absent, lastAvailability is RCS is disabled due to SIM absent, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:20:43.468 1512 1725 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_SIM_ABSENT (RCS is disabled due to SIM absent)
+08-14 00:20:43.468 1512 1681 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.469 1512 1681 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.470 1512 1681 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:43.471 1512 2110 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_SIM_ABSENT (RCS is disabled due to SIM absent)
+08-14 00:20:43.471 1512 2064 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:20:43.472 1512 2064 I BugleTransport: Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period="5 SECONDS" ]
+08-14 00:20:43.473 1512 2064 I BugleTransport: Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by="TRANSPORT_RCS" ratelimit_period="5 SECONDS" ]
+08-14 00:20:43.473 1512 2064 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:20:43.536 1512 2110 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled due to SIM absent, lastAvailability is RCS is disabled due to SIM absent, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:20:43.554 1512 1942 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:20:43.554 1512 1942 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:20:44.591 1512 2110 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+08-14 00:20:44.593 1512 2110 I BugleTransport: onBuglePhenotypeFlagChanged: kicking off updateActiveTransport
+08-14 00:20:44.597 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:44.603 1512 1725 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_SIM_ABSENT (RCS is disabled due to SIM absent)
+08-14 00:20:44.598 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:44.628 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:20:44.757 1512 1725 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:20:44.758 1512 1725 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:20:57.639 1512 1725 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled due to SIM absent, lastAvailability is RCS is disabled due to SIM absent, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:20:59.203 1512 1687 I GnpSdk: GrowthKit enabled by flag, registered to Phenotype and schedule jobs.
+08-14 00:20:59.447 1512 2110 I BugleNotifications: Silently refreshing notifications after Boot/Package replacement
+08-14 00:20:59.855 1512 1943 I BugleNotifications: Starting refreshIncomingMessageNotifications: silent - true, isSmartReplyUpdate - false, isFromNotification - false [CONTEXT conversation_id="-1" ]
+08-14 00:21:00.113 1512 3382 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled for this carrier by Google, lastAvailability is RCS is disabled due to SIM absent, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:00.235 1512 1943 I BugleNotifications: 0 notification channels migrated
+08-14 00:21:01.189 1512 1943 I BugleNotifications: No unseen incoming message notifications
+08-14 00:21:01.196 1512 1943 I BugleNotifications: No incomingMessageNotification created, canceling existing incomingMessageNotifications
+08-14 00:21:01.242 1512 3382 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : isPreviousDisabled = true, isCurrentDisabled = true, config[simId:redacted-pii:sim_id[chars:20,last3:897]] = [Type: 0, Version: 0, Validity: 0, Last updated: 0, Remaining validity: 0, Reconfiguration requested: false, Messaging technology: SIMPLE_IM, rcsVolteSingleRegistration: false], hasToken: false, isValidAndUpdated: false
+08-14 00:21:01.245 1512 1943 I BugleTransport: onRcsAvailabilityUpdate: kicking off updateActiveTransport for simId:redacted-pii:sim_id[chars:20,last3:897]
+08-14 00:21:01.296 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:01.297 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:01.299 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:01.387 1512 3411 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled for this carrier by Google, lastAvailability is RCS is disabled for this carrier by Google, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:01.366 1512 1943 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_VIA_GSERVICES (RCS is disabled for this carrier by Google)
+08-14 00:21:01.445 1512 3411 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:01.744 1512 1700 I BugleJobs: Starts to observe table change.
+08-14 00:21:01.784 1512 3411 I BugleTransport: Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period="5 SECONDS" skipped=2 ]
+08-14 00:21:01.785 1512 3411 I BugleTransport: Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by="TRANSPORT_RCS" ratelimit_period="5 SECONDS" skipped=2 ]
+08-14 00:21:01.786 1512 3411 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:01.788 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: onCsLibPhenotypeUpdated, enableProvisioningTaskInBugle = true
+08-14 00:21:01.867 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = CSLIB_PHENOTYPE_UPDATE
+08-14 00:21:01.899 1512 1678 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:21:01.900 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:21:01.973 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled for this carrier by Google, lastAvailability is RCS is disabled for this carrier by Google, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:02.272 1512 1676 I BugleJobs: Icing index repair service is not scheduled. [CONTEXT class_name="IcingMonitoringUtils" ]
+08-14 00:21:02.302 1512 1958 I Forking: Starting analysis.
+08-14 00:21:02.303 1512 1958 I Misthreading: Starting analysis.
+08-14 00:21:02.472 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:02.669 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:02.672 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:02.901 1512 1958 I BugleWearable: Wear Companion app is not installed on phone. Skipping sync to wear devices. [CONTEXT class_name="SyncDataToWearableAppHandler" ]
+08-14 00:21:03.802 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: Schedule provisioning on app startup
+08-14 00:21:03.810 1512 1692 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:21:03.813 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:21:04.083 1512 2110 I BugleRcsProvisioning: BugleSystemBindingManager: onBootComplete
+08-14 00:21:04.102 1512 2110 I BugleRcsProvisioning: RcsProvisioningTrigger: onBootComplete
+08-14 00:21:04.102 1512 2110 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailabilityAsync : hint = BOOT_COMPLETE
+08-14 00:21:04.103 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = BOOT_COMPLETE
+08-14 00:21:04.545 1512 1942 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to RCS is disabled for this carrier by Google, lastAvailability is RCS is disabled for this carrier by Google, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:09.171 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:09.180 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:09.182 1512 1942 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:10.182 1512 1943 I BugleTransport: onSystemBound: kicking off updateActiveTransport
+08-14 00:21:10.226 1512 1943 I BugleRcsProvisioning: RcsProvisioningTrigger: System bound to :rcs process. Schedule provisioning.
+08-14 00:21:10.220 1512 1942 W LoggingReporter: MIXED_UP_PARTICIPANT: occurred in conversation with id=-1
+08-14 00:21:10.228 1512 1692 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_VIA_GSERVICES (RCS is disabled for this carrier by Google)
+08-14 00:21:10.248 1512 3382 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:10.251 1512 3382 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:10.258 1512 3382 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:10.262 1512 1943 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:21:10.266 1512 1943 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:21:10.285 1512 1942 I MixedUpConvInspector: logging Mixed Up Participant Info to clearcut completed successfully
+08-14 00:21:10.339 1512 1725 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:10.343 1512 1725 I BugleTransport: Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period="5 SECONDS" ]
+08-14 00:21:10.343 1512 1725 I BugleTransport: Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by="TRANSPORT_RCS" ratelimit_period="5 SECONDS" ]
+08-14 00:21:10.344 1512 1725 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:41.376 1512 1725 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+08-14 00:21:41.393 1512 1725 I BugleTransport: onBuglePhenotypeFlagChanged: kicking off updateActiveTransport
+08-14 00:21:41.399 1512 2064 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_VIA_GSERVICES (RCS is disabled for this carrier by Google)
+08-14 00:21:41.420 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:41.425 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:41.435 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:41.478 1512 3380 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:41.490 1512 3380 I BugleTransport: Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period="5 SECONDS" ]
+08-14 00:21:41.490 1512 3380 I BugleTransport: Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by="TRANSPORT_RCS" ratelimit_period="5 SECONDS" ]
+08-14 00:21:41.491 1512 3380 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:42.057 1512 1942 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+08-14 00:21:42.058 1512 1942 I BugleTransport: onBuglePhenotypeFlagChanged: kicking off updateActiveTransport
+08-14 00:21:42.059 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:42.060 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:42.061 1512 3411 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:42.062 1512 3380 I BugleTransport: isChatAvailable: RcsAvailability is DISABLED_VIA_GSERVICES (RCS is disabled for this carrier by Google)
+08-14 00:21:42.069 1512 3380 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:42.070 1512 3380 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:47.633 1512 1953 I BuglePhenotype: onReceive for bugle package [CONTEXT package_name="com.google.android.apps.messaging#com.google.android.apps.messaging" ]
+08-14 00:21:48.420 1512 1953 I BuglePhenotype: onReceive for cslib package [CONTEXT package_name="com.google.android.ims.library" ]
+08-14 00:21:50.301 1512 1678 I BuglePhenotype: Notify about updates in current package [CONTEXT current_package_name="com.google.android.ims.library" ]
+08-14 00:21:50.333 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: onCsLibPhenotypeUpdated, enableProvisioningTaskInBugle = true
+08-14 00:21:50.360 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: updateRcsAvailability : hint = CSLIB_PHENOTYPE_UPDATE
+08-14 00:21:50.380 1512 1678 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:21:50.383 1512 1678 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:21:50.465 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to Carrier RCS is not set up, lastAvailability is RCS is disabled for this carrier by Google, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:50.474 1512 3380 I BugleTransport: onRcsAvailabilityUpdate: kicking off updateActiveTransport for simId:redacted-pii:sim_id[chars:20,last3:897]
+08-14 00:21:50.477 1512 3380 I BugleTransport: isChatAvailable: RcsAvailability is CARRIER_SETUP_PENDING (Carrier RCS is not set up)
+08-14 00:21:50.478 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:50.479 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:50.472 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : isPreviousDisabled = true, isCurrentDisabled = false, config[simId:redacted-pii:sim_id[chars:20,last3:897]] = [Type: 0, Version: 0, Validity: 0, Last updated: 0, Remaining validity: 0, Reconfiguration requested: false, Messaging technology: SIMPLE_IM, rcsVolteSingleRegistration: false], hasToken: false, isValidAndUpdated: false
+08-14 00:21:50.480 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: Schedule KEEP provision when trigger configuration not valid
+08-14 00:21:50.480 1512 1692 I BugleRcsProvisioning: scheduleProvisioning using legacy code path
+08-14 00:21:50.480 1512 1692 I BugleRcsProvisioning: RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG
+08-14 00:21:50.489 1512 1700 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:50.498 1512 2064 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:50.498 1512 2064 I BugleTransport: Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period="5 SECONDS" skipped=1 ]
+08-14 00:21:50.498 1512 2064 I BugleTransport: Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by="TRANSPORT_RCS" ratelimit_period="5 SECONDS" skipped=1 ]
+08-14 00:21:50.499 1512 2064 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:50.583 1512 1512 I BugleRcsWorker: [seqId=0][workId=03dc78d1-862b-496c-b258-427a448cf96e] RCS provisioning task has started
+08-14 00:21:50.611 1512 1700 I BugleRcsWorker: [seqId=0][workId=03dc78d1-862b-496c-b258-427a448cf96e] Starting StateMachine, trigger is CSLIB_PHENOTYPE_UPDATE
+08-14 00:21:51.193 1512 4608 W BugleConnectivity: getNetworkState: NetworkStateMonitor not found for subId 1.
+08-14 00:21:51.281 1512 1700 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+08-14 00:21:51.297 1512 1700 I BugleTransport: onBuglePhenotypeFlagChanged: kicking off updateActiveTransport
+08-14 00:21:51.310 1512 3380 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:51.312 1512 3382 I BugleTransport: isChatAvailable: RcsAvailability is CARRIER_SETUP_PENDING (Carrier RCS is not set up)
+08-14 00:21:51.325 1512 3380 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:51.326 1512 3380 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:51.343 1512 3382 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:51.344 1512 3382 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:53.200 1512 1958 I BuglePhenotype: onReceive for bugle package [CONTEXT package_name="com.google.android.apps.messaging#com.google.android.apps.messaging" ]
+08-14 00:21:53.958 1512 1953 I BuglePhenotype: onReceive for cslib package [CONTEXT package_name="com.google.android.ims.library" ]
+08-14 00:21:54.025 1512 1942 I BugleRcsProvisioning: RcsProvisioningTrigger: onRcsAvailabilityUpdate : availability is updated to Carrier RCS is not set up, lastAvailability is Carrier RCS is not set up, simId hash = -8213872112594904685, simId = redacted-pii:sim_id[chars:20,last3:897], isPev3Enabled = true
+08-14 00:21:54.036 1512 3411 I BugleRcsProvisioning: BugleSystemBindingManager: onBuglePhenotypeFlagChanged
+08-14 00:21:54.037 1512 3411 I BugleTransport: onBuglePhenotypeFlagChanged: kicking off updateActiveTransport
+08-14 00:21:54.043 1512 1692 I BugleTransport: isChatAvailable: RcsAvailability is CARRIER_SETUP_PENDING (Carrier RCS is not set up)
+08-14 00:21:54.050 1512 1725 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:54.057 1512 1725 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:54.061 1512 1725 W com.google.android.apps.messaging.shared.util.phone.SubscriptionMetadataUtils: Bugle: SubscriptionMetadataUtils get: unexpected subId = -2, replacing with -1 cpwb: FULL
+08-14 00:21:54.094 1512 1692 I BugleTransport: updateActiveTransport: refreshing chat transport
+08-14 00:21:54.104 1512 1692 I BugleTransport: refreshChatTransport: isChatAvailable: false, enabledTransport: 1, configuration: <empty>
+08-14 00:21:54.181 1512 4608 I BugleRcsWorker: [seqId=0][workId=03dc78d1-862b-496c-b258-427a448cf96e] Received a provisioning state changed event from the provisioning engine RETRY
+08-14 00:21:54.183 1512 4608 I BugleRcsWorker: [seqId=0][workId=03dc78d1-862b-496c-b258-427a448cf96e] Provis

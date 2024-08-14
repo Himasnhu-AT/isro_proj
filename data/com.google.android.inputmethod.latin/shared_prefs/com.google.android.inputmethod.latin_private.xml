@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="fg_failure_interval_start" value="1723613206064" />
+    <int name="fg_download_failures" value="0" />
+    <long name="clipboard_primary_timestamp" value="0" />
+</map>

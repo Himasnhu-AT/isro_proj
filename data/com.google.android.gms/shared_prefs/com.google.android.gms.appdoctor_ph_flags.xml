@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="__phenotype_snapshot_token"> com.google.android.gms.appdoctor 212 2 1155299970 com.google.android.gms.appdoctor  0</string>
+    <string name="__phenotype_server_token">CAMSBg0D6e2PKg==</string>
+    <string name="FixesFeature__config">EmUKHwoTY29tLmFuZHJvaWQudmVuZGluZxCE64UoGMvshSgSQggKEhk6FwoRODM5ODE3MDA6ODM5ODE5MDAaAggDGAEiISJiLzMyNTU5NzMyMC0yMDI0LTAyLTIyVDIyOjE3OjU1Ig</string>
+    <long name="__phenotype_configuration_version" value="1723569900" />
+</map>

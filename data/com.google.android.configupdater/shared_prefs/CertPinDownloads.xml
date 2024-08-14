@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CONTENT_URL">https://www.gstatic.com/android/config_update/08202014-pins.txt</string>
+    <string name="METADATA_URL">https://www.gstatic.com/android/config_update/08202014-metadata.txt</string>
+    <string name="METADATA_DOWNLOAD_ID">1</string>
+</map>

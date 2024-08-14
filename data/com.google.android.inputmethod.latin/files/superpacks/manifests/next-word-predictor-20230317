@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "name": "tflite-nwp-be541314788c7304827a9710c3ac4edb",
+      "label": "tflite-nwp",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/next_word_predictor/prod/tflite-nwp-20230309_154225.zip"
+      ],
+      "download_packing_scheme": "zip",
+      "md5_checksum": "be541314788c7304827a9710c3ac4edb",
+      "validation_schemes":  [ "md5" ],
+      "compressed_size": 1950106,
+      "size": 2501464,
+      "verify_sizes": true,
+      "locales": "en-US"
+    }
+  ]
+}

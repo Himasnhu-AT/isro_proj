@@ -1,0 +1,109 @@
+{
+    "download_packing_scheme": "zip",
+    "packs": [
+        {
+            "name": "asr_en-US_v3003",
+            "compressed_size": 38498810,
+            "size": 63523005,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-en-US-v3003.zip"
+            ],
+            "md5_checksum": "df7ebebee485c73d344abcf00b35d446",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "en-US"
+        },
+        {
+            "name": "asr_de-DE_v3002",
+            "compressed_size": 56885715,
+            "size": 94134792,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-de-DE-v3002.zip"
+            ],
+            "md5_checksum": "fa32d8bcb0aeb91942babac1fe19cdc4",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "de-DE"
+        },
+        {
+            "name": "asr_es-ES_v3002",
+            "compressed_size": 60626320,
+            "size": 152298975,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-es-ES-v3002.zip"
+            ],
+            "md5_checksum": "a62ec559b71bcb1e772bd71b3ef81b65",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "es-ES"
+        },
+        {
+            "name": "asr_fr-FR_v3002",
+            "compressed_size": 57208293,
+            "size": 96836749,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-fr-FR-v3002.zip"
+            ],
+            "md5_checksum": "6c3d27a0a9a91b5143f41b4a7710cfa9",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "fr-FR"
+        },
+        {
+            "name": "asr_it-IT_v3002",
+            "compressed_size": 56700866,
+            "size": 86966499,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-it-IT-v3002.zip"
+            ],
+            "md5_checksum": "4d6a3ae095294ba874a1eaf11e9c4d41",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "it-IT"
+        },
+        {
+            "name": "asr_ja-JP_v3002",
+            "compressed_size": 55032568,
+            "size": 86830680,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/aiai-ja-JP-v3002.zip"
+            ],
+            "md5_checksum": "2738695949c03b3488174792e67d4dd4",
+            "pack_type": "asr",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ],
+            "locale": "ja-JP"
+        },
+        {
+            "name": "sound_recognition_v1",
+            "compressed_size": 2565038,
+            "size": 3587621,
+            "download_urls": [
+                "https://storage.googleapis.com/captions/sound_recognition_v1.zip"
+            ],
+            "md5_checksum": "8e48644f5299fcf58176da52ddaf9244",
+            "pack_type": "mandatory",
+            "download_priority": 0,
+            "validation_schemes": [
+                "md5"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="UPDATE_TIME_STARTED">1723575000069</string>
+    <string name="ALT_CONTENT_URL">https://www.gstatic.com/android/config_update/05222024-sms-denylist.txt</string>
+    <string name="ALT_METADATA_URL">https://www.gstatic.com/android/config_update/05222024-sms-denylist-metadata.txt</string>
+</map>

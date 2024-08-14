@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "compressed_size": 613,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://gstatic.com/matchmaker/kg_collections_table/21051103/collections_table_main_21980965fbd997111d89f86c16e9e090.zip"
+      ],
+      "expiry_date": "2031-04-29T17:23:00+00:00",
+      "md5_checksum": "21980965fbd997111d89f86c16e9e090",
+      "name": "collections_table_main_21980965fbd997111d89f86c16e9e090",
+      "size": 1676,
+      "validation_schemes": [
+        "md5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+08-14 00:19:17.542 2722 3078 I CPController: register the profile change listener
+08-14 00:19:47.636 2722 2722 I p: processValidityUpdateForAllData
+08-14 00:21:05.225 1560 1939 I CPController: register the profile change listener
+08-14 00:21:10.658 1560 1560 I p: processValidityUpdateForAllData
+08-14 10:54:37.380 1640 1963 I CPController: register the profile change listener
+08-14 10:54:42.138 1640 1640 I p: processValidityUpdateForAllData
+08-14 10:56:11.645 1669 2378 I CPController: register the profile change listener
+08-14 10:56:13.435 1669 1669 I p: processValidityUpdateForAllData

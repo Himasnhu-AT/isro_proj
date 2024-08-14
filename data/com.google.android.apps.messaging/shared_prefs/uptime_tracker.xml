@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="previous_state" value="0" />
+    <int name="current_state" value="1" />
+    <int name="last_ignore_reason" value="1" />
+    <long name="previous_event_ts" value="1723613159624" />
+    <long name="last_ignore_ts" value="1723575044129" />
+    <int name="previously_logged_state" value="1" />
+</map>

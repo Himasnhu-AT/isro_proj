@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="usage_stats_hash_salt">c6ca3b66-437a-41dd-8873-48fe17d3d6c8</string>
+    <string name="tachyon_public_key">BRfjKSaLQVRJZu+kq1o8nZ2Rel9eTERqTqo2qN67gNgL&#10;    </string>
+    <long name="first_analytics_upload_time_in_millis" value="1723554785089" />
+    <int name="rcs_provisioning_status_pev2" value="2" />
+    <long name="last_sync_time_millis" value="1723574992353" />
+    <string name="tachyon_registration_token">AKjn9cENvgVFgYShRElRrWbxe7iKSLtIRcvmEU6zXjERbZAq468rnIK4tW4gKRlro70mlQ3WqaUI&#10;fjy+A5O9HH1RrMy/dng46ZRhzcEZhwcw8t6HJQf0qjFh2pbo0YRbrQTJXf4D1MUZVStQOPxd9M/O&#10;3ZCaPw==&#10;    </string>
+    <string name="tachyon_registration_id">+1-BUd9c2NVn90o9F5BEnx0b80</string>
+    <boolean name="is_at_least_o" value="true" />
+    <long name="tachyon_registration_expiration" value="1723661475938" />
+    <long name="last_full_sync_time_millis" value="1723574992353" />
+    <boolean name="bugle_full_sync_in_progress" value="false" />
+    <string name="tachyon_private_key">EHFiKS9TrtcSxPbV+B2oLJ1d/lUpKyggXvCoR8Yns30=&#10;    </string>
+    <long name="first_rcs_eligibility_time" value="1723575114030" />
+    <int name="shared_preferences_version" value="2" />
+    <long name="app_install_time_millis" value="1723575059447" />
+    <boolean name="pending_tasks_after_reboot" value="false" />
+    <string name="UPSELL_PROMPT_SIM_ID">89860318640220133897</string>
+</map>

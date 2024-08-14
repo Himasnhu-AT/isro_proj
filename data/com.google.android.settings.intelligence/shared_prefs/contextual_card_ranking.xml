@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.wallpaper.StyleSuggestionActivity" value="13" />
+    <int name="content://com.android.settings.slices/action/dark_theme" value="5" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.emergency/com.android.emergency.edit.EditInfoSuggestion" value="9" />
+    <int name="content://com.android.settings.slices/intent/low_storage" value="4" />
+    <int name="content://com.android.settings.slices/action/bluetooth_devices" value="3" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.google.android.settings.gestures.AssistGestureSuggestion" value="6" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.google.android.settings.intelligence/com.google.android.settings.intelligence.modules.suggestions.NightlightTrampolineActivity" value="15" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.wallpaper.WallpaperSuggestionActivity" value="12" />
+    <int name="content://android.settings.slices/action/contextual_wifi" value="2" />
+    <int name="content://com.google.android.gms.nearby.fastpair/pair_header_suggestion" value="0" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.biometrics.fingerprint.FingerprintEnrollSuggestionActivity" value="7" />
+    <int name="content://com.android.settings.slices/action/face_unlock_greeting_card" value="16" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.google.android.settings.aware.AwareSettingsActivity" value="10" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.google.android.settings.aware.WakeScreenSuggestionActivity" value="11" />
+    <int name="content://com.google.android.settings.intelligence.modules.routines.slices/slice/suggest_space" value="17" />
+    <int name="content://com.google.android.gms.nearby.fastpair/ota_contextual_cards" value="1" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.password.ScreenLockSuggestionActivity" value="8" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.wifi.calling.WifiCallingSuggestionActivity" value="14" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.android.settings/com.android.settings.notification.zen.ZenSuggestionActivity" value="20" />
+    <boolean name="naive_ranking" value="true" />
+    <int name="content://com.google.android.settings.intelligence.modules.contextualcards.slices/suggestion/com.google.android.as/com.google.intelligence.sense.ambientmusic.AmbientMusicSetupWizardActivity" value="19" />
+    <int name="content://com.android.settings.slices/intent/screen_timeout" value="18" />
+</map>

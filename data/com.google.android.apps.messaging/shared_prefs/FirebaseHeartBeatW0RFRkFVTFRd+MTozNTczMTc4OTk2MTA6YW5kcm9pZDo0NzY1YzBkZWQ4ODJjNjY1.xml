@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="fire-core/20.3.3_1p android-installer/ android-min-sdk/34 device-model/emu64a fire-android/34 fire-iid/21.1.1 fire-installations/17.0.2_1p device-brand/google device-name/sdk_gphone64_arm64 android-platform/ fire-fcm/23.1.3_1p android-target-sdk/34">
+        <string>2024-08-14</string>
+    </set>
+    <string name="last-used-date">2024-08-14</string>
+    <long name="fire-count" value="1" />
+    <long name="fire-global" value="1723575063330" />
+</map>

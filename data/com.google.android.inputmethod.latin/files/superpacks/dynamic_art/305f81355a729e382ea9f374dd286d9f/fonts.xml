@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset version="23">
+  <family name="DynaPuff 20210908">
+    <font weight="100" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="200" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="300" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="400" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="500" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="600" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="700" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="800" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="900" style="normal">DynaPuff-Black.ttf</font>
+  </family>
+  <family name="DynaPuff">
+    <font weight="100" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="200" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="300" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="400" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="500" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="600" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="700" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="800" style="normal">DynaPuff-Black.ttf</font>
+    <font weight="900" style="normal">DynaPuff-Black.ttf</font>
+  </family>
+</familyset>

@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="CallLog__enable_icc_id_cleanup_worker" value="true" />
+    <boolean name="G__allow_in_app_spam_write" value="true" />
+    <long name="CallerIdFeedback__rate_limit_count" value="50" />
+    <boolean name="G__call_screen_audio_listener_enabled" value="false" />
+    <long name="G__spam_embeddings_interval_for_wifi_job_milliseconds" value="0" />
+    <boolean name="Scooby__enable_truncate_scooby_call_log_timestamp" value="true" />
+    <boolean name="G__enable_glide_photo" value="true" />
+    <boolean name="enable_firebase_analytics" value="false" />
+    <boolean name="LaunchableDemo__enable_launchable_demo" value="true" />
+    <boolean name="atlas_show_preview_label" value="true" />
+    <boolean name="kill_rtt_videocall_transition" value="false" />
+    <long name="Voip__data_calls_create_hangout_id_timeout_millis_network_type_HSUPA" value="5000" />
+    <boolean name="G__enable_atlas" value="false" />
+    <boolean name="G__assisted_dialing_enabled" value="true" />
+    <boolean name="enable_theme_pushing" value="false" />
+    <boolean name="enable_ui_low_confidence_underline" value="true" />
+    <long name="atlas_settings_cache_time_sec" value="30" />
+    <long name="persistent_log_in_bug_reports_timeout_millis" value="1000" />
+    <long name="push_notification_cache_cleanup_interval_seconds" value="7200" />
+    <boolean name="G__enable_spam_blocking_promo" value="true" />
+    <boolean name="Voip__wifi_network_optimizing_handoff_allowed" value="false" />
+    <boolean name="log_business_messaging_event" value="true" />
+    <boolean name="G__vvm_o2_uk_allows_transcription" value="false" />
+    <boolean name="G__allow_gcore_spam_read" value="false" />
+    <boolean name="Grpc__use_blocking_executor_for_callinfolookup" value="true" />
+    <long name="G__postcall_call_duration_threshold" value="7000" />
+    <string name="BusinessMessagingSuggest__disabled_phone_numbers">CgwrNzgwMDIwMDAwMDAKDis5MTE4MDAyMTAwMDE4</string>
+    <long name="Xatu__xatu_call_maximum_truncation_duration_seconds" value="15" />
+    <long name="registration_worker_max_run_attempts" value="1" />
+    <boolean name="G__enable_phone_number_classification_spam" value="false" />
+    <boolean name="atlas_use_constraints_for_metrics" value="true" />
+    <boolean name="restart_terse_model_periodically" value="true" />
+    <boolean name="G__enable_primes_crash_metric" value="false" />
+    <boolean name="enable_hide_verification_if_spam" value="true" />
+    <boolean name="disable_agent_detection" value="false" />
+    <string name="constellation_consent_v2_variant_id">rr0</string>
+    <boolean name="Scooby__enable_same_prefix_logging" value="true" />
+    <boolean name="enable_mdd" value="true" />
+    <boolean name="enable_constellation_consent_v2" value="false" />
+    <boolean name="enable_sigil" value="false" />
+    <boolean name="include_persistent_log_in_bug_reports" value="true" />
+    <boolean name="enable_video_handover_dialog" value="false" />
+    <boolean name="enable_caller_id_suggestion" value="true" />
+    <string name="G__assisted_dialing_csv_country_codes">CA,GB,JP,US,IN,ES</string>
+    <string name="Voip__wifi_calling_mode_default_value">wifi_calling_mode_value_cell_preferred</string>
+    <long name="atlas_polling_call_audio_state_timeout_millis" value="1000" />
+    <boolean name="enable_tts_disclosure_file_recreation" value="true" />
+    <boolean name="enable_fcm_topic_subscription" value="true" />
+    <boolean name="disallow_merge_one_way_video" value="false" />
+    <long name="duo_upgrade_supported_cache_timeout_millis" value="1000" />
+    <long name="call_audio_timeout_millis" value="200" />
+    <long name="atlas_ivr_alert_max_false_positives_allowed" value="1" />
+    <long name="keypad_open_for_extended_period_threshold_seconds" value="5" />
+    <boolean name="G__use_possibly_faked_number_result_from_server" value="true" />
+    <boolean name="enable_suspicious_status" value="true" />
+    <long name="G__prefix_match_length" value="3" />
+    <long name="audio_detector_threshold" value="5000" />
+    <boolean name="enable_business_cache_worker" value="false" />
+    <float name="xatu_missing_bytes_error_threshold_ratio" value="0.1" />
+    <boolean name="PrimesMetrics__enable_tiktok_tracing_primes_integration" value="false" />
+    <long name="Xatu__dtmf_tone_play_duration_millis" value="500" />
+    <long name="close_ui_delay_duration_seconds" value="2" />
+    <string name="legacy_voice_hats_trigger_id">Mgs6FB5UD0pknLeYX5R0SvYuJyiZ</string>
+    <boolean name="G__answer_proximity_sensor_enabled" value="false" />
+    <boolean name="G__enable_client_error_logging" value="true" />
+    <boolean name="G__enable_post_call_prod" value="true" />
+    <long name="Voip__data_calls_create_hangout_id_timeout_millis_network_type_HSDPA" value="5000" />
+    <boolean name="show_chat_wait_time" value="true" />
+    <boolean name="G__enable_dark_mode_setting" value="true" />
+    <boolean name="kill_videocall_one_time_downgrade_notification" value="true" />
+    <long name="terse_audio_pipe_buffer_size_seconds" value="8" />
+    <long name="push_notification_expiration_timeout_millis" value="300000" />
+    <boolean name="CallLog__enable_expanded_view_cache_size_in_conversation_history" value="false" />
+    <boolean name="G__assisted_dialing_default_precall_state" value="true" />
+    <boolean name="G__inject_voip_audio_to_fi_voice_lib" value="false" />
+    <boolean name="show_growth_campaign" value="true" />
+    <boolean name="enable_prevent_answer_screen_rendering_for_answered_video_calls" value="true" />
+    <long name="G_embedding_spam_detection_timeout_milliseconds_manual_call_screen" value="0" />
+    <boolean name="enable_hold_for_me_tidepods_internal" value="true" />
+    <long name="maximum_revelio_ringing_sound_to_caller_loop_count" value="10" />
+    <boolean name="G__enable_primes_network_metric" value="false" />
+    <long name="G__frequents_recency_decay" value="50" />
+    <long name="number_of_cache_entries_to_compare" value="10" />
+    <string name="StirShaken__stir_shaken_validation_anonymized_carrier_ids">CiCjCfMN+A77DscQyBCdTp1O+wqqD4cQiBCJEKoQqU6vDg</string>
+    <string name="fides_notification_incall_text"></string>
+    <boolean name="G__enable_tiktok_primes_network_metric" value="false" />
+    <string name="tachyon_host_and_port">instantmessaging-pa.googleapis.com:443</string>
+    <boolean name="G__answer_false_touch_detection_enabled" value="false" />
+    <long name="G__cp2_extended_directory_phone_lookup_timout_millis" value="7000" />
+    <string name="VerifiedCall__verified_call_countries">CgsKAkJSEgVwdC1CUgoLCgJVUxIFZW4tVVMKCwoCSU4SBWVuLUlOCgsKAk1YEgVlcy1FUwoLCgJFUxIFZXMtRVM</string>
+    <boolean name="force_flip_to_silence" value="false" />
+    <boolean name="G__vvm_tmobile_us_allows_transcription" value="false" />
+    <long name="call_audio_player_timeout_millis" value="1000" />
+    <boolean name="enable_sync_business_updates" value="false" />
+    <boolean name="enable_ui_low_confidence_label" value="true" />
+    <boolean name="G__vvm_carrier_flag_charter_vzw_enable" value="true" />
+    <boolean name="enable_business_info_mode" value="true" />
+    <boolean name="use_business_voice_policy_for_constellation_api" value="true" />
+    <boolean name="enable_time_keeper" value="false" />
+    <boolean name="G__is_nui_shortcut_enabled" value="false" />
+    <long name="Voip__stun_ping_latency_millis_network_type_HSUPA" value="300" />
+    <long name="caller_id_retention_days" value="180" />
+    <string name="fides_recents_log_text"></string>
+    <string name="G__tk_mdd_ph_config"></string>
+    <boolean name="enable_low_quality_transcript_message" value="false" />
+    <long name="max_tmo_rest_retrieving_voicemail_entries_per_page" value="100" />
+    <boolean name="enable_post_char_dialog" value="true" />
+    <boolean name="G__allow_gcore_spam_write" value="false" />
+    <boolean name="G__enable_emergency_buttons_in_emergency_rtt_chat" value="false" />
+    <long name="atlas_soda_num_partial_results_for_stablization" value="3" />
+    <long name="Voip__data_calls_create_hangout_id_timeout_millis_network_type_HSPAP" value="5000" />
+    <boolean name="G__audio_framework_voip_enabled" value="true" />
+    <boolean name="G__enable_primes_memory_metric" value="false" />
+    <boolean name="CallerIdFeedback__restrict_feedback_to_incoming" value="true" />
+    <string name="tachyon_web_rtc_sender_id">466216207879</string>
+    <string name="atlas_supported_non_tfn_prefixes_per_country">CghBVV8rNjExMwoHR0JfKzQ0Mw</string>
+    <boolean name="enable_atlas_call_audio_state_verification" value="true" />
+    <string name="VcallLiftRateMetrics__verified_call_lift_rate_metrics_disabled_businesses"></string>
+    <boolean name="G__enable_default_dialer" value="true" />
+    <boolean name="Scooby__are_spam_jobs_enabled" value="true" />
+    <boolean name="enable_qresampler" value="false" />
+    <boolean name="enable_business_detail_logging" value="true" />
+    <long name="call_screen_voice_pack_download_timout_seconds" value="10" />
+    <string name="Videocall__video_reception_unsupported_countries">CgQKAktS</string>
+    <string name="unified_feedback_google_help_fallback_uri">https://support.google.com/phoneapp</string>
+    <boolean name="CallerTag__mdd_enabled" value="true" />
+    <long name="Xatu__xatu_logging_session_end_timeout_millis" value="5000" />
+    <boolean name="ContactRetriever__enable_suggested_contacts_enhanced_view_holder" value="true" />
+    <long name="business_cache_worker_max_run_attempts" value="1" />
+    <boolean name="xatu_enable_happiness_survey" value="true" />
+    <long name="Voip__stun_ping_latency_millis_network_type_HSDPA" value="300" />
+    <boolean name="G__vvm_visible_vzw_us_allows_transcription" value="false" />
+    <boolean name="kill_ops_record_audio_pre_call" value="false" />
+    <string name="fides_outgoing_call_text"></string>
+    <string name="CarrierIdentifier__mccmnc_sprint">CgYzMTAxMjAKBjMxMDgzMAoGMzExMjYwCgYzMTE0OTAKBjMxMTg3MAoGMzExODgwCgYzMTE4ODIKBjMxMTk0MAoGMzEyMTkwCgYzMTIyNDAKBjMxMjI1MAoGMzEyNTMwCgYzMTYwMTA</string>
+    <long name="channel_retry_delay_ms" value="2000" />
+    <long name="atlas_pstn_read_size" value="2048" />
+    <long name="interval_for_in_app_review_days" value="30" />
+    <long name="ContactRetriever__max_num_scores_considered_in_popularity_ranking" value="150" />
+    <boolean name="G__p13n_ranker_should_enable" value="false" />
+    <boolean name="enable_video_call_metrics_on_legacy" value="true" />
+    <boolean name="G__enable_tiktok_primes_timer_metric" value="false" />
+    <boolean name="G__enable_caller_id_and_spam_confirmation_dialogs" value="false" />
+    <long name="opted_out_registration_worker_period_hours" value="24" />
+    <string name="G__device_list_override_mute_qualcomm_check"></string>
+    <boolean name="G__vvm_carrier_cellcom_disabled" value="true" />
+    <boolean name="G__enable_duplicates_promo_v2_ui" value="false" />
+    <boolean name="G__enable_new_search_fragment" value="true" />
+    <boolean name="G__enable_primes_battery_metric" value="false" />
+    <long name="atlas_voip_byte_step_size" value="15600" />
+    <boolean name="G__audio_framework_fatal_error_enabled" value="false" />
+    <long name="G__tiktok_primes_timer_sample_rate_per_second" value="10" />
+    <boolean name="G__enable_feedback_log_upload" value="false" />
+    <boolean name="enable_time_keeper_feedback_from_unified_feedback" value="false" />
+    <boolean name="enable_stir_shaken" value="true" />
+    <boolean name="CallAnnouncer__enable_repeat_announcement" value="true" />
+    <long name="G__call_verifier_sync_worker_period_hours" value="6" />
+    <boolean name="enable_nav_buttons_fix" value="false" />
+    <string name="G__enable_lib_phone_number_classification_check_type">is_valid</string>
+    <long name="registration_worker_max_initial_delay_in_hours" value="24" />
+    <boolean name="G__enable_tiktok_primes_memory_metric" value="false" />
+    <string name="xatu_test_number"></string>
+    <string name="xatu_show_ahead_happiness_survey_trigger_id">mGYX4TZck0pknLeYX5R0QgAFJpwE</string>
+    <float name="tiktok_tracing_sampling_probability" value="2.5E-5" />
+    <boolean name="enable_video_call_conference" value="true" />
+    <string name="Xatu__lp_preferences">CgYI2DYQj04</string>
+    <long name="revelio_screening_timeout_millis" value="15000" />
+    <boolean name="disable_cp2_extended_directory_phone_lookup" value="false" />
+    <boolean name="enable_caller_id_feedback_chip_throttler" value="false" />
+    <long name="G__atlas_business_number_matching_timeout_millis" value="1000" />
+    <boolean name="enable_auto_download_voicemail_over_cellular" value="false" />
+    <boolean name="enable_video_call_introduction" value="false" />
+    <boolean name="G__enable_voicemail_transcription_with_spatula_header" value="true" />
+    <boolean name="show_tty_setting" value="true" />
+    <boolean name="G__enable_clean_up_duo_api" value="true" />
+    <boolean name="G__enable_after_call_spam_blocking_promo" value="false" />
+    <string name="G__atlas_test_number"></string>
+    <boolean name="G__ramping_ringer_dialer_enabled" value="true" />
+    <long name="G__video_share_timeout_millis" value="2147483647" />
+    <string name="atlas_cconfirmation_dialog_start_button_style_version">V2</string>
+    <long name="G_embedding_spam_detection_timeout_milliseconds_revelio" value="0" />
+    <long name="G__atlas_get_call_audio_timeout_millis" value="2000" />
+    <long name="terse_model_minimum_wait_seconds_between_resets" value="60" />
+    <long name="SodaTranscription__persisted_language_pack_info_refresh_initial_delay_hours" value="24" />
+    <boolean name="G__vvm_carrier_flag_el_telecom" value="true" />
+    <boolean name="G__enable_ramping_ringer_setting" value="true" />
+    <boolean name="G__enable_call_recording" value="false" />
+    <long name="close_surfaces_delay_millis" value="3000" />
+    <boolean name="enable_auth_context_manager" value="true" />
+    <boolean name="enable_voice_autofill" value="false" />
+    <long name="notification_contact_photo_timeout_millis" value="500" />
+    <string name="CallAnnouncer__on_device_tts_supported_languages">CgVhci14YQoFYm4tYmQKBWJuLWluCgZjbW4tdHcKBmNtbi1jbgoFY3MtY3oKBWRhLWRrCgVkZS1kZQoFZWwtZ3IKBWVuLWF1CgVlbi11cwoFZW4tZ2IKBWVuLWluCgVlbi1uZwoFZXMtZXMKBWVzLXVzCgVldC1lZQoFZmktZmkKBmZpbC1waAoFZnItZnIKBWZyLWNhCgVndS1pbgoFaGktaW4KBWh1LWh1CgVpZC1pZAoFaXQtaXQKBWphLWpwCgVqdi1pZAoFa20ta2gKBWtuLWluCgVrby1rcgoFbWwtaW4KBW1yLWluCgVuYi1ubwoFbmUtbnAKBW5sLW5sCgVwbC1wbAoFcHQtcHQKBXB0LWJyCgVyby1ybwoFcnUtcnUKBXNpLWxrCgVzay1zawoFc3UtaWQKBXN2LXNlCgV0YS1pbgoFdGUtaW4KBXRoLXRoCgV0ci10cgoFdWstdWEKBXVyLXBrCgV2aS12bgoGeXVlLWhr</string>
+    <boolean name="Vvm__enable_tiramisu_phone_account_id_conversion" value="true" />
+    <string name="atlas_happiness_survey_trigger_id">zErYNAsAy0pknLeYX5R0VLqfwksU</string>
+    <boolean name="G__enable_duo_kit" value="true" />
+    <boolean name="enable_business_cache_for_business_data" value="true" />
+    <long name="Voip__data_calls_create_hangout_id_timeout_millis_network_type_LTE" value="3000" />
+    <boolean name="atlas_enable_logging_remote_number" value="false" />
+    <long name="mdd_data_stream_database_batch_size" value="1000" />
+    <string name="call_screen_hats_trigger_id"></string>
+    <boolean name="enable_preferred_sim_icc_id_to_sub_id_migration" value="true" />
+    <boolean name="enable_drag_and_drop_preview" value="false" />
+    <boolean name="Voip__handoff_on_cell_loss_allowed" value="false" />
+    <boolean name="G__enable_patronus_spam" value="true" />
+    <boolean name="G__japanese_emergency_location_share_warning_toast_enabled" value="false" />
+    <boolean name="disable_fullsync_business_cache" value="true" />
+    <string name="G__call_recording_force_enable_device_models">CghPUDRDNzJMMQoIT1A0QzdCTDEKCE9QNEM3N0wxCghPUDRCQTVMMQoIT1A0QzQ1TDEKCE9QNEM4N0wxCgZPUDRBQkIKBk9QNEVFQQoGT1A0RUU4CghPUDRDNTFMMQoIT1A0RUZETDEKCE9QNEVGM0wxCgZPUDRGMkYKB09QNEJEQ0wKCE9QNEYyNUwxCghPUDRGMUJMMQoIT1A0RjFGTDEKCE9QNEYwQkwxCghPUDRCRENMMQoIT1A0RUU4TDEKCE9QNEYzOUwxCghPUDRGNDNMMQoIT1A0RjRETDEKCE9QNEYxMUwxCglSTVgyMDgxTDEKCVJNWDIwODNMMQoJUk1YMjA4NUwxCglSTVgyMDg2TDEKCVJNWDIxMjFDTgoJUk1YMjE0NEwxCgdSTVgyMTg1CgdSTVgyMTg2CgdSTVgyMTgwCgdSTVgyMTgxCgdSTVgyMTgzCgdSTVgyMTg5CgdSTVgyMTg0CgZSRTUwQkYKCVJNWDIxNTFMMQoJUk1YMjE2MUwxCglSTVgyMTYzTDEKCVJNWDIxNzBMMQoGUkU1MEMxCgdSTVgyMTkzCgdSTVgyMDUwCgdSTVgyMTk1CglSTVgyMTc2TDEKCVJNWDIxMTFMMQoJUk1YMjEyMUwxCghSRUNFNDI0NAoHUk1YMzA2MQoHUk1YMzA2MgoHUk1YMzA2MwoHUk1YMzEwMwoHUk1YMzEwNAoHUk1YMzEwNwoHUk1YMzExMAoHUk1YMzIwMQoHUk1YMzIwMgoJUk1YMzA5MkwxCglSTVgyMTE3TDEKB1JNWDMxNzEKB1JNWDIxNTYKCVJNWDIyMDJMMQoJUk1YMzA4MUwxCgdSTVgzMTkxCgdSTVgzMTkyCgdSTVgzMTkzCglSTVgzMDg1TDEKCVJNWDMwMzFMMQoHUk1YMzIzMQoIUkU1MTNDTDEKCFJFODE2QkwxCglSTVgyMTU2TDEKB1JNWDMyNjEKBE5vcmQKBkNUMDgxNwoLT25lUGx1c04yMDAKBlBMMDgyOAoJT25lUGx1czlSCgZCUjk4MjUKCE9uZVBsdXM5CgZNVzk4MTUKC09uZVBsdXM5UHJvCgZBSzA4MTMKCU9uZVBsdXNOMQoGdHVjYW5hCgZ3aWxsb3cKBmdpbmtnbwoFb2xpdmUKCW9saXZlbGl0ZQoDbG1pCgVtb25ldAoEdG9jbwoIYW5nZWxpY2EKCWFuZ2VsaWNhbgoGYXBvbGxvCgVzdXJ5YQoHZ2F1Z3VpbgoGY2Fubm9uCgVrYXJuYQoMZ2F1Z3VpbmlucHJvCgZjaXRydXMKBGxpbWUKB2Nhbm5vbmcKBXN3ZWV0Cgdzd2VldGluCgV2ZW51cwoGcmVub2lyCgdjb3VyYmV0Cgljb3VyYmV0aW4KBWhheWRuCgdoYXlkbmluCgVzdW5ueQoEc3RhcgoGcG9tZWxvCgVsZW1vbgoJY2FtZWxsaWFuCghjYW1lbGxpYQoEdmF5dQoFYmhpbWEKBmFsaW90aAoIYWxpb3RoaW4KBGFyZXMKBmFyZXNpbgoIcm9zZW1hcnkKB21hbHRvc2UKBmJpbG9iYQoGc2VjcmV0CglURUNOTy1DRDgKCVRFQ05PLUtFNwoNSW5maW5peC1YNjgyQgoNSW5maW5peC1YNjgyQwoJVEVDTk8tQ0U3CgxJbmZpbml4LVg2OTIKDUluZmluaXgtWDY4N0I</string>
+    <boolean name="Voip__roaming_handoff_allowed" value="false" />
+    <long name="Xatu__menu_similarity_max_edit_distance_percentage" value="20" />
+    <string name="business_shortened_agent_id_mapping">CiwKFTIwMDQ0MTM1MTY5MDAwMzk0Nzk6MRITMTg1Njg5MDU4MjU1MTAwMzE1NAo5CiE3NzY2NTgxMjI5ODE3MzgzNjUyOjE6bTovbS8wYzhrcHMSFC02MDg3Mzc3ODYzMzM3ODIwMDAwCjwKJDdlZjllMGRhLTIwNGItNDAzNS05Njc3LTQ2MTk5OTZiMDNlZhIULTY1OTMxOTQ3NzMyMjU2NjAwMDAKPAokYWUyMDE0NzktMGQ0Ni00ODlhLTkzNTMtMmQzZThhYjBkM2U3EhQtNzcyOTIwMDg4ODI1NjQ2MDAwMAo7CiRkZDNhYjZjMy1kMDgxLTRhOTItYWJkNy03N2E1ZjY3NzdmNzESEzc4NzQwMzYyOTIxNDk4MzYzMzUKPAolNDg5OTg5NTI3NzA4MTUxMzQzOToxOm06L2cvMTFiYzV5NHlqMRITNTUxNTY3MDE1NDAyOTU2NzIxOAo3CiA4MzE4NTEzNDczNzE2NjA5NDM1OjE6bTovbS8wa2M0ZhITMzAwNTA1OTYyMTA2MzI3NTg3NAosChUyMTg3MDQ2NDU0MDM4MTUwMTQ2OjESEzgzODc5NjEyNzYyMzgzMjM1ODQKOgoiMzUzMTg3ODMwMDY2MzkzNzM2OToxOm06L20vMDI3MWI5cxIULTgxNDU2MzE0MjI1Nzc2MzAwMDAKOwokMzE2Njc1ODYwMDQyMzM2MjMxOm1pZDovZy8xMWhkYjMzemcxEhMzNjAzNDY1NTQ4MDY1MDIzNjUwCjoKJDAxOWEyMGUwLThlOWYtNGVkZS04Yjc2LTVjNGY4Y2ViZjEzOBISMjkxNTU2MjIyNjY0NzM3MjQxCjsKJDczNjRiZjllLWNiNDItNGQwNC1iMDBlLTYxMDliYzM3ZDc2NhITODI2ODUwNDU1ODcxODM0ODkzMwo7CiRlMTU5NmY1OC1iYWMwLTRhN2ItOTA4NS1kYzk1NGQyNTFmNTkSEzEyMTU5MjQ4MTM0Mjk4NTExNjgKOwokOTdiZDk4NTYtMDA1MS00ZjBlLWI0YzEtYmI3NTcwMGUwNWE4EhMzODIyOTEzNjY2NzYzNjU1MDYzCjsKJDY2ZWUyYTgyLWY2NDgtNGM2NC1iMmFlLTcxNmRlMDIwZTNjNxITNzY0OTg1MjMwODcwMDY5NTU2OQotChU2MjIzMDM5NTA2NjkzODY3NjAxOjESFC0yMTUwOTUwNzM0OTkwNDQwMDAwCjwKJGVhM2M2NTEzLTRlYzUtNDIzNC1hMmRkLWUyYzkyZjRjZTU5MhIULTQ2MDA2NTY0NzY1MTI1ODAwMDA</string>
+    <string name="CallerTag__manifest_file_flag">Cgt2MTY1NDQ3ODQ4MBJDaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vY2FsbGVyX3RhZ3MvbWFuaWZlc3RfY29uZmlncy92MTY1NDQ3ODQ4MC5wYg</string>
+    <long name="Voip__stun_ping_latency_millis_network_type_LTE" value="200" />
+    <long name="atlas_ivr_alert_false_positive_threshold_secs" value="30" />
+    <boolean name="Xatu__xatu_enable_item_animator" value="false" />
+    <long name="Xatu__xatu_tree_truncation_count" value="2" />
+    <boolean name="enable_show_hide_preview" value="false" />
+    <boolean name="G__enable_after_call_notification" value="true" />
+    <boolean name="G__enable_return_to_call_bubble" value="false" />
+    <boolean name="G__allow_in_app_spam_read" value="true" />
+    <long name="grpc_timeout" value="15" />
+    <boolean name="enable_in_app_review" value="true" />
+    <boolean name="CallRecording__enable_call_recording_for_fi" value="false" />
+    <string name="pca_experiment_greeting_audio"></string>
+    <boolean name="G__use_carrier_config_voip_support" value="true" />
+    <boolean name="G__enable_revelio_r_api" value="false" />
+    <boolean name="CallerIdFeedback__dev_only_always_allow_crowdsourcing_opt_in" value="false" />
+    <boolean name="G__enable_tidepods__voice" value="true" />
+    <boolean name="G__enable_pendingcall" value="false" />
+    <long name="G__live_lookup_experiment_id" value="237324" />
+    <boolean name="enable_standalone_pull_grpc" value="true" />
+    <boolean name="G__frequents_enable_time_of_day_effect" value="false" />
+    <boolean name="G__bypass_revelio_roaming_check" value="false" />
+    <boolean name="G__force_within_call_recording_geofence_value" value="false" />
+    <string name="http_basic_auth_password"></string>
+    <string name="CallScreenI18n__default_manifest_file_flag">Cg12MjAyMTEwMDQwOTQwEk5odHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLWNzLXR0cy9tYW5pZmVzdC1jb25maWdzL3YyMDIxMTAwNDA5NDAucGI</string>
+    <boolean name="G__enable_gaming_mode_support" value="true" />
+    <long name="Xatu__xatu_min_amplitude_for_audio_detection" value="5000" />
+    <long name="G__embedding_num_audio_samples_to_record" value="22050" />
+    <boolean name="G__show_legal_text_for_tmo" value="true" />
+    <long name="load_and_cache_interpreter_timeout_millis" value="100" />
+    <boolean name="enable_normalization_for_non_us_phone_number" value="true" />
+    <boolean name="enable_push_verification_v2" value="false" />
+    <boolean name="enable_stir_shaken_check_in_dialer_for_verizon" value="false" />
+    <boolean name="G__vvm_carrier_flag_charter_vzw_disable" value="false" />
+    <long name="max_number_of_task_retries" value="3" />
+    <boolean name="G__show_phone_number_when_cnap_available" value="false" />
+    <string name="atlas_scotty_upload_target">DOMAIN_0</string>
+    <string name="bmsuggest_mdd_ph_config">ChZsYm0tbWVzc2FnaW5nLWVudGl0aWVzEskBEnVodHRwczovL3d3dy5nc3RhdGljLmNvbS9idXNpbmVzc2h1Yi9kaWFsZXItbWRkL2xibS1tZXNzYWdpbmctZW50aXRpZXMvYnVzaW5lc3NfcGhvbmVfbnVtYmVyX21hcHBpbmdzLnBiXzE2NDYwMDY0MDAwMDAgpv+kBSooNWJiNWMxMjQzNTQzM2YzMWQzZjRkODBlMmYxMWM3MTIwYjgzMTlmMjohYnVzaW5lc3NfcGhvbmVfbnVtYmVyX21hcHBpbmdzLnBiEssBEnZodHRwczovL3d3dy5nc3RhdGljLmNvbS9idXNpbmVzc2h1Yi9kaWFsZXItbWRkL2xibS1tZXNzYWdpbmctZW50aXRpZXMvbG9jYXRpb25zX3Bob25lX251bWJlcl9tYXBwaW5ncy5wYl8xNjQ2MDA2NDAwMDAwILDTvAYqKDI5M2RhZGY3YmVhZTczNzhiODg1ZjM0MjFlNmI2ZTYwZTJhZTAzMjY6ImxvY2F0aW9uc19waG9uZV9udW1iZXJfbWFwcGluZ3MucGIYgM7aA1CAofCQBmoICAAQAiCA9SQ</string>
+    <boolean name="enable_real_time_request_for_bm_data" value="true" />
+    <long name="bind_watchdog_timeout_sec" value="15" />
+    <boolean name="enable_fides" value="false" />
+    <boolean name="atlas_filter_ivr_alerts" value="true" />
+    <boolean name="enable_speed_dial_item_animator" value="false" />
+    <boolean name="G__always_enable_new_call_log_framework_and_fragment" value="true" />
+    <boolean name="G__enable_call_announcer" value="true" />
+    <boolean name="use_async_spatula_header" value="true" />
+    <long name="vvm_initial_fast_load_size" value="25" />
+    <long name="G__smart_dial_default_last_update_millis" value="1517472000000" />
+    <boolean name="enable_video_call_landscape" value="true" />
+    <boolean name="G__enable_embedding_spam_manual_call_screen" value="false" />
+    <long name="G__worker_initial_delay_minutes" value="5" />
+    <boolean name="Voip__handoff_on_wifi_loss_allowed" value="false" />
+    <long name="broadcast_receiver_strategy_inline_delay_foreground_millis" value="3000" />
+    <long name="atlas_polling_call_state_initial_delay_millis" value="500" />
+    <boolean name="G__enable_tidepods" value="true" />
+    <boolean name="enable_small_icon_no_attrs" value="true" />
+    <long name="postcall_last_call_threshold" value="30000" />
+    <string name="CallRecording__crosby_countries">CgQKAkJECgQKAkRaCgQKAkVHCgQKAklECgQKAklOCgQKAk1NCgQKAk1YCgQKAlBLCgQKAlRSCgQKAlVaCgQKAlZO</string>
+    <boolean name="enable_crosbycrosby_enable_delete_snackbar_with_undo" value="true" />
+    <long name="Xatu__xatu_show_ahead_version_tag" value="-1" />
+    <long name="broadcast_receiver_strategy_log_sampling_rate" value="1" />
+    <boolean name="enable_mdd_for_business_cache" value="true" />
+    <boolean name="G__enable_call_screen_saving_audio" value="false" />
+    <boolean name="G__cequint_requires_caller_id_settings" value="false" />
+    <boolean name="enable_remote_actions_service" value="false" />
+    <boolean name="G__speak_easy_enabled" value="false" />
+    <boolean name="enable_ar_text_watcher_of_precall_dialpad_v2" value="true" />
+    <boolean name="kill_wps_warning_migration" value="false" />
+    <boolean name="G__enable_in_call_button_grid_view_pager" value="true" />
+    <boolean name="enable_broadcast_receiver_strategy_for_revelio_notifs" value="false" />
+    <boolean name="enable_vcall_lift_rate_metrics" value="false" />
+    <boolean name="enable_caller_id_feedback" value="true" />
+    <boolean name="perform_logging_in_broadcast_receiver_strategy_missed_call_notification" value="false" />
+    <boolean name="enable_low_conf_text_mask" value="false" />
+    <boolean name="enable_rect_preview_video" value="false" />
+    <long name="Scooby__spam_interval_for_any_network_job_milliseconds" value="28800000" />
+    <boolean name="enable_vcall_tidepods_metrics_logging" value="false" />
+    <boolean name="G__enable_wifi_calling_icons_all_carriers" value="false" />
+    <long name="atlas_sound_event_collection_min_period_secs" value="10" />
+    <boolean name="G__donation_based_intro_message_enabled" value="false" />
+    <long name="business_cache_worker_initial_delay_in_minutes" value="5" />
+    <long name="Xatu__dialpad_input_after_option_match_log_time_window_seconds" value="60" />
+    <string name="AssistedEmergencyDialing__assisted_emergency_dialing_countries">CgsKAkFVEgVlbi1VUwoLCgJHQhIFZW4tVVMKCwoCVVMSBWVuLVVTCgsKAkVTEgVlcy1FUwoLCgJTRxIFZW4tU0cKCwoCSUUSBWVuLUlFCgsKAkpQEgVqYS1KUAoLCgJGUhIFZnItRlIKCwoCSVQSBWl0LUlUCgsKAlRXEgV6aC1UVwoLCgJTRRIFc3YtU0UKCwoCTk8SBW5vLU5PCgsKAkRLEgVkYS1ESwoLCgJOTBIFbmwtTkwKCwoCQ0ESBWVuLUNBCgsKAlBUEgVwdC1QVAoLCgJBVBIFZGUtQVQKCwoCSU4SBWVuLVVTCgsKAkNIEgVkZS1ERQoLCgJCRRIFbmwtQkU</string>
+    <boolean name="G__enable_plus_codes_on_location_panel" value="true" />
+    <boolean name="G__vvm_carrier_o2_uk" value="false" />
+    <boolean name="enable_tidepods_call_audio_player" value="true" />
+    <boolean name="G__allow_gcore_sync" value="false" />
+    <string name="audio_download_group_config">ChNyZXZlbGlvLXN0cmluZ3MtdHRzEpEBEk5odHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2hvbC13YXZlbmV0L2ludHJvLm9wdXMg1OoCKigwMDY1NzI0ZjFhODMyZDY1YWE1ZmFhN2UyNmNmMDYyOWY5YzY4ZDllOhFob2wtd2F2ZW5ldC1JTlRSTxKRARJOaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2RpYWxlci1yZXZlbGlvLXR0cy9hdWRpby9qbXAtd2F2ZW5ldC9pbnRyby5vcHVzINyOAyooM2UyOTMwNmViNDYyMDBjMDg3OWE2ODMwNmI1ODgwYTM1OTQwY2ZhZToRam1wLXdhdmVuZXQtSU5UUk8SqwESW2h0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kaWFsZXItcmV2ZWxpby10dHMvYXVkaW8vaG9sLXdhdmVuZXQvaW50cm9fcmVjb3JkaW5nX29uLm9wdXMg/54FKigwZjUwMTg5OTAzMTkxMWVhZTMzMDMwOThhYmMxMWM3NTc2N2YwZTRlOh5ob2wtd2F2ZW5ldC1JTlRST19SRUNPUkRJTkdfT04SqwESW2h0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kaWFsZXItcmV2ZWxpby10dHMvYXVkaW8vam1wLXdhdmVuZXQvaW50cm9fcmVjb3JkaW5nX29uLm9wdXMgnK8FKig0ZmM2ODI4MzM1YTEwOTdlNGJjOWNlMjk0ZTQ2MmMyODZmZGZkZTVlOh5qbXAtd2F2ZW5ldC1JTlRST19SRUNPUkRJTkdfT04SngESVWh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kaWFsZXItcmV2ZWxpby10dHMvYXVkaW8vaG9sLXdhdmVuZXQvdHJ5X3RvX3JlYWNoLm9wdXMgtkEqKGM5M2VjNTg5MGZmZWYxMDBjZDhlMzNlOTFlNTMzOTQzMWJjOWRmYmQ6GGhvbC13YXZlbmV0LVRSWV9UT19SRUFDSBKeARJVaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2RpYWxlci1yZXZlbGlvLXR0cy9hdWRpby9qbXAtd2F2ZW5ldC90cnlfdG9fcmVhY2gub3B1cyDwQSooOTM3Y2ExMGQxNjQ4Y2I3ZDllYWY4ZjYyZDM3N2UzNzMxY2M1Mjk3NjoYam1wLXdhdmVuZXQtVFJZX1RPX1JFQUNIErEBEl5odHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2hvbC13YXZlbmV0L3RyYW5zZmVyX3RvX3ZvaWNlbWFpbC5vcHVzIMO2ASooNWY2NTYxNmZkNDBlYTA0NjkxN2Y1ZjUyNTY0OWJlNzM0ZDVkMzY5NjohaG9sLXdhdmVuZXQtVFJBTlNGRVJfVE9fVk9JQ0VNQUlMErEBEl5odHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2ptcC13YXZlbmV0L3RyYW5zZmVyX3RvX3ZvaWNlbWFpbC5vcHVzIKK4ASooNTIwMDE4M2QwNzI1YjcyMjgyN2MyZjBkMjA4ZTJhMGFhMTY2ODEzNjoham1wLXdhdmVuZXQtVFJBTlNGRVJfVE9fVk9JQ0VNQUlMErYBEmFodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2hvbC13YXZlbmV0L2VuZF9jYWxsX2FmdGVyX3ZvaWNlbWFpbC5vcHVzIN1QKihhMTkzNDNmNDNlZTllOWE3NTFkYjhmZmFkNDljM2U5ZWQyNzljNTBlOiRob2wtd2F2ZW5ldC1FTkRfQ0FMTF9BRlRFUl9WT0lDRU1BSUwStgESYWh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kaWFsZXItcmV2ZWxpby10dHMvYXVkaW8vam1wLXdhdmVuZXQvZW5kX2NhbGxfYWZ0ZXJfdm9pY2VtYWlsLm9wdXMg8k8qKDQzYWFlOTQwMTIwNGVhOWM0ZjUzYjc3ZDcwMjg2MDFmYWEyYTRkODY6JGptcC13YXZlbmV0LUVORF9DQUxMX0FGVEVSX1ZPSUNFTUFJTBK0ARJgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2RpYWxlci1yZXZlbGlvLXR0cy9hdWRpby9ob2wtd2F2ZW5ldC9ub19yZXNwb25zZV9mcm9tX2NhbGxlci5vcHVzIL4uKigyMmUyNzYxODE5ODQwOTg0Yjk1OWI3N2E0ODM0ZDIzMDZlMDJjOTJlOiNob2wtd2F2ZW5ldC1OT19SRVNQT05TRV9GUk9NX0NBTExFUhK0ARJgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2RpYWxlci1yZXZlbGlvLXR0cy9hdWRpby9qbXAtd2F2ZW5ldC9ub19yZXNwb25zZV9mcm9tX2NhbGxlci5vcHVzIMgsKigyZjUxYzc1MWEyNWY4NDNkZjRiMzJjYTU5ZWQzNzU4ZGZhOTdjNTk1OiNqbXAtd2F2ZW5ldC1OT19SRVNQT05TRV9GUk9NX0NBTExFUhKkARJYaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2RpYWxlci1yZXZlbGlvLXR0cy9hdWRpby9ob2wtd2F2ZW5ldC9wcm9tb3Rpb25fdGl0bGUub3B1cyDALCooODIzMWU0NWUxNDQ2ODkxNjRhNzEyMzdlN2Q0OGFlMWE1OTYwNTRlMTobaG9sLXdhdmVuZXQtUFJPTU9USU9OX1RJVExFEqQBElhodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2ptcC13YXZlbmV0L3Byb21vdGlvbl90aXRsZS5vcHVzIMgsKihjMmQxYjgzMmU1MzIxNGYzMTE2YmVjODVjYTJlOTViYjAwZGZiNWQ0OhtqbXAtd2F2ZW5ldC1QUk9NT1RJT05fVElUTEUSqQESWmh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kaWFsZXItcmV2ZWxpby10dHMvYXVkaW8vaG9sLXdhdmVuZXQvcHJvbW90aW9uX2RldGFpbHMub3B1cyCg+QEqKDFjNzM4YTJhYzY3MWQxNjE1ODAxYzI1ZjUyN2JiNzFlNjkwYjQwZmY6HWhvbC13YXZlbmV0LVBST01PVElPTl9ERVRBSUxTEqkBElpodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vZGlhbGVyLXJldmVsaW8tdHRzL2F1ZGlvL2ptcC13YXZlbmV0L3Byb21vdGlvbl9kZXRhaWxzLm9wdXMguvsBKigxNjk5ZmY0MDk5MTkzOWFjMzMzNGVkYTkxOGQxZmRmZjNjNjE4ZTAzOh1qbXAtd2F2ZW5ldC1QUk9NT1RJT05fREVUQUlMU1AB</string>
+    <float name="call_screen_survey_chance" value="0.0" />
+    <boolean name="enable_incall_fixed_60hz_refresh_rate" value="false" />
+    <string name="G__atlas_mdd_ph_config"></string>
+    <boolean name="enable_warn_for_outgoing_calls_to_blocked_numbers" value="true" />
+    <long name="channel_binding_idle_timeout_sec" value="130" />
+    <boolean name="G__use_minutes_for_call_recording_deletion" value="false" />
+    <long name="CallAnnouncer__repeat_announcement_delay_millis" value="3000" />
+    <boolean name="G__vvm_carrier_cellcom" value="false" />
+    <long name="constellation_token_extra_cache_time_in_hours" value="24" />
+    <boolean name="G__enable_dialer_gateway_call_info_lookup_service_phone_lookup" value="true" />
+    <long name="agsa_model_manager_api_support_version" value="301106615" />
+    <long name="G__ramping_ringer_dialer_duration" value="10000" />
+    <long name="diffbased_business_cache_full_sync_period_in_days" value="28" />
+    <float name="low_quality_transcript_ratio" value="0.5" />
+    <boolean name="G__enable_revelio" value="false" />
+    <boolean name="enable_tidepods_answer_fragment" value="true" />
+    <long name="atlas_polling_call_state_interval_millis" value="200" />
+    <string name="Voip__remapped_phone_numbers">611=+14049788610/!US,+18448255234=+14049788610/!US</string>
+    <boolean name="enable_call_screen_i18n_tidepods" value="false" />
+    <long name="time_keeper_time_round_to_second" value="300" />
+    <boolean name="hide_default_avatar_incall" value="false" />
+    <boolean name="use_lightweight_executor_for_timeout_enforcement_in_soda_model_availability_impl" value="true" />
+    <boolean name="G__enable_tiktok_primes_tracing" value="false" />
+    <long name="notification_shown_timeout_millis" value="10000" />
+    <boolean name="show_atlas_hold_for_me_confirmation_dialog" value="true" />
+    <boolean name="enable_tidepods_proximity_sensor" value="true" />
+    <boolean name="G__force_disable_enriched_call" value="false" />
+    <boolean name="G__enable_fastpass_logging" value="false" />
+    <boolean name="G__enable_voice_assist_on_emergency_panel" value="false" />
+    <long name="low_quality_transcript_min_span_size" value="3" />
+    <boolean name="G__enable_tidepods_video" value="true" />
+    <long name="video_call_camera_resolution" value="720" />
+    <boolean name="enable_tincan" value="false" />
+    <long name="min_phone_number_length_for_wait_time" value="10" />
+    <string name="unified_feedback_google_help_context_string">call_donation_PT</string>
+    <boolean name="xatu_show_ahead_enable_happiness_survey" value="false" />
+    <boolean name="enable_profile_photo_for_on_hold_video_call" value="true" />
+    <boolean name="enable_rcs_verified_users" value="false" />
+    <boolean name="Grpc__disable_spatula_for_callinfolookup" value="true" />
+    <string name="fides_notification_incoming_call_text"></string>
+    <boolean name="ContactRetriever__enable_contact_query_limit_for_keyboard_search" value="false" />
+    <string name="call_screen_scotty_upload_target">DOMAIN_0</string>
+    <boolean name="pass_not_on_new_intent_upon_restore_instance" value="true" />
+    <boolean name="enable_legacy_voice_hats" value="false" />
+    <boolean name="enable_smart_reply" value="false" />
+    <string name="xatu_happiness_survey_trigger_id">anuwnYRzH0pknLeYX5R0WSsQrj4w</string>
+    <boolean name="G__enable_return_to_call_bubble_v2" value="true" />
+    <boolean name="enable_call_screen_hats" value="false" />
+    <boolean name="G__enable_primes_tracing" value="false" />
+    <string name="Revelio__supported_voices">Cgtob2wtd2F2ZW5ldAoLam1wLXdhdmVuZXQ</string>
+    <float name="atlas_missing_byte_pct_alarm_threshold" value="0.5" />
+    <string name="Voip__remapped_phone_numbers_carrier_311580">611=+18443907631</string>
+    <long name="constellation_token_refresh_worker_max_initial_delay_in_hours" value="12" />
+    <boolean name="G__speak_easy_use_soda_asr" value="false" />
+    <boolean name="G__vvm_carrier_flag_swisscom_ch" value="true" />
+    <long name="post_call_prompt_duration_ms" value="8000" />
+    <long name="caller_tag_crowdsourcing_experiment_id" value="234286" />
+    <string name="xatu_scotty_upload_target">DOMAIN_0</string>
+    <boolean name="G__enable_video_share" value="false" />
+    <boolean name="atlas_show_additional_feedback_description" value="false" />
+    <long name="business_cache_worker_period_in_hours" value="24" />
+    <string name="model_download_group_config">Cgt4YXR1LW1vZGVscw</string>
+    <long name="call_screen_audio_and_metrics_retention_days" value="2" />
+    <boolean name="enable_trivial_afra_feature" value="false" />
+    <long name="G__frequents_time_of_day_weight_fraction_pct" value="50" />
+    <boolean name="G__rate_limit_call_logs" value="false" />
+    <boolean name="CallerTag__dev_only_always_allow_crowdsourcing_opt_in" value="false" />
+    <long name="CallRecording__call_recording_wait_for_metrics_timeout_millis" value="3000" />
+    <boolean name="G__call_audio_manager_enabled" value="true" />
+    <string name="http_basic_auth_username"></string>
+    <long name="Xatu__queue_dtmf_tone_play_duration_millis" value="150" />
+    <long name="low_quality_transcript_num_items_to_skip" value="5" />
+    <string name="VisualVoicemailMvnoCarrierIdentifier__mccmnc_gid_visible_us_vzw">ChoKBjMxMTQ4MBIQQkFFMTAwMDAwMDAwMDAwMA</string>
+    <long name="client_logging_sampling_interval" value="100" />
+    <boolean name="G__new_voicemail_fragment_enabled" value="false" />
+    <long name="G__maximum_revelio_voicemail_duration_in_seconds" value="45" />
+    <string name="Scooby__spam_server_host">telephonyspamprotect-pa.googleapis.com</string>
+    <boolean name="G__hide_duplicated_numbers_in_incall_ui_v2" value="false" />
+    <string name="VerifiedCall__caller_overrides">ChwKDCsxNjUwNTU1MTExMRIMKzE2NTA1NTUxMjEyChwKDCsxNjUwNTU1MjIyMhIMKzE2NTA1NTUxMjEy</string>
+    <boolean name="enable_tmo_rest_vvm_dev_mode" value="false" />
+    <long name="notification_optional_producer_nodes_timeout_millis" value="500" />
+    <boolean name="enable_hardware_acceleration_for_vivo_go" value="false" />
+    <long name="model_download_group_config_minimum_version" value="1630391952" />
+    <long name="CallAnnouncer__prewarm_tts_worker_initial_delay_hours" value="24" />
+    <long name="ContactRetriever__contact_query_limit_for_keyboard_search_value" value="500" />
+    <boolean name="G__enable_dual_alphabets_on_t9" value="true" />
+    <boolean name="G__enable_vilte_presence_optin" value="false" />
+    <boolean name="atlas_supports_english_only_string_for_settings" value="true" />
+    <boolean name="enable_soda_transcription" value="false" />
+    <boolean name="G__use_call_recording_geofence_overrides" value="false" />
+    <long name="BusinessMessagingSuggest__minimum_number_of_digits_from_dialpad_input" value="10" />
+    <boolean name="G__enable_tidepods_mismatch_feedback" value="false" />
+    <boolean name="enable_shared_data_call_icon" value="false" />
+    <long name="patronus_cache_ttl_millis" value="30000" />
+    <boolean name="enable_national_v_local_logging" value="true" />
+    <boolean name="G__allow_embedding_spam_write" value="true" />
+    <boolean name="enable_cp2_phone_lookup_before_full_lookup" value="true" />
+    <long name="caller_tag_experiment_id" value="236860" />
+    <boolean name="G__enable_rtt_upgrade_on_emergency_panel" value="true" />
+    <boolean name="G__voicemail_change_greeting_enabled" value="true" />
+    <boolean name="atlas_allow_hardcoded_business" value="false" />
+    <long name="atlas_missing_byte_monitor_start_secs" value="30" />
+    <long name="perform_provisioning_timeout_millis" value="6000" />
+    <long name="G__spam_protection_get_caller_info_timeout_millis" value="2000" />
+    <boolean name="Voip__is_request_call_feedback_allowed" value="false" />
+    <boolean name="G__enable_composite_spam" value="true" />
+    <boolean name="G__log_spam_report_in_composite_spam" value="true" />
+    <string name="atlas_google_help_context_string_for_settings">hold_for_me_PT</string>
+    <boolean name="enable_call_screen_demo" value="true" />
+    <boolean name="G__enable_els_thunderbird_api" value="true" />
+    <long name="atlas_wait_for_session_to_detach_logger_timeout_millis" value="5000" />
+    <string name="mdd_business_cache_manifest_config_file_id">dialer-business-info-cache</string>
+    <string name="CallScreenI18n__call_screen_device_specific_asr_model_override"></string>
+    <string name="CarrierIdentifier__mccmnc_orange_spain">CgUyMTQwOQoFMjE0MDMKBTIxNDEx</string>
+    <string name="fides_incall_text"></string>
+    <string name="atlas_google_help_fallback_uri">https://support.google.com/phoneapp</string>
+    <boolean name="G__enable_embedding_spam_revelio" value="false" />
+    <long name="G__incallactivity_jank_record_duration_millis" value="3000" />
+    <string name="CarrierIdentifier__carrier_id_kddi">CgKtDA</string>
+    <string name="CarrierIdentifier__carrier_id_rogers">Cg77CqoPhxCIEIkQqhCpTg</string>
+    <boolean name="G__vvm_tracfone_vzw_us_allows_transcription" value="false" />
+    <long name="Scooby__scooby_experiment_id" value="235460" />
+    <boolean name="Scooby__skip_denylist_if_sampled" value="false" />
+    <boolean name="enable_tagging_model" value="true" />
+    <boolean name="enable_xatu" value="false" />
+    <boolean name="enable_tmo_cvvm_on_vvm_service" value="true" />
+    <boolean name="enable_logging_duplicate_calls" value="false" />
+    <long name="activating_prompt_delay_threshold_milliseconds" value="4000" />
+    <string name="enable_basic_auth_for_domain"></string>
+    <boolean name="enable_mono_generic_avatar" value="false" />
+    <boolean name="CallLogInformationArchitecture__enable_call_log_information_architecture" value="true" />
+    <boolean name="G__enable_primes_timer_metric" value="false" />
+    <string name="CarrierIdentifier__mccmnc_att">CgYzMTA0MTAKBjMxMDAxNgoGMzEwMDMwCgYzMTAwNzAKBjMxMDA4MAoGMzEwMDkwCgYzMTAxNTAKBjMxMDE3MAoGMzEwMjgwCgYzMTAzODAKBjMxMDQxMAoGMzEwNjcwCgYzMTA2ODAKBjMxMDk1MAoGMzExMDcwCgYzMTEwOTAKBjMxMTE4MAoGMzExMTkwCgYzMTIwOTAKBjMxMjY3MAoGMzEyNjgwCgYzMTMxMDAKBjMxMzExMAoGMzEzMTIwCgYzMTMxMzAKBjMxMzE0MAoGMzEzNzkw</string>
+    <long name="max_tmo_rest_retrieving_voicemail_page" value="10" />
+    <boolean name="G__enable_primes" value="false" />
+    <boolean name="enable_mdd_data_stream" value="true" />
+    <string name="business_wait_time_mapping">ChoKFTIwMDQ0MTM1MTY5MDAwMzk0Nzk6MRIBMQoqCiU0ODk5ODk1Mjc3MDgxNTEzNDM5OjE6bTovZy8xMWJjNXk0eWoxEgEx</string>
+    <boolean name="enable_standard_example" value="false" />
+    <boolean name="take_over_foreground_call_surface" value="false" />
+    <long name="G__experiment_for_alternative_spam_word" value="230150" />
+    <boolean name="G__are_embeddings_jobs_enabled" value="false" />
+    <boolean name="G__voicemail_transcription_available" value="true" />
+    <boolean name="G__enable_contacts_suggestions_integration" value="true" />
+    <boolean name="enable_video_call_type_chooser" value="false" />
+    <boolean name="enable_wifi_technology_icons" value="true" />
+    <boolean name="flag_direct_boot_access_sentinel" value="true" />
+    <boolean name="enable_tmo_rest_vvm" value="false" />
+    <boolean name="G__enable_archived_vvm" value="false" />
+    <long name="atlas_asr_emit_throttled_millis" value="100" />
+    <string name="CarrierIdentifier__mccmnc_orange_france">CgUyMDgwMQoFMjA4MDI</string>
+    <boolean name="enable_debug_dump" value="true" />
+    <boolean name="atlas_enable_au_business_number" value="false" />
+    <boolean name="G__enable_revelio_on_bluetooth" value="false" />
+    <string name="CarrierIdentifier__mccmnc_verizon">CgYzMTAwMDQKBjMxMDAxMAoGMzEwMDEyCgYzMTAwMTMKBjMxMDU5MAoGMzEwODkwCgYzMTA5MTAKBjMxMTExMAoGMzExMjcwCgYzMTEyNzEKBjMxMTI3MgoGMzExMjczCgYzMTEyNzQKBjMxMTI3NQoGMzExMjc2CgYzMTEyNzcKBjMxMTI3OAoGMzExMjc5CgYzMTEyODAKBjMxMTI4MQoGMzExMjgyCgYzMTEyODMKBjMxMTI4NAoGMzExMjg1CgYzMTEyODYKBjMxMTI4NwoGMzExMjg4CgYzMTEyODkKBjMxMTM5MAoGMzExNDgwCgYzMTE0ODEKBjMxMTQ4MgoGMzExNDgzCgYzMTE0ODQKBjMxMTQ4NQoGMzExNDg2CgYzMTE0ODcKBjMxMTQ4OAoGMzExNDg5</string>
+    <long name="G__percentage_of_spam_notifications_to_show" value="100" />
+    <boolean name="Voip__cell_network_optimizing_handoff_allowed" value="false" />
+    <boolean name="G__enable_tiktok_primes_jank_monitor_all_activities" value="true" />
+    <long name="business_cache_worker_max_random_initial_delay_in_hours" value="24" />
+    <long name="atlas_polling_call_audio_state_initial_delay_millis" value="50" />
+    <boolean name="G__speakeasy_postcall_survey_enabled" value="false" />
+    <boolean name="enable_business_messaging_suggest_mvp" value="false" />
+    <boolean name="G__vvm_carrier_att" value="true" />
+    <long name="G__percentage_of_non_spam_notifications_to_show" value="20" />
+    <long name="streaming_gateway_request_timeout_in_millis" value="60000" />
+    <long name="G__embeddings_experiment_id" value="230908" />
+    <boolean name="show_question_answer_chat_icon" value="true" />
+    <string name="CallRecording__call_recording_countries_with_built_in_audio_file">CgsKAkFFEgVhci1YQQoLCgJEWhIFYXItWEEKCwoCRUcSBWFyLVhBCgsKAkpPEgVhci1YQQoLCgJNQRIFYXItWEEKCwoCU0ESBWFyLVhBCgsKAlROEgVhci1YQQoLCgJNTRIFbXktTU0</string>
+    <boolean name="enable_use_async_spatula_patronus_spam" value="true" />
+    <long name="retry_initialization_limit_per_call" value="3" />
+    <boolean name="G__report_and_log_call_screen" value="true" />
+    <boolean name="enable_precall_dialpad_v2" value="true" />
+    <boolean name="G__enable_spam_blocking_for_non_fi" value="true" />
+    <boolean name="G__report_to_scooby_when_blocking_spam" value="true" />
+    <long name="G__reverse_lookup_min_version_enabled" value="1" />
+    <boolean name="enable_versioned_confidence" value="true" />
+    <long name="G__ramping_ringer_dialer_vibration_duration" value="5000" />
+    <string name="atlas_agent_greeting_version_jp">V2</string>
+    <boolean name="enable_modernized_vvm_settings_ui" value="true" />
+    <boolean name="enable_phone_number_from_dialpad_input" value="true" />
+    <boolean name="enable_diffbased_business_cache" value="true" />
+    <boolean name="G__enable_reduce_vvm_server_load_o2uk" value="true" />
+    <long name="call_avatar_session_manager_producer_timeout_millis" value="100" />
+    <boolean name="report_telephony_number" value="true" />
+    <boolean name="enable_business_cache_for_chat_wait_time" value="true" />
+    <boolean name="G__enable_rtt_visibility_setting" value="true" />
+    <boolean name="G__enable_constellation_onboarding" value="true" />
+    <long name="atlas_filter_ivr_alerts_duration_mins" value="10" />
+    <float name="post_call_in_app_review_probability" value="0.3" />
+    <boolean name="G__show_legal_text_for_att" value="false" />
+    <boolean name="G__speak_easy_bypass_locale_check" value="false" />
+    <boolean name="enable_hats_proof_mode" value="false" />
+    <boolean name="G__speak_easy_enable_listen_in_button" value="false" />
+    <long name="Scooby__same_prefix_matching_ignore_length" value="7" />
+    <string name="Xatu__google_help_context_string_for_settings">direct_my_call_PT</string>
+    <boolean name="G__enable_rbv_fields_logging" value="false" />
+    <boolean name="G__config_caller_id_enabled" value="false" />
+    <boolean name="G__enable_feedback_module" value="true" />
+    <string name="VerifiedCall__verified_call_telephony_countries">CgsKAkJSEgVwdC1CUgoLCgJVUxIFZW4tVVMKCwoCSU4SBWVuLUlOCgsKAk1YEgVlcy1FUwoLCgJFUxIFZXMtRVM</string>
+    <long name="constellation_token_refresh_worker_period_in_hours" value="48" />
+    <long name="Voip__stun_ping_latency_millis_network_type_HSPAP" value="300" />
+    <string name="BusinessVoice__business_info_cache_manifest_file_flag">CipkaWFsZXItYnVzaW5lc3MtaW5mby1jYWNoZS1tYW5pZmVzdC1jb25maWcScGh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9idXNpbmVzcy12b2ljZS1tZGQvbWFuaWZlc3QtY29uZmlncy9kaWFsZXItYnVzaW5lc3MtaW5mby1jYWNoZS1tYW5pZmVzdC1jb25maWcucGI</string>
+    <string name="fides_incoming_call_text"></string>
+    <long name="Xatu__queue_dtmf_tone_pause_duration_millis" value="100" />
+    <boolean name="Voip__activity_handoff_allowed" value="false" />
+    <boolean name="throttle_tagging_model_in_long_utterances" value="true" />
+    <long name="Xatu__xatu_call_truncation_duration_seconds" value="5" />
+    <long name="atlas_agent_greeting_timeout_padding_millis" value="600" />
+    <boolean name="G__hide_duplicated_numbers_in_incall_ui" value="true" />
+    <boolean name="enable_dialpad_v2_ux" value="true" />
+    <boolean name="enable_oauth_authentication" value="false" />
+    <boolean name="Voip__should_request_call_feedback_default_value" value="false" />
+    <boolean name="enable_fixed_dialing_number_phone_lookup" value="true" />
+    <boolean name="G__enable_reject_embedding_spam_calls" value="false" />
+    <boolean name="G__enable_revelio_on_wired_headset" value="false" />
+    <long name="xatu_missing_bytes_interval_length_ms" value="5000" />
+    <boolean name="PrimesMetrics__enable_tiktok_primes_crash_metric" value="false" />
+    <boolean name="use_downloaded_tagging_model" value="true" />
+    <boolean name="G__enable_speak_easy_is_spam_survey" value="false" />
+    <long name="Voip__data_calls_create_hangout_id_timeout_millis_network_type_HSPA" value="5000" />
+    <boolean name="show_connecting_text_on_landscape" value="true" />
+    <long name="G__tidepods_contactgrid_mismatch_threshold_millis" value="1000" />
+    <long name="Scooby__live_look_up_experiment_id_override_if_sampled" value="0" />
+    <boolean name="G__vvm_tracfone_tmo_us_allows_transcription" value="false" />
+    <boolean name="enable_revelio_transcript" value="false" />
+    <boolean name="G__enable_speakeasy_details" value="false" />
+    <long name="atlas_pstn_byte_step_size" value="7800" />
+    <boolean name="show_survey_for_revelio" value="false" />
+    <float name="UnifiedFeedback__post_call_notification_probability" value="0.1" />
+    <long name="feedback_chip_string_id" value="233351" />
+    <long name="atlas_min_wait_time_for_model_download_millis" value="3000" />
+    <boolean name="G__enable_tidepods_revelio" value="false" />
+    <float name="Scooby__per_call_experiment_sample_rate" value="0.0" />
+    <boolean name="enable_video_recycler_view_button_grid" value="false" />
+    <boolean name="GrowthKitIntegration__pixel_2019_and_beyond" value="false" />
+    <boolean name="G__enable_tiktok_primes_jank_metric" value="true" />
+    <long name="atlas_voip_read_size" value="4096" />
+    <long name="Scooby__spam_interval_for_wifi_job_milliseconds" value="3600000" />
+    <boolean name="enable_android_s_notifications" value="true" />
+    <boolean name="G__enable_tiktok_button_dialog_voice_screen" value="true" />
+    <long name="audio_framework_voip_sample_rate" value="48000" />
+    <long name="call_log_max_phone_number_length" value="-1" />
+    <boolean name="enable_oneplus_color_palette" value="false" />
+    <long name="grpc_request_timeout_in_millis" value="15000" />
+    <float name="face_down_threshold" value="-9.0" />
+    <boolean name="enable_hide_verification_if_spam_fi" value="false" />
+    <long name="G__registration_worker_period_hours" value="24" />
+    <boolean name="Vvm__vvm_test_flag" value="false" />
+    <long name="CallerIdFeedback__rate_limit_days" value="180" />
+    <boolean name="G__enable_pride_month_celebration" value="false" />
+    <long name="atlas_polling_call_state_timeout_millis" value="2000" />
+    <boolean name="enable_enriched_calling" value="false" />
+    <boolean name="G__force_within_crosby_geofence_value" value="false" />
+    <boolean name="G__enable_verified_call" value="false" />
+    <boolean name="enable_reset_collapsed_card_view_attributes" value="true" />
+    <boolean name="enable_bounce_voice_happiness_survey" value="false" />
+    <long name="postcall_call_duration_threshold" value="7000" />
+    <boolean name="disable_background_synchronization_executor" value="false" />
+    <boolean name="enable_audio_playback_player" value="false" />
+    <long name="push_notification_max_call_lead_time_millis" value="300000" />
+    <boolean name="OpsRecordAudioAccess__enable_block_showing_dialog_when_activity_finishing" value="false" />
+    <long name="atlas_polling_call_audio_state_interval_millis" value="50" />
+    <boolean name="G__enable_custom_message_markcallasremoved" value="false" />
+    <boolean name="enable_lte_technology_icons" value="true" />
+    <long name="G__primes_timer_sample_rate_per_second" value="10" />
+    <string name="atlas_opted_out_business_numbers">CgkrNjExMzI4ODgKDCs2MTM5ODU0NDY2Ng</string>
+    <boolean name="enable_call_screen_soda_availability_cache_check" value="true" />
+    <long name="max_tmo_rest_voicemail_per_update_request" value="100" />
+    <boolean name="unified_feedback_show_additional_feedback_description" value="false" />
+    <long name="G__embedding_generation_step_size" value="0" />
+    <string name="CallRecording__call_recording_force_enable_built_in_audio_file_countries">CgsKAk1NEgVteS1NTQoLCgJTQRIFYXItWEEKCwoCTUESBWFyLVhBCgsKAkVHEgVhci1YQQoLCgJKTxIFYXItWEEKCwoCVE4SBWFyLVhB</string>
+    <long name="real_time_request_timeout_millis " value="1000" />
+    <long name="Voip__stun_ping_latency_millis_network_type_HSPA" value="300" />
+    <boolean name="G__vvm_charter_vzw_us_allows_transcription" value="false" />
+    <long name="grpc_streaming_timeout_sec" value="900" />
+    <long name="max_number_of_participants" value="3" />
+    <boolean name="G__enable_spam_blocking_for_fi" value="true" />
+    <boolean name="G__enable_primes_jank_metric" value="false" />
+    <boolean name="G__enable_fastpass" value="false" />
+    <string name="G__phone_number_variations_json_corrected">&#10;            {&#10;              &quot;54&quot;: [&#10;                &quot;+%1$d 9 %2$s %3$s&quot;,&#10;                &quot;0 %2$s 15 %3$s&quot;,&#10;                &quot;%2$s %3$s&quot;,&#10;                &quot;0 %2$s %3$s&quot;,&#10;                &quot;%3$s&quot;,&#10;                &quot;15 %3$s&quot;&#10;              ],&#10;              &quot;81&quot;: [&#10;                &quot;003768 0%3$s&quot;,&#10;                &quot;003768 %3$s&quot;&#10;              ]&#10;            }&#10;            </string>
+    <long name="call_screen_activated_banner_duration_millis" value="1000" />
+    <long name="CallAnnouncer__prewarm_tts_worker_run_frequency_hours" value="24" />
+    <boolean name="G__disable_cnap_for_outgoing_call" value="false" />
+    <boolean name="atlas_ivr_alert_use_dialpad_clicks" value="true" />
+    <string name="CallRecording__call_recording_force_enable_tts_countries">CgsKAkhLEgV6aC1ISwoLCgJJThIFZW4tVVMKCwoCS0USBWVuLVVTCgsKAkxLEgVlbi1VUwoLCgJORxIFZW4tVVMKCwoCTlASBW5lLU5QCgsKAlBLEgV1ci1QSwoLCgJSVRIFcnUtUlUKCwoCVFcSBXpoLVRX</string>
+    <long name="Xatu__dtmf_tone_pause_duration_millis" value="250" />
+    <boolean name="G__enable_tiktok_primes_battery_metric" value="false" />
+    <boolean name="enable_tidepods_notification_optional_producer_nodes_timeout" value="false" />
+    <long name="push_notification_validation_timeout_millis" value="600000" />
+    <boolean name="force_disable_smartdial_table" value="false" />
+    <boolean name="G__frequents_enable_missed_call_effect" value="false" />
+    <long name="wait_for_telecom_response_timeout_for_impression_seconds" value="60" />
+    <boolean name="G__enable_caller_id_and_spam" value="true" />
+    <string name="CarrierIdentifier__mccmnc_tmobile">CgYzMTA2NjAKBjMxMDIzMAoFMzEwMzEKBjMxMDIyMAoGMzEwMjcwCgYzMTAyMTAKBjMxMDI2MAoGMzEwMjgwCgYzMTAzMzAKBjMxMDgwMAoGMzEwMzAwCgYzMTAzMTAKBjMxMDIwMAoGMzEwMjUwCgYzMTAxNjAKBjMxMDI0MA</string>
+    <boolean name="Xatu__xatu_enable_show_ahead" value="false" />
+    <long name="max_tmo_rest_voicemail_per_delete_request" value="100" />
+    <long name="__phenotype_configuration_version" value="1723569900" />
+    <long name="real_time_metrics_worker_delay_in_millis" value="60000" />
+    <long name="VvmService__get_response_sms_timeout_millis" value="60000" />
+    <boolean name="disable_upgrade_transmission_only_video" value="false" />
+    <string name="__phenotype_server_token">CAMSTg1LyoEJqAQEnwQERQTpBgSYAq8FBLgCBEsEOgTaBgS6BgTYBgSOBASbAwRDBFUEEQQXBKoBBJQEBMAFBGEEeQSMBgQuBNABAPIFAa8BAA==</string>
+    <boolean name="G__enable_oslo_integration" value="true" />
+    <long name="normalization_timeout_in_millis" value="500" />
+    <string name="CallScreenI18n__call_screen_i18n_config">ChUKAmF1Eg8KDQoFZW4tQVUSBAoCAgEKFQoCY2ESDwoNCgVlbi1VUxIECgICAQoUCgJkZRIOCgwKBWRlLURFEgMKAQIKFAoCZXMSDgoMCgVlcy1FUxIDCgECChQKAmZyEg4KDAoFZnItRlISAwoBAgoVCgJnYhIPCg0KBWVuLUdCEgQKAgIBCiQKAmllEh4KDQoFZW4tR0ISBAoCAgEKDQoFZW4tSUUSBAoCAgEKFAoCaXQSDgoMCgVpdC1JVBIDCgECChQKAmpwEg4KDAoFamEtSlASAwoBAgoVCgJ1cxIPCg0KBWVuLVVTEgQKAgIB</string>
+    <long name="VvmService__send_request_sms_timeout_millis" value="15000" />
+    <long name="vcall_spam_exemption_time_out_millis" value="300" />
+    <boolean name="G__enable_mmi_codes" value="true" />
+    <long name="SodaTranscription__persisted_language_pack_info_refresh_frequency_hours" value="24" />
+    <boolean name="G__disable_phone_number_formatting" value="false" />
+    <long name="realtime_grpc_timeout_millis" value="10000" />
+    <string name="__phenotype_snapshot_token"> com.google.android.dialer 11348628 5 1176122955 com.google.android.dialer 1176122955 0</string>
+    <long name="terse_consumed_audio_buffer_size_seconds" value="1" />
+    <boolean name="G__enable_coin" value="false" />
+    <long name="fetch_business_data_max_inbound_message_size_in_bytes" value="10000000" />
+    <long name="real_time_metrics_max_records_in_report" value="20" />
+    <string name="CarrierIdentifier__mccmnc_telcel">CgYzMzQwMjAKBTMzNDAy</string>
+    <long name="emergency_location_lookup_battery_threshold_percent" value="10" />
+    <boolean name="enable_time_keeper_histogram" value="false" />
+    <string name="bounce_voice_happiness_survey_trigger_id">7gh72xmpC0pknLeYX5R0Ve1Yv7Xx</string>
+    <boolean name="Cp2__use_blocking_executor_for_extended_directory_phone_lookup" value="true" />
+    <boolean name="G__enable_emergency_panel" value="false" />
+    <long name="G__populate_request_timeout_millis" value="30000" />
+    <boolean name="G__vvm_network_capability_enabled" value="false" />
+    <boolean name="enable_long_click_on_quick_contact_badge" value="true" />
+    <boolean name="enable_call_recording_system_feature" value="true" />
+    <string name="CallRecording__call_recording_countries">CgsKAkFPEgVwdC1QVAoLCgJBUhIFZXMtRVMKCwoCQVUSBWVuLUFVCgsKAkJCEgVlbi1VUwoLCgJCRBIFYm4tQkQKCwoCQkYSBWZyLUZSCgsKAkJHEgViZy1CRwoLCgJCSBIFZW4tVVMKCwoCQkkSBWZyLUZSCgsKAkJKEgVmci1GUgoLCgJCTRIFZW4tVVMKCwoCQk4SBWVuLVVTCgsKAkJPEgVlcy1FUwoLCgJCUhIFcHQtQlIKCwoCQlMSBWVuLVVTCgsKAkJXEgVlbi1VUwoLCgJCWRIFcnUtUlUKCwoCQloSBWVuLVVTCgsKAkNGEgVmci1GUgoLCgJDRxIFZnItRlIKCwoCQ0gSBWRlLURFCgsKAkNJEgVmci1GUgoLCgJDTBIFZXMtRVMKCwoCQ00SBWZyLUZSCgsKAkNPEgVlcy1FUwoLCgJDUhIFZXMtRVMKCwoCQ1oSBWNzLUNaCgsKAkRNEgVlbi1VUwoLCgJETxIFZXMtRVMKCwoCRUMSBWVzLUVTCgsKAkVUEgVlbi1VUwoLCgJGSxIFZW4tR0IKCwoCR0ESBWZyLUZSCgsKAkdHEgVlbi1HQgoLCgJHSBIFZW4tVVMKCwoCR0kSBWVuLUdCCgsKAkdNEgVlbi1VUwoLCgJHThIFZnItRlIKCwoCR1QSBWVzLUVTCgsKAkdZEgVlbi1VUwoLCgJISxIFemgtSEsKCwoCSE4SBWVzLUVTCgsKAkhUEgVmci1GUgoLCgJJRBIFaWQtSUQKCwoCSUwSBWhlLWlsCgsKAklNEgVlbi1HQgoLCgJJThIFZW4tVVMKCwoCSVESBWFyLVhBCgsKAklUEgVpdC1JVAoLCgJKRRIFZW4tR0IKCwoCSk0SBWVuLVVTCgsKAkpQEgVqYS1KUAoLCgJLRRIFZW4tVVMKCwoCS0cSBXJ1LVJVCgsKAktIEgVrbS1LSAoLCgJLThIFZW4tVVMKCwoCS1ISBWtvLUtSCgsKAktXEgVhci1YQQoLCgJLWRIFZW4tVVMKCwoCS1oSBXJ1LVJVCgsKAkxBEgVlbi1VUwoLCgJMQhIFYXItWEEKCwoCTEMSBWVuLVVTCgsKAkxLEgVlbi1VUwoLCgJMUhIFZW4tVVMKCwoCTFkSBWFyLVhBCgsKAk1DEgVmci1GUgoLCgJNRxIFZnItRlIKCwoCTUwSBWZyLUZSCgsKAk1QEgVlbi1VUwoLCgJNVxIFZW4tVVMKCwoCTVgSBWVzLUVTCgsKAk1ZEgVtcy1NWQoLCgJNWhIFcHQtUFQKCwoCTkESBWVuLVVTCgsKAk5FEgVmci1GUgoLCgJORxIFZW4tVVMKCwoCTkkSBWVzLUVTCgsKAk5QEgVuZS1OUAoLCgJOWhIFZW4tQVUKCwoCT00SBWFyLVhBCgsKAlBBEgVlcy1FUwoLCgJQRRIFZXMtRVMKCwoCUEsSBXVyLVBLCgsKAlBSEgVlcy1FUwoLCgJQUxIFYXItWEEKCwoCUFkSBWVzLUVTCgsKAlFBEgVhci1YQQoLCgJSUxIFc3ItUlMKCwoCUlUSBXJ1LVJVCgsKAlJXEgVmci1GUgoLCgJTRxIFZW4tVVMKCwoCU0wSBWVuLVVTCgsKAlNOEgVmci1GUgoLCgJTUhIFbmwtTkwKCwoCU1MSBWVuLVVTCgsKAlNWEgVlcy1FUwoLCgJUQxIFZW4tVVMKCwoCVEQSBWFyLVhBCgsKAlRHEgVmci1GUgoLCgJUSBIFdGgtVEgKCwoCVE0SBXJ1LVJVCgsKAlRSEgV0ci1UUgoLCgJUVBIFZW4tVVMKCwoCVFcSBXpoLVRXCgsKAlRaEgVlbi1VUwoLCgJVQRIFdWstVUEKCwoCVUcSBWVuLVVTCgsKAlVZEgVlcy1FUwoLCgJVWhIFcnUtUlUKCwoCVkMSBWVuLVVTCgsKAlZFEgVlcy1FUwoLCgJWRxIFZW4tR0IKCwoCVk4SBXZpLVZOCgsKAllFEgVhci1YQQoLCgJaQRIFZW4tVVMKCwoCWk0SBWVuLVVTCgsKAlpXEgVlbi1VUw</string>
+    <string name="atlas_google_help_context_string_for_donation">hold_for_me_PT</string>
+    <boolean name="enable_tidepods_call_recording" value="true" />
+    <boolean name="enable_atlas_happiness_survey" value="true" />
+    <long name="G__people_api_phone_lookup_timout_millis" value="7000" />
+    <string name="mdd_business_cache_manifest_config_group_name">dialer-business-info-cache</string>
+    <string name="atlas_enabled_business_number_country_codes">CgJVUwoCQ0EKAkFVCgJKUA</string>
+    <boolean name="check_rtt_user_setting_first" value="false" />
+    <string name="non_launch_afra_feature_string">cool cool cool cool</string>
+</map>

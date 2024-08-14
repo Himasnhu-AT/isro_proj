@@ -1,0 +1,32 @@
+{
+  "base_download_url": "https://www.gstatic.com/android/keyboard/modelpack/contentcache/202211221443/",
+  "packs": [
+    {
+      "download_urls": [
+        "emoji2expr.pb"
+      ],
+      "md5_hash": "e9a5a2de48a4f8b9a658b411bcfb375d",
+      "name": "e9a5a2de48a4f8b9a658b411bcfb375d",
+      "label": "emoji2expr",
+      "size": 11231
+    },
+    {
+      "download_urls": [
+        "text2expr.pb"
+      ],
+      "md5_hash": "8722425f4121ffdea802b1066df73991",
+      "name": "8722425f4121ffdea802b1066df73991",
+      "label": "text2expr",
+      "size": 5017
+    },
+    {
+      "download_urls": [
+        "contextual_ek.pb"
+      ],
+      "md5_hash": "fa1da98da1212aad6fb9a8efaff48148",
+      "name": "fa1da98da1212aad6fb9a8efaff48148",
+      "label": "contextual_ek",
+      "size": 1065
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="measurement_enabled_from_api" value="true" />
+    <long name="first_open_time" value="1723574931117" />
+    <string name="gmp_app_id">1:551011954849:android:c927b6ed30ba0123</string>
+    <string name="app_instance_id">1c6fd27f31e00c3dca0278a4ac3545d9</string>
+    <long name="health_monitor:start" value="1723574949340" />
+    <boolean name="use_service" value="true" />
+    <boolean name="deferred_analytics_collection" value="true" />
+    <string name="default_event_parameters">[{&quot;n&quot;:&quot;country_code&quot;,&quot;v&quot;:&quot;US&quot;,&quot;t&quot;:&quot;s&quot;}]</string>
+    <boolean name="measurement_enabled" value="true" />
+    <string name="previous_os_version">14</string>
+    <boolean name="has_been_opened" value="true" />
+    <boolean name="allow_remote_dynamite" value="true" />
+    <boolean name="start_new_session" value="true" />
+</map>

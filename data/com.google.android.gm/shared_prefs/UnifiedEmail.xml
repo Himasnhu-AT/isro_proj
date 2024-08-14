@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="conversation-overview-mode" value="true" />
+    <int name="auto-advance-mode" value="0" />
+    <set name="display_images" />
+    <set name="display_sender_images_patterns_set" />
+    <boolean name="confirm-archive" value="false" />
+    <string name="gm-density">DEFAULT</string>
+    <boolean name="confirm-send" value="false" />
+    <boolean name="conversation-list-sender-image" value="true" />
+    <int name="snap-header-mode" value="0" />
+    <boolean name="confirm-delete" value="false" />
+    <string name="default-reply-action">unset</string>
+    <int name="migrated-version" value="4" />
+    <int name="prefs-version-number" value="4" />
+</map>

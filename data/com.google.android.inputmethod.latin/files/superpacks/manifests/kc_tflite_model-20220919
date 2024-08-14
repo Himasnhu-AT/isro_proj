@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "name": "tflite-kc-en_us_secagg-20220805_235142",
+      "label": "tflite-kc",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/kc_triggering_model/tflite-kc-en_us_secagg-20220805_235142.zip"
+      ],
+      "download_packing_scheme": "zip",
+      "md5_checksum": "56a970b72612bfaa1ab49313efd4828c",
+      "validation_schemes":  [ "md5" ],
+      "compressed_size": 38169,
+      "size": 39728,
+      "verify_sizes": true,
+      "locales": "en-US"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+
+p com.google.android.gms.constellation 242835000 4 -2034576713 com.google.android.gms.constellation -2034576713 0/+.“–‡I°TOO¬>@CAMSKw0uk5aHDARJBBYEAQQWBLAEBFQEAQQWBE8EFgQWBE8EAQSsBgQBBD4DBw4=  êðµ*:
+6AsterismConsentApi__enable_get_consent_version_for_rcs*A
+=AsterismConsentApi__enable_set_consent_api_update_for_rcs_oob*/
++ExternalConsentActivity__ignore_oob_consent*O
+ ExternalConsentActivity__tos_url*+https://messages.google.com/jibe-consent/u1*+
+'Logging__is_eligible_to_send_alert_logs*,
+(Logging__use_usage_reporting_client_logs*j
+3OnDemandConsentV2__bypass_annoyance_check_allowlist23
+com.google.android.gms
+com.google.android.dialer*
+'OnDemandConsentV2__display_ui_allowlist2T
+com.google.android.gms
+com.google.android.dialer
+com.google.android.apps.tachyon*\
+%OnDemandConsent__display_ui_allowlist23
+com.google.android.gms
+com.google.android.dialer*;
+7Rpc__enable_network_data_uploads_monitoring_integration*#
+Rpc__get_consent_api_2_new_flow*$
+ Rpc__is_droid_guard_token_stored*(
+$Rpc__store_asterism_consent_versions*
+Rpc__sync_api_new_flow*
+Rpc__sync_checkin_new_flow*D
+@TelephonySettings__refresh_active_subscriptions_for_new_sessions*-
+)Triggers__delay_secondary_profile_enabled*$
+ Triggers__is_api_trigger_enabled*(
+$Triggers__is_gaia_id_checker_enabled*#
+Triggers__is_retry_sync_enabled*6
+2Triggers__reschedule_sync_only_after_end_of_window*.
+*Ts43Verification__add_http_history_enabled*.
+*Ts43Verification__is_ts43_verifier_enabled*&
+"Ts43Verification__log_api_attempts*:
+6VerificationSettings__a2p_hours_before_time_window_end*1
+-VerificationSettings__is_eligible_phone_range*6
+2VerificationSettings__is_non_persistent_mo_enabled*.
+*VerificationSettings__is_silent_mt_enabled*<
+8VerificationSettings__is_silent_mt_enabled_for_multi_sim*b
+.VerificationSettings__mo_ping_intervals_millis*05000,5000,20000,30000,60000,240000,600000,300000*3
+/VerificationSettings__skip_mo_if_no_sms_manager*0
+,VerifyPhoneNumberApi__enable_local_read_flow*ó
+.VerifyPhoneNumberApi__packages_allowed_to_call2À
+com.google.android.gms
+!com.google.android.apps.messaging
+com.google.android.ims
+com.google.android.apps.tachyon
+com.google.android.dialer
+&com.google.android.apps.nbu.paisa.user
+0com.google.android.gms.constellation.getiidtoken
+4com.google.android.gms.constellation.ondemandconsent
+6com.google.android.gms.constellation.ondemandconsentv2
+4com.google.android.gms.constellation.readphonenumber
+:com.google.android.gms.constellation.verifyphonenumberlite
+6com.google.android.gms.constellation.verifyphonenumber
+com.google.android.gms.test
+ com.google.android.apps.stargate*O
+7VerifyPhoneNumberApi__policy_ids_allowed_for_local_read2
+emergency_location*g
+*VerifyPhoneNumberApi__read_only_policy_ids29
+business_voice
+verifiedsmsconsent
+hint
+nearbysharing

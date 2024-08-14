@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "compressed_size": 335528,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://gstatic.com/matchmaker/tclib_models/langid/v1/tc_model_436dc3fd14049b93d75788a8c0cc8eea.zip"
+      ],
+      "expiry_date": "2030-12-11T15:30:00+00:00",
+      "md5_checksum": "436dc3fd14049b93d75788a8c0cc8eea",
+      "name": "tc_model_436dc3fd14049b93d75788a8c0cc8eea",
+      "size": 372428,
+      "validation_schemes": [
+        "md5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="should_log_draw_overlays_revoked" value="true" />
+    <boolean name="is_first_t_init" value="false" />
+    <boolean name="should_log_audio_record_revoked" value="true" />
+</map>

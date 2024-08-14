@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="enable_initial_topics_optimizations" value="true" />
+    <boolean name="enable_otr_in_rooms" value="false" />
+    <boolean name="enable_open_in_docs" value="false" />
+    <boolean name="enable_content_sharing_to_dynamite" value="false" />
+    <boolean name="enable_unread_indicators" value="false" />
+    <boolean name="enable_flat_dms_otr" value="false" />
+    <boolean name="enable_client_side_parsing" value="false" />
+    <boolean name="enable_is_in_debug_mode" value="false" />
+    <boolean name="enable_leakcanary" value="false" />
+    <boolean name="enable_receive_notification_with_unknown_navigation" value="false" />
+    <boolean name="enable_log_to_file" value="false" />
+    <boolean name="enable_world_redirect" value="false" />
+    <int name="active_state_timeout_millis" value="180000" />
+    <boolean name="enable_prioritize_webchannel_connection" value="false" />
+    <string name="build_type">HUB_PROD</string>
+    <boolean name="enable_dm_creation_in_membership_view" value="false" />
+    <boolean name="enable_flat_dm_creation" value="false" />
+    <boolean name="seen_state" value="false" />
+    <boolean name="enable_intent_allowed_only_from_google_apps" value="false" />
+    <int name="version_code" value="210" />
+    <boolean name="enable_manual_startup_tracing" value="false" />
+    <boolean name="enable_offline_reasons" value="false" />
+    <boolean name="enable_visible_user_ids" value="false" />
+    <boolean name="enable_tasks_out_of_room_hints" value="true" />
+    <boolean name="enable_restore_messages" value="true" />
+    <boolean name="auto_rotate" value="false" />
+    <boolean name="enable_remove_message_is_contiguous_ui" value="false" />
+    <boolean name="enable_enhanced_invite_emails" value="false" />
+    <boolean name="enable_flat_dms" value="false" />
+    <boolean name="enable_populous_rpc_loader_ranked_targets" value="false" />
+    <boolean name="enable_uikit_borders_for_in_stream_cards" value="true" />
+    <boolean name="enable_webchannel_fast_handshake" value="true" />
+    <boolean name="forcing_clear_group" value="false" />
+    <boolean name="merged_chat_and_spaces" value="false" />
+    <boolean name="enable_cronet_net_log" value="false" />
+    <boolean name="enable_manual_topic_bumping" value="false" />
+    <boolean name="enable_populous_rpc_loader_for_autocomplete" value="false" />
+    <boolean name="enable_hub_prioritized_notification_debug" value="false" />
+    <boolean name="enable_world_long_press" value="false" />
+    <boolean name="enable_network_connection_state_monitor" value="false" />
+    <boolean name="enable_diffutil_in_message_requests_view" value="false" />
+    <boolean name="enable_http_request_compression" value="false" />
+    <boolean name="enable_receive_notification_with_unknown_quick_action" value="false" />
+    <boolean name="enable_always_return_init_local_data_for_dm" value="false" />
+    <boolean name="enable_bg_sync_on_notification receipt" value="false" />
+    <boolean name="debug_enable_image_paste_drop" value="false" />
+    <boolean name="enable_v2_world_subscription" value="false" />
+    <boolean name="enable_working_hours" value="false" />
+    <boolean name="enable_otr_debug" value="false" />
+    <boolean name="enable_shake_feedback" value="false" />
+</map>

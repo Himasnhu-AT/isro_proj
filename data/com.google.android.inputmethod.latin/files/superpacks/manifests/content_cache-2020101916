@@ -1,0 +1,14 @@
+{
+  "base_download_url": "https://www.gstatic.com/android/keyboard/modelpack/contentcache/202010191648/",
+  "packs": [
+    {
+      "download_urls": [
+        "emoji2expr.pb"
+      ],
+      "md5_hash": "3514c1e9a5c7d614d5646bd12032bfa6",
+      "name": "3514c1e9a5c7d614d5646bd12032bfa6",
+      "label": "emoji2expr",
+      "size": 1801
+    }
+  ]
+}

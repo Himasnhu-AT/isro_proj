@@ -1,0 +1,61 @@
+{
+  "packs": [
+    {
+      "compressed_size": 1493590,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_concept/2023011913/en.zip"
+      ],
+      "md5_hash": "c63549ff25e25ddf4213bc9c8d8299c3",
+      "name": "2023011913_en",
+      "label": "transformer_concept",
+      "locale": "en",
+      "size": 2199327,
+      "predictor_unk_threshold": "0.04",
+      "query_prediction_score_threshold": "0.873",
+      "contextual_bitmoji_query_threshold": "0.75",
+      "tenor_query_threshold": "0.935",
+      "query_prediction_slope": "0.0079365",
+      "query_prediction_intercept": "0",
+      "contextual_emoji_kitchen_threshold": "-9"
+    },
+    {
+      "compressed_size": 1526647,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_concept/2022121315/es.zip"
+      ],
+      "md5_hash": "ec074a2c75e757f7c11029450f119b74",
+      "name": "2022121315_es",
+      "label": "transformer_concept",
+      "locale": "es",
+      "size": 2101037,
+      "predictor_unk_threshold": "0.026",
+      "query_prediction_score_threshold": "0.7819",
+      "contextual_bitmoji_query_threshold": "0.75",
+      "tenor_query_threshold": "0.7819",
+      "query_prediction_slope": "0.0079365",
+      "query_prediction_intercept": "0",
+      "contextual_emoji_kitchen_threshold": "-9"
+    },
+    {
+      "compressed_size": 1457669,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_concept/2022103110/pt.zip"
+      ],
+      "md5_hash": "ae888c08e2e18d9047d70e3949c405c4",
+      "name": "2022103110_pt",
+      "label": "transformer_concept",
+      "locale": "pt",
+      "size": 1995270,
+      "predictor_unk_threshold": "0.02",
+      "query_prediction_score_threshold": "0.7910",
+      "contextual_bitmoji_query_threshold": "0.75",
+      "tenor_query_threshold": "0.7910",
+      "query_prediction_slope": "0.0079365",
+      "query_prediction_intercept": "0",
+      "contextual_emoji_kitchen_threshold": "-9"
+    }
+  ]
+}

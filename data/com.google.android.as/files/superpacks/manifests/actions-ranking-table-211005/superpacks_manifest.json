@@ -1,0 +1,18 @@
+{
+  "packs": [
+    {
+      "compressed_size": 309,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://gstatic.com/matchmaker/kg_actions_ranking_table/211005/table_5f787033cc44fc7a8804e0030b2bf848.zip"
+      ],
+      "expiry_date": "2031-09-23T10:17:00+00:00",
+      "md5_checksum": "5f787033cc44fc7a8804e0030b2bf848",
+      "name": "table_5f787033cc44fc7a8804e0030b2bf848",
+      "size": 328,
+      "validation_schemes": [
+        "md5"
+      ]
+    }
+  ]
+}

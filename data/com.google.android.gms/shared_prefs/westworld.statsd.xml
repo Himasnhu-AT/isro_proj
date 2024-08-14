@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="KEEP_UID_MAP_CONFIGS" />
+    <set name="ACTIVE_CONFIGS" />
+    <set name="SENT_CONFIGS" />
+</map>

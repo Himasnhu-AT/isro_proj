@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sim_operator">310260</string>
+    <int name="sub_id" value="1" />
+    <boolean name="is_fi_device" value="false" />
+    <string name="sim_operator_name">T-Mobile</string>
+    <string name="imsi">310260000000000</string>
+    <string name="formatted_msisdn"></string>
+    <string name="group_id_level1"></string>
+    <string name="sim_id">89860318640220133897</string>
+    <string name="raw_msisdn">+15551234567</string>
+    <string name="sim_serial_number">89860318640220133897</string>
+    <int name="slot_index" value="0" />
+    <string name="network_operator_name">T-Mobile</string>
+</map>

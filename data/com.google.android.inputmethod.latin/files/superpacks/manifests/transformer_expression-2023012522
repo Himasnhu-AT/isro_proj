@@ -1,0 +1,84 @@
+{
+  "packs": [
+    {
+      "compressed_size": 2058204,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_expression/2023012522/it.zip"
+      ],
+      "md5_hash": "3a678fc979022f17047c7d1777f5e40e",
+      "name": "2023012522_it",
+      "label": "transformer_expression",
+      "locale": "it",
+      "size": 2859680,
+      "transformer_expression_triggering_threshold": "0.5",
+      "concept_threshold": "0.09",
+      "bitmoji_query_threshold": "0.873",
+      "tenor_query_threshold": "0.873",
+      "dynamic_art_threshold": "0.873",
+      "semantic_emoji_threshold": "0.873",
+      "semantic_emoji_for_search_threshold": "0.873",
+      "contextual_emoji_kitchen_threshold": "-9"
+    },
+    {
+      "compressed_size": 1968418,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_expression/2023012511/fr.zip"
+      ],
+      "md5_hash": "7b347715313577166c6e063a1f937106",
+      "name": "2023012511_fr",
+      "label": "transformer_expression",
+      "locale": "fr",
+      "size": 2775804,
+      "transformer_expression_triggering_threshold": "0.35",
+      "concept_threshold": "0.05",
+      "bitmoji_query_threshold": "0.873",
+      "tenor_query_threshold": "0.873",
+      "dynamic_art_threshold": "0.873",
+      "semantic_emoji_threshold": "0.873",
+      "semantic_emoji_for_search_threshold": "0.873",
+      "contextual_emoji_kitchen_threshold": "-9"
+    },
+    {
+      "compressed_size": 1738738,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_expression/2022090216/de.zip"
+      ],
+      "md5_hash": "43f0e8478a4367082cd7e412f44eadc8",
+      "name": "2022090216_de",
+      "label": "transformer_expression",
+      "locale": "de",
+      "size": 2638354,
+      "transformer_expression_triggering_threshold": "0.16",
+      "concept_threshold": "0.05",
+      "bitmoji_query_threshold": "0.873",
+      "tenor_query_threshold": "0.873",
+      "dynamic_art_threshold": "0.873",
+      "semantic_emoji_threshold": "1.1",
+      "semantic_emoji_for_search_threshold": "0.873",
+      "contextual_emoji_kitchen_threshold": "-9"
+    },
+    {
+      "compressed_size": 2270669,
+      "download_packing_scheme": "zip",
+      "download_urls": [
+        "https://www.gstatic.com/android/keyboard/modelpack/transformer_expression/2023012316/en.zip"
+      ],
+      "md5_hash": "a990cea3c9a57cb2968180e2b10ae8dd",
+      "name": "2023012316_en",
+      "label": "transformer_expression",
+      "locale": "en",
+      "size": 3436788,
+      "transformer_expression_triggering_threshold": "0.32",
+      "concept_threshold": "0",
+      "bitmoji_query_threshold": "0.8",
+      "tenor_query_threshold": "0.85",
+      "dynamic_art_threshold": "0.8",
+      "semantic_emoji_threshold": "0.85",
+      "semantic_emoji_for_search_threshold": "0.85",
+      "contextual_emoji_kitchen_threshold": "-9"
+    }
+  ]
+}

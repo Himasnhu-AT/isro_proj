@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last_successful_registration_environment_url">notifications-pa.googleapis.com</string>
+    <int name="last_successful_registration_request_hash_code" value="437179280" />
+    <string name="fetch_only_id">71174c93-c39c-456f-a8cc-57eaf9de6097</string>
+    <int name="last_successful_registration_account_type" value="1" />
+</map>

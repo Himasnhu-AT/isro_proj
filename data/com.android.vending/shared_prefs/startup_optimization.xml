@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="TaskDependency__use_explicit_dispatcher" value="false" />
+    <long name="Profiling__sampling_thread_priority" value="0" />
+    <boolean name="DecoupleVerifyAppsWithAsyncInit__enable_decouple_verify_apps_with_async_init" value="false" />
+    <boolean name="PhoneskyPhenotype__disable_gservice_fallback" value="true" />
+    <long name="window_start_time_ms" value="-1" />
+    <long name="whole_app_sampling_delay_ms" value="-1" />
+    <boolean name="StartupRedesign__enable_startup_redesign" value="false" />
+    <boolean name="NetworkRequestConfig__enable_sensitive_logging" value="false" />
+    <boolean name="ValueStore__enable_single_proc_jetpack_datastore" value="false" />
+    <string name="last_fg_task_id">null</string>
+    <boolean name="Profiling__enable_whole_app_sampling_v2" value="false" />
+    <boolean name="GservicesSetup__enable_gservice_init_on_demand" value="false" />
+    <boolean name="Profiling__main_thread_only" value="false" />
+    <boolean name="PhoneskyPhenotype__enable_b272292924_fix" value="true" />
+    <long name="Profiling__window_size_ms" value="300000" />
+    <boolean name="Profiling__enable_background_sampling" value="false" />
+    <boolean name="app_startup_sampling" value="false" />
+</map>

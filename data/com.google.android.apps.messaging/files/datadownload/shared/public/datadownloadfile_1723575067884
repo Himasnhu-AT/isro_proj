@@ -1,0 +1,79 @@
+
+wAppointment"
+DateDate"
+ZoomZoom"
+TopicTopic"
+TimeTime2ZOOM_DATE_AND_TIME@–RZoom Meeting: {Topic}
+Appointment"
+DateDate"
+ZoomZoom"
+TopicTopic"
+TimeLikeTimeLike2ZOOM_DATE_AND_TIME@–RZoom Meeting: {Topic}
+nAppointment"
+DateTimeDateTime"
+NoMatchZoom"
+TopicTopic2ZOOM_MEETING@–RZoom Meeting: {Topic}
+ëAppointment"
+DateDate""
+AppointmentTypeAppointmentType"
+TimeTime2APPOINTMENT_WITH_TYPE_COMBINED@–R{AppointmentType} Appointment
+ôAppointment"
+DateDate""
+AppointmentTypeAppointmentType"
+TimeLikeTimeLike2APPOINTMENT_WITH_TYPE_COMBINED@–R{AppointmentType} Appointment
+ÅAppointment"
+DateTimeDateTime""
+AppointmentTypeAppointmentType2APPOINTMENT_COMBINED@–R{AppointmentType} Appointment
+üAppointment"
+DateDate"
+AppointmentAppointment"
+TimeTime"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_WITH_TYPE_COMBINED@–RAppointment
+ßAppointment"
+DateDate"
+AppointmentAppointment"
+TimeLikeTimeLike"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_WITH_TYPE_COMBINED@–RAppointment
+èAppointment"
+DateTimeDateTime"
+AppointmentAppointment"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_COMBINED@–RAppointment
+ãAppointment"
+DateTimeDateTime"
+BookingBooking"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_BOOKING_COMBINED@–RBooking
+àAppointment"
+DateDate"
+BookingBooking"
+TimeTime"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_BOOKING@–RBooking
+êAppointment"
+DateDate"
+BookingBooking"
+TimeLikeTimeLike"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_BOOKING@–RBooking
+íAppointment"
+DateTimeDateTime"
+ReservationReservation"&
+NoMatchSimpleApptNoMatchSimpleAppt2APPOINTMENT_RESERVATION@–RReservation
+°Appointment"
+DateDate"
+ReservationReservation"
+TimeTime"&
+NoMatchSimpleApptNoMatchSimpleAppt2 APPOINTMENT_RESERVATION_COMBINED@–RReservation
+©Appointment"
+DateDate"
+ReservationReservation"
+TimeLikeTimeLike"&
+NoMatchSimpleApptNoMatchSimpleAppt2 APPOINTMENT_RESERVATION_COMBINED@–RReservation
+eAppointment"
+DateDate"
+TimeTime"
+NoMatchNoMatch2SIMPLE_EVENT_DATE_AND_TIME@–REvent
+mAppointment"
+DateDate"
+TimeLikeTimeLike"
+NoMatchNoMatch2SIMPLE_EVENT_DATE_AND_TIME@–REvent
+cAppointment"
+DateTimeDateTime"
+NoMatchNoMatch2SIMPLE_EVENT_COMBINED_DATETIME@–REvent

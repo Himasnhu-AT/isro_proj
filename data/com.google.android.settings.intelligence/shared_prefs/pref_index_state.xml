@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="indexed_task_providers">com.android.cellbroadcastreceiver:300000000,com.android.emergency:34,com.android.healthconnect.controller:34,com.android.permissioncontroller:340818080,com.android.permissioncontroller.role:340818080,com.android.permissioncontroller.safetycenter:340818080,com.android.settings:34,com.android.traceur:2,com.google.android.apps.gsa.opa.AssistantSettingsProvider:301224140,com.google.android.apps.messaging.settings.search:186596840,com.google.android.apps.nexuslauncher:907,com.google.android.apps.wellbeing:495937,com.google.android.gms.accountsettings.content:231818044,com.google.android.inputmethod.latin:99078518,com.google.android.settings.intelligence.provider.search:1000225866,com.google.android.settings.intelligence.routines.impl:1000225866,com.google.android.settings.intelligence.smartringer.impl:1000225866,com.google.android.gms:231818044,com.google.android.gms:242835038,com.google.android.gms.accountsettings.content:242835038,</string>
+    <string name="index_locale">en_US</string>
+    <int name="a11y_services_count" value="1" />
+    <boolean name="search_slice_indexing_enabled" value="false" />
+    <boolean name="google/sdk_gphone64_arm64/emu64a:14/UE1A.230829.036/11036701:user/release-keys" value="true" />
+    <string name="si_version">com.google.android.settings.intelligence:1000225866</string>
+    <string name="blacklisted_providers">com.google.android.apps.sample,</string>
+</map>

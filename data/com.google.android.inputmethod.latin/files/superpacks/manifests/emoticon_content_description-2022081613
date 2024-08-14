@@ -1,0 +1,743 @@
+{
+  "base_download_url": "https://www.gstatic.com/android/keyboard/emoticon_content_desc/202208161305/",
+  "packs": [
+    {
+      "download_urls": [
+        "af.binaryproto"
+      ],
+      "md5_hash": "4a6a8f4434ee1bb7c21a6af9e3a23ed8",
+      "name": "4a6a8f4434ee1bb7c21a6af9e3a23ed8",
+      "locales": "af",
+      "size": 12967
+    },
+    {
+      "download_urls": [
+        "am.binaryproto"
+      ],
+      "md5_hash": "f704be846b59d657cc1d4a21e57dd5c9",
+      "name": "f704be846b59d657cc1d4a21e57dd5c9",
+      "locales": "am",
+      "size": 15527
+    },
+    {
+      "download_urls": [
+        "ar.binaryproto"
+      ],
+      "md5_hash": "9755132153f9a6e332714f482504c950",
+      "name": "9755132153f9a6e332714f482504c950",
+      "locales": "ar",
+      "size": 14940
+    },
+    {
+      "download_urls": [
+        "as.binaryproto"
+      ],
+      "md5_hash": "cc3faa38fbfeeeb2a6a478484ba1b160",
+      "name": "cc3faa38fbfeeeb2a6a478484ba1b160",
+      "locales": "as",
+      "size": 19554
+    },
+    {
+      "download_urls": [
+        "az.binaryproto"
+      ],
+      "md5_hash": "b742b83d15626896f47d10c53d057ea8",
+      "name": "b742b83d15626896f47d10c53d057ea8",
+      "locales": "az",
+      "size": 13439
+    },
+    {
+      "download_urls": [
+        "es-419.binaryproto"
+      ],
+      "md5_hash": "efff71931341cd297eae433fc4d2434b",
+      "name": "efff71931341cd297eae433fc4d2434b",
+      "locales": "es-419",
+      "size": 13725
+    },
+    {
+      "download_urls": [
+        "my-Qaag.binaryproto"
+      ],
+      "md5_hash": "95917bae71a2e862d24b86db106caa8f",
+      "name": "95917bae71a2e862d24b86db106caa8f",
+      "locales": "my-Qaag,my-ZG",
+      "size": 23972
+    },
+    {
+      "download_urls": [
+        "sr-Latn.binaryproto"
+      ],
+      "md5_hash": "3e4fc33888ac571f24b9e0040b6a2361",
+      "name": "3e4fc33888ac571f24b9e0040b6a2361",
+      "locales": "sr-Latn",
+      "size": 13586
+    },
+    {
+      "download_urls": [
+        "be.binaryproto"
+      ],
+      "md5_hash": "a7bbc951f83b1b8ff7ca470ff142533c",
+      "name": "a7bbc951f83b1b8ff7ca470ff142533c",
+      "locales": "be",
+      "size": 16972
+    },
+    {
+      "download_urls": [
+        "bg.binaryproto"
+      ],
+      "md5_hash": "adc598007f54e8c7b636ee28ccc4013a",
+      "name": "adc598007f54e8c7b636ee28ccc4013a",
+      "locales": "bg",
+      "size": 16089
+    },
+    {
+      "download_urls": [
+        "bn.binaryproto"
+      ],
+      "md5_hash": "51b34a8effaac58a3c02956eeff14231",
+      "name": "51b34a8effaac58a3c02956eeff14231",
+      "locales": "bn",
+      "size": 18901
+    },
+    {
+      "download_urls": [
+        "bs.binaryproto"
+      ],
+      "md5_hash": "1590d9272968a8ac42b137bc445d6a4b",
+      "name": "1590d9272968a8ac42b137bc445d6a4b",
+      "locales": "bs",
+      "size": 13311
+    },
+    {
+      "download_urls": [
+        "ca.binaryproto"
+      ],
+      "md5_hash": "bb97927af8d8dc0406b458f81ea189a3",
+      "name": "bb97927af8d8dc0406b458f81ea189a3",
+      "locales": "ca",
+      "size": 13726
+    },
+    {
+      "download_urls": [
+        "cs.binaryproto"
+      ],
+      "md5_hash": "beba9b3610e823a4fee9cbf58caaa6c7",
+      "name": "beba9b3610e823a4fee9cbf58caaa6c7",
+      "locales": "cs",
+      "size": 14154
+    },
+    {
+      "download_urls": [
+        "da.binaryproto"
+      ],
+      "md5_hash": "1530a3904f14d8752d136140793ccc30",
+      "name": "1530a3904f14d8752d136140793ccc30",
+      "locales": "da",
+      "size": 13419
+    },
+    {
+      "download_urls": [
+        "de.binaryproto"
+      ],
+      "md5_hash": "1c661f5c7fb2b8a396a302d79ea74d30",
+      "name": "1c661f5c7fb2b8a396a302d79ea74d30",
+      "locales": "de",
+      "size": 14015
+    },
+    {
+      "download_urls": [
+        "el.binaryproto"
+      ],
+      "md5_hash": "3b04e22332f830ae4efcacd49735d38c",
+      "name": "3b04e22332f830ae4efcacd49735d38c",
+      "locales": "el",
+      "size": 19533
+    },
+    {
+      "download_urls": [
+        "en-GB.binaryproto"
+      ],
+      "md5_hash": "82203eaeaa17c7345d29b18e337a6f27",
+      "name": "82203eaeaa17c7345d29b18e337a6f27",
+      "locales": "en-GB",
+      "size": 12440
+    },
+    {
+      "download_urls": [
+        "es.binaryproto"
+      ],
+      "md5_hash": "2d05dc22bc2e4206c576b3d76a652ab0",
+      "name": "2d05dc22bc2e4206c576b3d76a652ab0",
+      "locales": "es",
+      "size": 13737
+    },
+    {
+      "download_urls": [
+        "et.binaryproto"
+      ],
+      "md5_hash": "a7df36e720e9494d4fe3cb8348cc359b",
+      "name": "a7df36e720e9494d4fe3cb8348cc359b",
+      "locales": "et",
+      "size": 13187
+    },
+    {
+      "download_urls": [
+        "eu.binaryproto"
+      ],
+      "md5_hash": "a89a3d4630d600b862b6783f35809784",
+      "name": "a89a3d4630d600b862b6783f35809784",
+      "locales": "eu",
+      "size": 13745
+    },
+    {
+      "download_urls": [
+        "fa.binaryproto"
+      ],
+      "md5_hash": "9fce9e30e1eb98ee85ed16dd5db1c4b1",
+      "name": "9fce9e30e1eb98ee85ed16dd5db1c4b1",
+      "locales": "fa",
+      "size": 15791
+    },
+    {
+      "download_urls": [
+        "fi.binaryproto"
+      ],
+      "md5_hash": "8cbf0be4e87f81c29d3946c85f14deb7",
+      "name": "8cbf0be4e87f81c29d3946c85f14deb7",
+      "locales": "fi",
+      "size": 12865
+    },
+    {
+      "download_urls": [
+        "fr-CA.binaryproto"
+      ],
+      "md5_hash": "d4b70f9b595603a8065ba081fe046d27",
+      "name": "d4b70f9b595603a8065ba081fe046d27",
+      "locales": "fr-CA",
+      "size": 14671
+    },
+    {
+      "download_urls": [
+        "fr.binaryproto"
+      ],
+      "md5_hash": "5a6773e78c139f5b7ea3bd5d11fc1f63",
+      "name": "5a6773e78c139f5b7ea3bd5d11fc1f63",
+      "locales": "fr",
+      "size": 13523
+    },
+    {
+      "download_urls": [
+        "gl.binaryproto"
+      ],
+      "md5_hash": "886d694ef384f123de52812c4307477c",
+      "name": "886d694ef384f123de52812c4307477c",
+      "locales": "gl",
+      "size": 13493
+    },
+    {
+      "download_urls": [
+        "gu.binaryproto"
+      ],
+      "md5_hash": "c13bd5687eb8fab70106b49b4d2d0f43",
+      "name": "c13bd5687eb8fab70106b49b4d2d0f43",
+      "locales": "gu",
+      "size": 20111
+    },
+    {
+      "download_urls": [
+        "hi.binaryproto"
+      ],
+      "md5_hash": "29fe8c144c5c3425c72d8a5aca007cc9",
+      "name": "29fe8c144c5c3425c72d8a5aca007cc9",
+      "locales": "hi",
+      "size": 20978
+    },
+    {
+      "download_urls": [
+        "hr.binaryproto"
+      ],
+      "md5_hash": "cd5085429be15a51f9b3310abf8d04b3",
+      "name": "cd5085429be15a51f9b3310abf8d04b3",
+      "locales": "hr",
+      "size": 13503
+    },
+    {
+      "download_urls": [
+        "hu.binaryproto"
+      ],
+      "md5_hash": "c6c4097ecf7056ee6ba85e88d9b940ae",
+      "name": "c6c4097ecf7056ee6ba85e88d9b940ae",
+      "locales": "hu",
+      "size": 13103
+    },
+    {
+      "download_urls": [
+        "hy.binaryproto"
+      ],
+      "md5_hash": "46100b2b496226eae3d25b2fc5eec70d",
+      "name": "46100b2b496226eae3d25b2fc5eec70d",
+      "locales": "hy",
+      "size": 16743
+    },
+    {
+      "download_urls": [
+        "in.binaryproto"
+      ],
+      "md5_hash": "0e60c86f610f19b95e8b93363571c750",
+      "name": "0e60c86f610f19b95e8b93363571c750",
+      "locales": "in",
+      "size": 13719
+    },
+    {
+      "download_urls": [
+        "is.binaryproto"
+      ],
+      "md5_hash": "397d2f318410e228d41e30230267d767",
+      "name": "397d2f318410e228d41e30230267d767",
+      "locales": "is",
+      "size": 13341
+    },
+    {
+      "download_urls": [
+        "it.binaryproto"
+      ],
+      "md5_hash": "73617c25bc555e0f3378032ece4baaa6",
+      "name": "73617c25bc555e0f3378032ece4baaa6",
+      "locales": "it",
+      "size": 14051
+    },
+    {
+      "download_urls": [
+        "iw.binaryproto"
+      ],
+      "md5_hash": "46d4a1c9a7b1b7d8918a16c20609950a",
+      "name": "46d4a1c9a7b1b7d8918a16c20609950a",
+      "locales": "iw",
+      "size": 14485
+    },
+    {
+      "download_urls": [
+        "ja.binaryproto"
+      ],
+      "md5_hash": "73ddbc26c0b22f61d2081a97a6bd94cc",
+      "name": "73ddbc26c0b22f61d2081a97a6bd94cc",
+      "locales": "ja",
+      "size": 14972
+    },
+    {
+      "download_urls": [
+        "ka.binaryproto"
+      ],
+      "md5_hash": "4422ad6e71a09e08d59d17af67bbe59b",
+      "name": "4422ad6e71a09e08d59d17af67bbe59b",
+      "locales": "ka",
+      "size": 21447
+    },
+    {
+      "download_urls": [
+        "kk.binaryproto"
+      ],
+      "md5_hash": "41ab007a17d3cc466d64ed9fc61cbeb4",
+      "name": "41ab007a17d3cc466d64ed9fc61cbeb4",
+      "locales": "kk",
+      "size": 17041
+    },
+    {
+      "download_urls": [
+        "km.binaryproto"
+      ],
+      "md5_hash": "646ac63f84116f5adb50827844230ee6",
+      "name": "646ac63f84116f5adb50827844230ee6",
+      "locales": "km",
+      "size": 18939
+    },
+    {
+      "download_urls": [
+        "kn.binaryproto"
+      ],
+      "md5_hash": "1e1e458ae6f9489ec3bc5ebebea6201c",
+      "name": "1e1e458ae6f9489ec3bc5ebebea6201c",
+      "locales": "kn",
+      "size": 20300
+    },
+    {
+      "download_urls": [
+        "ko.binaryproto"
+      ],
+      "md5_hash": "1c2e182df2a80224fe7a6295c720d8e5",
+      "name": "1c2e182df2a80224fe7a6295c720d8e5",
+      "locales": "ko",
+      "size": 13949
+    },
+    {
+      "download_urls": [
+        "ky.binaryproto"
+      ],
+      "md5_hash": "ca6daa3cd846446918dfd4cf8484b1d3",
+      "name": "ca6daa3cd846446918dfd4cf8484b1d3",
+      "locales": "ky",
+      "size": 16754
+    },
+    {
+      "download_urls": [
+        "lo.binaryproto"
+      ],
+      "md5_hash": "f7b65eb150ee3a1ce5d2bec1f32facec",
+      "name": "f7b65eb150ee3a1ce5d2bec1f32facec",
+      "locales": "lo",
+      "size": 17190
+    },
+    {
+      "download_urls": [
+        "lt.binaryproto"
+      ],
+      "md5_hash": "ecc11118de7f8883ad08db6cda165091",
+      "name": "ecc11118de7f8883ad08db6cda165091",
+      "locales": "lt",
+      "size": 14520
+    },
+    {
+      "download_urls": [
+        "lv.binaryproto"
+      ],
+      "md5_hash": "3fc1bab3a5c27600248becabb340018f",
+      "name": "3fc1bab3a5c27600248becabb340018f",
+      "locales": "lv",
+      "size": 13797
+    },
+    {
+      "download_urls": [
+        "mk.binaryproto"
+      ],
+      "md5_hash": "ed290c13281d056a69f3c0592da6f37d",
+      "name": "ed290c13281d056a69f3c0592da6f37d",
+      "locales": "mk",
+      "size": 17270
+    },
+    {
+      "download_urls": [
+        "ml.binaryproto"
+      ],
+      "md5_hash": "e75c8a73b560ccd909279eed42894fa6",
+      "name": "e75c8a73b560ccd909279eed42894fa6",
+      "locales": "ml",
+      "size": 25194
+    },
+    {
+      "download_urls": [
+        "mn.binaryproto"
+      ],
+      "md5_hash": "e06e55304a48961e4de7ff1daa75c8b1",
+      "name": "e06e55304a48961e4de7ff1daa75c8b1",
+      "locales": "mn",
+      "size": 18148
+    },
+    {
+      "download_urls": [
+        "mr.binaryproto"
+      ],
+      "md5_hash": "3e7e86f169ee101bb2ea261dbe1aad0b",
+      "name": "3e7e86f169ee101bb2ea261dbe1aad0b",
+      "locales": "mr",
+      "size": 19625
+    },
+    {
+      "download_urls": [
+        "ms.binaryproto"
+      ],
+      "md5_hash": "09728ccec3442c60f8e590672f3711bd",
+      "name": "09728ccec3442c60f8e590672f3711bd",
+      "locales": "ms",
+      "size": 13423
+    },
+    {
+      "download_urls": [
+        "my.binaryproto"
+      ],
+      "md5_hash": "b2e9c6e5d85c1031bdbf9efc7061fd4c",
+      "name": "b2e9c6e5d85c1031bdbf9efc7061fd4c",
+      "locales": "my",
+      "size": 24047
+    },
+    {
+      "download_urls": [
+        "nb.binaryproto"
+      ],
+      "md5_hash": "5d203531c1d4addc95edd340f6ff6857",
+      "name": "5d203531c1d4addc95edd340f6ff6857",
+      "locales": "nb",
+      "size": 13634
+    },
+    {
+      "download_urls": [
+        "ne.binaryproto"
+      ],
+      "md5_hash": "07f68c7b8004f98bb2b15cb5ca0c6433",
+      "name": "07f68c7b8004f98bb2b15cb5ca0c6433",
+      "locales": "ne",
+      "size": 22366
+    },
+    {
+      "download_urls": [
+        "nl.binaryproto"
+      ],
+      "md5_hash": "72875554c66a5fe0fe0333f3226f334e",
+      "name": "72875554c66a5fe0fe0333f3226f334e",
+      "locales": "nl",
+      "size": 13390
+    },
+    {
+      "download_urls": [
+        "or.binaryproto"
+      ],
+      "md5_hash": "e1307a9a20f1bdc8dbb15b8028fb5b0e",
+      "name": "e1307a9a20f1bdc8dbb15b8028fb5b0e",
+      "locales": "or",
+      "size": 19463
+    },
+    {
+      "download_urls": [
+        "pa.binaryproto"
+      ],
+      "md5_hash": "4d16a915abc4b7088274c6085e21ccca",
+      "name": "4d16a915abc4b7088274c6085e21ccca",
+      "locales": "pa",
+      "size": 20169
+    },
+    {
+      "download_urls": [
+        "pl.binaryproto"
+      ],
+      "md5_hash": "24352355d9d555e7626b4cf339311055",
+      "name": "24352355d9d555e7626b4cf339311055",
+      "locales": "pl",
+      "size": 14090
+    },
+    {
+      "download_urls": [
+        "pt-BR.binaryproto"
+      ],
+      "md5_hash": "cd62ab3d1a324ef550d98decf537faf4",
+      "name": "cd62ab3d1a324ef550d98decf537faf4",
+      "locales": "pt-BR,pt-002",
+      "size": 13940
+    },
+    {
+      "download_urls": [
+        "pt-PT.binaryproto"
+      ],
+      "md5_hash": "25acd47cbb98d08df958bbb2b0fc63f9",
+      "name": "25acd47cbb98d08df958bbb2b0fc63f9",
+      "locales": "pt",
+      "size": 13445
+    },
+    {
+      "download_urls": [
+        "ro.binaryproto"
+      ],
+      "md5_hash": "e22719d8c4b8cc062a3cb3cdac7a3f7f",
+      "name": "e22719d8c4b8cc062a3cb3cdac7a3f7f",
+      "locales": "ro",
+      "size": 14200
+    },
+    {
+      "download_urls": [
+        "ru.binaryproto"
+      ],
+      "md5_hash": "9e6fbaefe0911d070a62c1a6c18854c9",
+      "name": "9e6fbaefe0911d070a62c1a6c18854c9",
+      "locales": "ru",
+      "size": 17431
+    },
+    {
+      "download_urls": [
+        "si.binaryproto"
+      ],
+      "md5_hash": "76787e9740267fecb75654bd4da92a5d",
+      "name": "76787e9740267fecb75654bd4da92a5d",
+      "locales": "si",
+      "size": 19188
+    },
+    {
+      "download_urls": [
+        "sk.binaryproto"
+      ],
+      "md5_hash": "1dbaaf49030859665c0a942dbeaf1019",
+      "name": "1dbaaf49030859665c0a942dbeaf1019",
+      "locales": "sk",
+      "size": 13849
+    },
+    {
+      "download_urls": [
+        "sl.binaryproto"
+      ],
+      "md5_hash": "2889fa7f8ff0b7f02b5c98b9c8af48e3",
+      "name": "2889fa7f8ff0b7f02b5c98b9c8af48e3",
+      "locales": "sl",
+      "size": 13460
+    },
+    {
+      "download_urls": [
+        "sq.binaryproto"
+      ],
+      "md5_hash": "8728162e6881eb5cb2142f718f835ecd",
+      "name": "8728162e6881eb5cb2142f718f835ecd",
+      "locales": "sq",
+      "size": 14104
+    },
+    {
+      "download_urls": [
+        "sr.binaryproto"
+      ],
+      "md5_hash": "f0b00acf8dda8b18fc522fd04c65e671",
+      "name": "f0b00acf8dda8b18fc522fd04c65e671",
+      "locales": "sr",
+      "size": 16984
+    },
+    {
+      "download_urls": [
+        "sv.binaryproto"
+      ],
+      "md5_hash": "6a2f0ebc2bb432d81ecb1b91a0d69752",
+      "name": "6a2f0ebc2bb432d81ecb1b91a0d69752",
+      "locales": "sv",
+      "size": 13580
+    },
+    {
+      "download_urls": [
+        "sw.binaryproto"
+      ],
+      "md5_hash": "e8f84383d601088f1167078de83d7f7b",
+      "name": "e8f84383d601088f1167078de83d7f7b",
+      "locales": "sw",
+      "size": 13535
+    },
+    {
+      "download_urls": [
+        "ta.binaryproto"
+      ],
+      "md5_hash": "c69d6d3714ba87e5566b9f10b5586015",
+      "name": "c69d6d3714ba87e5566b9f10b5586015",
+      "locales": "ta",
+      "size": 24585
+    },
+    {
+      "download_urls": [
+        "te.binaryproto"
+      ],
+      "md5_hash": "c09dea39cc3079783595d8cd889c6e2c",
+      "name": "c09dea39cc3079783595d8cd889c6e2c",
+      "locales": "te",
+      "size": 22071
+    },
+    {
+      "download_urls": [
+        "th.binaryproto"
+      ],
+      "md5_hash": "9585007bde15b62a23e73e5a07e18dab",
+      "name": "9585007bde15b62a23e73e5a07e18dab",
+      "locales": "th",
+      "size": 17004
+    },
+    {
+      "download_urls": [
+        "tl.binaryproto"
+      ],
+      "md5_hash": "483ce6ad716a09808b659ea8ad4eec4c",
+      "name": "483ce6ad716a09808b659ea8ad4eec4c",
+      "locales": "tl",
+      "size": 13855
+    },
+    {
+      "download_urls": [
+        "tr.binaryproto"
+      ],
+      "md5_hash": "a5d3cbdf86c9437e5e2eb999943a8600",
+      "name": "a5d3cbdf86c9437e5e2eb999943a8600",
+      "locales": "tr",
+      "size": 13622
+    },
+    {
+      "download_urls": [
+        "uk.binaryproto"
+      ],
+      "md5_hash": "23372c499be0651498e90a04f0145249",
+      "name": "23372c499be0651498e90a04f0145249",
+      "locales": "uk",
+      "size": 17236
+    },
+    {
+      "download_urls": [
+        "ur.binaryproto"
+      ],
+      "md5_hash": "730d6ae72cf88894c2d58bced7b2efc2",
+      "name": "730d6ae72cf88894c2d58bced7b2efc2",
+      "locales": "ur",
+      "size": 16687
+    },
+    {
+      "download_urls": [
+        "uz.binaryproto"
+      ],
+      "md5_hash": "1d254cd2e7ea6e6c83764de79754c11e",
+      "name": "1d254cd2e7ea6e6c83764de79754c11e",
+      "locales": "uz",
+      "size": 13683
+    },
+    {
+      "download_urls": [
+        "vi.binaryproto"
+      ],
+      "md5_hash": "32d728000a7003a7c11d528d5f452107",
+      "name": "32d728000a7003a7c11d528d5f452107",
+      "locales": "vi",
+      "size": 13976
+    },
+    {
+      "download_urls": [
+        "zh-HK.binaryproto"
+      ],
+      "md5_hash": "63f0a5edc691079c8b360be7c7902938",
+      "name": "63f0a5edc691079c8b360be7c7902938",
+      "locales": "zh-HK",
+      "size": 12657
+    },
+    {
+      "download_urls": [
+        "zh-TW.binaryproto"
+      ],
+      "md5_hash": "c5c37e938eec559132ebd6c6245d763a",
+      "name": "c5c37e938eec559132ebd6c6245d763a",
+      "locales": "zh-TW",
+      "size": 12147
+    },
+    {
+      "download_urls": [
+        "zh.binaryproto"
+      ],
+      "md5_hash": "3c27e76d2c13b8d849a3711831ff8dbd",
+      "name": "3c27e76d2c13b8d849a3711831ff8dbd",
+      "locales": "zh",
+      "size": 12578
+    },
+    {
+      "download_urls": [
+        "zu.binaryproto"
+      ],
+      "md5_hash": "ba936e90c2989e2fe111879efedfe27a",
+      "name": "ba936e90c2989e2fe111879efedfe27a",
+      "locales": "zu",
+      "size": 13897
+    },
+    {
+      "download_urls": [
+        "en.binaryproto"
+      ],
+      "md5_hash": "7a635888cb828dfa2fc744b7b9b50f04",
+      "name": "7a635888cb828dfa2fc744b7b9b50f04",
+      "locales": "en",
+      "size": 12440
+    }
+  ]
+}
