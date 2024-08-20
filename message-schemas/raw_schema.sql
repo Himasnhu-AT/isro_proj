@@ -1,0 +1,1 @@
+CREATE TABLE raw (_id INTEGER PRIMARY KEY,date INTEGER,reference_number INTEGER,count INTEGER,sequence INTEGER,destination_port INTEGER,address TEXT,sub_id INTEGER DEFAULT -1, pdu TEXT,deleted INTEGER DEFAULT 0,message_body TEXT,display_originating_addr TEXT);

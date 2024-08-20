@@ -1,0 +1,1 @@
+CREATE TABLE canonical_addresses (_id INTEGER PRIMARY KEY AUTOINCREMENT,address TEXT,sub_id INTEGER DEFAULT -1);

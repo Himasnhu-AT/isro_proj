@@ -1,0 +1,1 @@
+CREATE TABLE rate (sent_time INTEGER,sub_id INTEGER DEFAULT -1);
