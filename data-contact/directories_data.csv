@@ -1,0 +1,3 @@
+0|com.android.providers.contacts|com.android.contacts|2130903048|com.android.providers.contacts:string/default_directory||||0|2|3
+1|com.android.providers.contacts|com.android.contacts|2130903049|com.android.providers.contacts:string/local_invisible_directory||||0|2|3
+2|com.google.android.contacts|com.google.android.contacts.sdn.provider|2132084003|com.google.android.contacts:string/sdn_contacts_directory_search_label|com.google.android.contacts.sdn|Carrier service numbers|Carrier service numbers|0|0|1

@@ -1,0 +1,4 @@
+CREATE TABLE contacts (_id INTEGER PRIMARY KEY AUTOINCREMENT,name_raw_contact_id INTEGER REFERENCES raw_contacts(_id),photo_id INTEGER REFERENCES data(_id),photo_file_id INTEGER REFERENCES photo_files(_id),custom_ringtone TEXT,send_to_voicemail INTEGER NOT NULL DEFAULT 0,x_times_contacted INTEGER NOT NULL DEFAULT 0,x_last_time_contacted INTEGER,times_contacted INTEGER NOT NULL DEFAULT 0,last_time_contacted INTEGER,starred INTEGER NOT NULL DEFAULT 0,pinned INTEGER NOT NULL DEFAULT 0,has_phone_number INTEGER NOT NULL DEFAULT 0,lookup TEXT,status_update_id INTEGER REFERENCES data(_id),contact_last_updated_timestamp INTEGER);
+CREATE INDEX contacts_has_phone_index ON contacts (has_phone_number);
+CREATE INDEX contacts_name_raw_contact_id_index ON contacts (name_raw_contact_id);
+CREATE INDEX contacts_contact_last_updated_timestamp_index ON contacts(contact_last_updated_timestamp);

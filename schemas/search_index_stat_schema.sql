@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS 'search_index_stat'(id INTEGER PRIMARY KEY, value BLOB);

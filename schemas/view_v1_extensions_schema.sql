@@ -1,0 +1,2 @@
+CREATE VIEW view_v1_extensions AS SELECT data._id AS _id, data.raw_contact_id AS person, accounts.account_name, accounts.account_type, data1 AS name, data2 AS value FROM data JOIN mimetypes ON (data.mimetype_id = mimetypes._id) JOIN raw_contacts ON (data.raw_contact_id = raw_contacts._id) JOIN accounts ON (raw_contacts.account_id=accounts._id) WHERE mimetypes.mimetype='vnd.android.cursor.item/contact_extensions' AND raw_contacts.deleted=0
+/* view_v1_extensions(_id,person,account_name,account_type,name,value) */;

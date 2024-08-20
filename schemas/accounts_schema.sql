@@ -1,0 +1,2 @@
+CREATE TABLE accounts (_id INTEGER PRIMARY KEY AUTOINCREMENT,account_name TEXT, account_type TEXT, data_set TEXT, sim_slot_index INTEGER, sim_ef_type INTEGER, ungrouped_visible INTEGER NOT NULL DEFAULT 0,should_sync INTEGER NOT NULL DEFAULT 1,x_is_default INTEGER NOT NULL DEFAULT 0);
+CREATE TRIGGER accounts_insert_local_account AFTER INSERT ON accounts WHEN NEW.account_name IS NULL AND NEW.account_type IS NULL AND NEW.data_set IS NULL BEGIN UPDATE accounts SET ungrouped_visible = 1, should_sync = 0 WHERE _id = NEW._id; END;

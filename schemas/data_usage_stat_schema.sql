@@ -1,0 +1,2 @@
+CREATE TABLE data_usage_stat(stat_id INTEGER PRIMARY KEY AUTOINCREMENT, data_id INTEGER NOT NULL, usage_type INTEGER NOT NULL DEFAULT 0, x_times_used INTEGER NOT NULL DEFAULT 0, x_last_time_used INTEGER NOT NULL DEFAULT 0, times_used INTEGER NOT NULL DEFAULT 0, last_time_used INTEGER NOT NULL DEFAULT 0, FOREIGN KEY(data_id) REFERENCES data(_id));
+CREATE UNIQUE INDEX data_usage_stat_index ON data_usage_stat (data_id, usage_type);
